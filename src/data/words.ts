@@ -570,7 +570,7 @@ export const wordsDatabase: Word[] = [
     categoria: "food",
     frase_exemplo_ingles: "Purple grapes grow in large clusters on vines.",
     frase_exemplo_portugues: "Uvas roxas crescem em grandes cachos nas videiras.",
-    imagem_url: "https://images.pexels.com/photos/23042/pexels-photo-23042.jpg",
+    imagem_url: "https://images.pexels.com/photos/708777/pexels-photo-708777.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'grape' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -610,7 +610,7 @@ export const wordsDatabase: Word[] = [
     categoria: "food",
     frase_exemplo_ingles: "Ripe mango has a sweet, tropical flavor.",
     frase_exemplo_portugues: "Manga madura tem um sabor doce e tropical.",
-    imagem_url: "https://images.pexels.com/photos/918327/pexels-photo-918327.jpeg",
+    imagem_url: "https://images.pexels.com/photos/39303/mango-tropical-fruit-juicy-sweet-39303.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'mango' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -620,7 +620,7 @@ export const wordsDatabase: Word[] = [
     categoria: "food",
     frase_exemplo_ingles: "Sour lemon juice makes the fish taste better.",
     frase_exemplo_portugues: "Suco de limão azedo faz o peixe ficar mais saboroso.",
-    imagem_url: "https://images.pexels.com/photos/1414130/pexels-photo-1414130.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1002543/pexels-photo-1002543.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'lemon' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -640,7 +640,7 @@ export const wordsDatabase: Word[] = [
     categoria: "food",
     frase_exemplo_ingles: "Soft peaches are perfect for summer smoothies.",
     frase_exemplo_portugues: "Pêssegos macios são perfeitos para vitaminas de verão.",
-    imagem_url: "https://images.pexels.com/photos/209439/pexels-photo-209439.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1268122/pexels-photo-1268122.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'peach' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -660,7 +660,7 @@ export const wordsDatabase: Word[] = [
     categoria: "food",
     frase_exemplo_ingles: "Fresh coconut water is naturally hydrating.",
     frase_exemplo_portugues: "Água de coco fresca é naturalmente hidratante.",
-    imagem_url: "https://images.pexels.com/photos/1002543/pexels-photo-1002543.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1424457/pexels-photo-1424457.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'coconut' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -720,7 +720,7 @@ export const wordsDatabase: Word[] = [
     categoria: "food",
     frase_exemplo_ingles: "Fresh garlic adds strong flavor to pasta.",
     frase_exemplo_portugues: "Alho fresco adiciona sabor forte à massa.",
-    imagem_url: "https://images.pexels.com/photos/1435904/pexels-photo-1435904.jpeg",
+    imagem_url: "https://images.pexels.com/photos/928251/pexels-photo-928251.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'garlic' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -740,7 +740,7 @@ export const wordsDatabase: Word[] = [
     categoria: "food",
     frase_exemplo_ingles: "Crisp lettuce is the base of most salads.",
     frase_exemplo_portugues: "Alface crocante é a base da maioria das saladas.",
-    imagem_url: "https://images.pexels.com/photos/1656666/pexels-photo-1656666.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1199562/pexels-photo-1199562.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'lettuce' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -770,7 +770,7 @@ export const wordsDatabase: Word[] = [
     categoria: "food",
     frase_exemplo_ingles: "Fresh spinach leaves are great in smoothies.",
     frase_exemplo_portugues: "Folhas de espinafre fresco são ótimas em vitaminas.",
-    imagem_url: "https://images.pexels.com/photos/2255935/pexels-photo-2255935.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1751149/pexels-photo-1751149.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'spinach' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -850,7 +850,7 @@ export const wordsDatabase: Word[] = [
     categoria: "food",
     frase_exemplo_ingles: "Tender beef steak is perfect for special dinners.",
     frase_exemplo_portugues: "Bife de carne macia é perfeito para jantares especiais.",
-    imagem_url: "https://images.pexels.com/photos/361184/asparagus-steak-veal-chop-361184.jpeg",
+    imagem_url: "https://images.pexels.com/photos/618775/pexels-photo-618775.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'beef' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -880,7 +880,7 @@ export const wordsDatabase: Word[] = [
     categoria: "food",
     frase_exemplo_ingles: "Grilled shrimp with garlic is a tasty appetizer.",
     frase_exemplo_portugues: "Camarão grelhado com alho é um aperitivo saboroso.",
-    imagem_url: "https://images.pexels.com/photos/725991/pexels-photo-725991.jpeg",
+    imagem_url: "https://images.pexels.com/photos/725992/pexels-photo-725992.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'shrimp' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -980,7 +980,7 @@ export const wordsDatabase: Word[] = [
     categoria: "food",
     frase_exemplo_ingles: "Colorful candy brings joy to children's faces.",
     frase_exemplo_portugues: "Doces coloridos trazem alegria aos rostos das crianças.",
-    imagem_url: "https://images.pexels.com/photos/33162/candy-sweetmeats-colorful-color.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1906435/pexels-photo-1906435.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'candy' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -990,7 +990,7 @@ export const wordsDatabase: Word[] = [
     categoria: "food",
     frase_exemplo_ingles: "Natural honey is a healthy alternative to sugar.",
     frase_exemplo_portugues: "Mel natural é uma alternativa saudável ao açúcar.",
-    imagem_url: "https://images.pexels.com/photos/33162/honey-sweet-syrup-organic.jpeg",
+    imagem_url: "https://images.pexels.com/photos/33260/honey-sweet-syrup-organic.jpg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'honey' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
