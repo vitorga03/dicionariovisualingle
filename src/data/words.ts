@@ -389,7 +389,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The owl hoots softly in the dark forest.",
     frase_exemplo_portugues: "A coruja pia suavemente na floresta escura.",
     imagem_url: "https://images.pexels.com/photos/86596/owl-bird-eyes-eagle-owl-86596.jpeg",
-    prompt_pratica: "Pratique com 'owl': Fale sobre hábitos noturnos das corujas. Use verbos como 'hoot', 'hunt', 'perch'. Descreva visão e audição das corujas."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'owl' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 37,
@@ -399,7 +399,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The colorful parrot repeats words clearly.",
     frase_exemplo_portugues: "O papagaio colorido repete palavras claramente.",
     imagem_url: "https://images.pexels.com/photos/56733/pexels-photo-56733.jpeg",
-    prompt_pratica: "Pratique com 'parrot': Fale sobre capacidade de imitar sons. Use verbos como 'repeat', 'mimic', 'squawk'. Descreva cores e inteligência dos papagaios."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'parrot' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 38,
@@ -409,7 +409,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The peacock displays its magnificent tail feathers.",
     frase_exemplo_portugues: "O pavão exibe suas magníficas penas da cauda.",
     imagem_url: "https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg",
-    prompt_pratica: "Pratique com 'peacock': Fale sobre plumagem colorida. Use verbos como 'display', 'strut', 'show off'. Compare pavão macho e fêmea (peahen)."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'peacock' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 39,
@@ -419,7 +419,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The elegant swan glides across the lake.",
     frase_exemplo_portugues: "O cisne elegante desliza pelo lago.",
     imagem_url: "https://images.pexels.com/photos/133394/pexels-photo-133394.jpeg",
-    prompt_pratica: "Pratique com 'swan': Use adjetivos como 'elegant', 'graceful', 'white'. Fale sobre cisnes em lagos. Use expressões como 'swan song'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'swan' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 40,
@@ -429,7 +429,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The pink flamingo stands on one leg.",
     frase_exemplo_portugues: "O flamingo rosa fica em pé numa perna só.",
     imagem_url: "https://images.pexels.com/photos/133394/pexels-photo-133394.jpeg",
-    prompt_pratica: "Pratique com 'flamingo': Fale sobre cor rosa, habitat. Use verbos como 'wade', 'filter', 'flock'. Descreva comportamento único dos flamingos."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'flamingo' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 41,
