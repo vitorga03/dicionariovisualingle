@@ -1303,7 +1303,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "We watch the news on television every evening.",
     frase_exemplo_portugues: "Assistimos ao noticiário na televisão toda noite.",
     imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
-    prompt_pratica: "Pratique com 'television': Use também 'TV'. Fale sobre programas, canais. Use atividades como watching, changing channels, turning on/off."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'television' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 128,
@@ -1313,7 +1313,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Keep the milk cold in the refrigerator.",
     frase_exemplo_portugues: "Mantenha o leite gelado na geladeira.",
     imagem_url: "https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg",
-    prompt_pratica: "Pratique com 'refrigerator': Use também 'fridge'. Fale sobre conservar alimentos. Use atividades como storing food, keeping cold."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'refrigerator' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 129,
@@ -1323,7 +1323,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "I cook dinner on the gas stove every night.",
     frase_exemplo_portugues: "Cozinho o jantar no fogão a gás toda noite.",
     imagem_url: "https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg",
-    prompt_pratica: "Pratique com 'stove': Fale sobre cozinhar, diferentes tipos (gas, electric). Use atividades como cooking, boiling, frying."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'stove' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 130,
@@ -1333,7 +1333,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The cake is baking in the hot oven.",
     frase_exemplo_portugues: "O bolo está assando no forno quente.",
     imagem_url: "https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg",
-    prompt_pratica: "Pratique com 'oven': Fale sobre assar, diferentes temperaturas. Use atividades como baking, roasting, preheating."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'oven' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 131,
@@ -1343,7 +1343,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Heat the food quickly in the microwave.",
     frase_exemplo_portugues: "Aqueça a comida rapidamente no micro-ondas.",
     imagem_url: "https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg",
-    prompt_pratica: "Pratique com 'microwave': Fale sobre aquecimento rápido, conveniência. Use atividades como heating, defrosting, cooking quickly."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'microwave' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 132,
@@ -1353,7 +1353,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The dishwasher cleans all the dirty plates.",
     frase_exemplo_portugues: "A lava-louças limpa todos os pratos sujos.",
     imagem_url: "https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg",
-    prompt_pratica: "Pratique com 'dishwasher': Fale sobre limpeza automática, economia de tempo. Use atividades como loading, unloading, running a cycle."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'dishwasher' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 133,
@@ -1363,7 +1363,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The washing machine cleans our clothes efficiently.",
     frase_exemplo_portugues: "A máquina de lavar limpa nossas roupas eficientemente.",
     imagem_url: "https://images.pexels.com/photos/1454804/pexels-photo-1454804.jpeg",
-    prompt_pratica: "Pratique com 'washing machine': Fale sobre lavar roupas, diferentes ciclos. Use atividades como loading, adding detergent, selecting cycle."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'washing machine' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 134,
@@ -1373,7 +1373,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The dryer makes clothes soft and warm.",
     frase_exemplo_portugues: "A secadora deixa as roupas macias e quentes.",
     imagem_url: "https://images.pexels.com/photos/1454804/pexels-photo-1454804.jpeg",
-    prompt_pratica: "Pratique com 'dryer': Fale sobre secar roupas, diferentes configurações. Use atividades como drying, removing clothes, cleaning lint."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'dryer' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 135,
@@ -1383,7 +1383,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "I use the vacuum cleaner to clean the carpets.",
     frase_exemplo_portugues: "Uso o aspirador de pó para limpar os tapetes.",
     imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
-    prompt_pratica: "Pratique com 'vacuum cleaner': Use também 'vacuum' como verbo. Fale sobre limpeza, diferentes superfícies. Use atividades como vacuuming, cleaning."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'vacuum cleaner' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 136,
@@ -1393,7 +1393,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The air conditioner keeps the house cool in summer.",
     frase_exemplo_portugues: "O ar condicionado mantém a casa fresca no verão.",
     imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
-    prompt_pratica: "Pratique com 'air conditioner': Use também 'AC'. Fale sobre controle de temperatura, economia de energia. Use atividades como cooling, adjusting temperature."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'air conditioner' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 137,
@@ -1403,7 +1403,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The heater warms the room on cold winter days.",
     frase_exemplo_portugues: "O aquecedor esquenta o cômodo em dias frios de inverno.",
     imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
-    prompt_pratica: "Pratique com 'heater': Fale sobre aquecimento, diferentes tipos. Use atividades como warming, adjusting temperature, saving energy."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'heather' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 138,
@@ -1413,7 +1413,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The ceiling fan circulates air throughout the room.",
     frase_exemplo_portugues: "O ventilador de teto circula o ar por todo o cômodo.",
     imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
-    prompt_pratica: "Pratique com 'fan': Fale sobre circulação de ar, diferentes tipos (ceiling, table, floor). Use atividades como cooling, circulating air."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'fan' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 139,
@@ -1423,7 +1423,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Beautiful curtains frame the living room window.",
     frase_exemplo_portugues: "Cortinas bonitas emolduram a janela da sala de estar.",
     imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
-    prompt_pratica: "Pratique com 'curtain': Fale sobre decoração, privacidade. Use atividades como opening, closing, hanging. Compare com 'blinds'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'curtain' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 140,
@@ -1433,7 +1433,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The soft carpet feels comfortable under bare feet.",
     frase_exemplo_portugues: "O tapete macio é confortável sob os pés descalços.",
     imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
-    prompt_pratica: "Pratique com 'carpet': Fale sobre conforto, decoração. Use atividades como walking on, vacuuming, cleaning. Compare com 'rug'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'carpet' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 141,
