@@ -1232,7 +1232,7 @@ export const wordsDatabase: Word[] = [
     categoria: "house",
     frase_exemplo_ingles: "The soft sofa is great for watching movies.",
     frase_exemplo_portugues: "O sofá macio é ótimo para assistir filmes.",
-    imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
+    imagem_url: "https://images.pexels.com/photos/3757055/pexels-photo-3757055.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'sofa' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1242,7 +1242,7 @@ export const wordsDatabase: Word[] = [
     categoria: "house",
     frase_exemplo_ingles: "I make my bed every morning after waking up.",
     frase_exemplo_portugues: "Arrumo minha cama toda manhã depois de acordar.",
-    imagem_url: "https://images.pexels.com/photos/1454804/pexels-photo-1454804.jpeg",
+    imagem_url: "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'bed' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1252,7 +1252,7 @@ export const wordsDatabase: Word[] = [
     categoria: "house",
     frase_exemplo_ingles: "A soft pillow helps me sleep better at night.",
     frase_exemplo_portugues: "Um travesseiro macio me ajuda a dormir melhor à noite.",
-    imagem_url: "https://images.pexels.com/photos/1454804/pexels-photo-1454804.jpeg",
+    imagem_url: "https://images.pexels.com/photos/776120/pexels-photo-776120.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'pillow' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1262,7 +1262,7 @@ export const wordsDatabase: Word[] = [
     categoria: "house",
     frase_exemplo_ingles: "The warm blanket keeps me cozy on cold nights.",
     frase_exemplo_portugues: "O cobertor quente me mantém aconchegado em noites frias.",
-    imagem_url: "https://images.pexels.com/photos/1454804/pexels-photo-1454804.jpeg",
+    imagem_url: "https://images.pexels.com/photos/269141/pexels-photo-269141.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'blanket' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1272,7 +1272,7 @@ export const wordsDatabase: Word[] = [
     categoria: "house",
     frase_exemplo_ingles: "I organize my clothes in the bedroom closet.",
     frase_exemplo_portugues: "Organizo minhas roupas no armário do quarto.",
-    imagem_url: "https://images.pexels.com/photos/1454804/pexels-photo-1454804.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1682699/pexels-photo-1682699.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'closet' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1282,7 +1282,7 @@ export const wordsDatabase: Word[] = [
     categoria: "house",
     frase_exemplo_ingles: "I check my appearance in the bathroom mirror.",
     frase_exemplo_portugues: "Verifico minha aparência no espelho do banheiro.",
-    imagem_url: "https://images.pexels.com/photos/1454804/pexels-photo-1454804.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1502800/pexels-photo-1502800.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'mirror' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1292,7 +1292,7 @@ export const wordsDatabase: Word[] = [
     categoria: "house",
     frase_exemplo_ingles: "The reading lamp provides perfect light for books.",
     frase_exemplo_portugues: "A luminária de leitura fornece luz perfeita para livros.",
-    imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1556704/pexels-photo-1556704.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'lamp' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1302,7 +1302,7 @@ export const wordsDatabase: Word[] = [
     categoria: "house",
     frase_exemplo_ingles: "We watch the news on television every evening.",
     frase_exemplo_portugues: "Assistimos ao noticiário na televisão toda noite.",
-    imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1682519/pexels-photo-1682519.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'television' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1312,7 +1312,7 @@ export const wordsDatabase: Word[] = [
     categoria: "house",
     frase_exemplo_ingles: "Keep the milk cold in the refrigerator.",
     frase_exemplo_portugues: "Mantenha o leite gelado na geladeira.",
-    imagem_url: "https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg",
+    imagem_url: "https://images.pexels.com/photos/3867001/pexels-photo-3867001.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'refrigerator' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1322,7 +1322,7 @@ export const wordsDatabase: Word[] = [
     categoria: "house",
     frase_exemplo_ingles: "I cook dinner on the gas stove every night.",
     frase_exemplo_portugues: "Cozinho o jantar no fogão a gás toda noite.",
-    imagem_url: "https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg",
+    imagem_url: "https://images.pexels.com/photos/195029/pexels-photo-195029.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'stove' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1332,7 +1332,7 @@ export const wordsDatabase: Word[] = [
     categoria: "house",
     frase_exemplo_ingles: "The cake is baking in the hot oven.",
     frase_exemplo_portugues: "O bolo está assando no forno quente.",
-    imagem_url: "https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg",
+    imagem_url: "https://images.pexels.com/photos/3082785/pexels-photo-3082785.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'oven' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
