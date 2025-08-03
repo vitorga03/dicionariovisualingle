@@ -289,7 +289,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The spider weaves an intricate web.",
     frase_exemplo_portugues: "A aranha tece uma teia intrincada.",
     imagem_url: "https://images.pexels.com/photos/40795/spider-macro-zebra-spider-insect-40795.jpeg",
-    prompt_pratica: "Pratique com 'spider': Fale sobre teias de aranha, diferentes tipos. Use verbos como 'weave', 'crawl', 'catch'. Descreva características das aranhas."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'spider' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 27,
@@ -299,7 +299,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The ant carries food back to the colony.",
     frase_exemplo_portugues: "A formiga carrega comida de volta para a colônia.",
     imagem_url: "https://images.pexels.com/photos/86722/pexels-photo-86722.jpeg",
-    prompt_pratica: "Pratique com 'ant': Fale sobre trabalho em equipe das formigas. Use expressões como 'busy as an ant'. Descreva organização das colônias."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'ant' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 28,
@@ -309,7 +309,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The whale sings beautiful songs in the ocean.",
     frase_exemplo_portugues: "A baleia canta belas canções no oceano.",
     imagem_url: "https://images.pexels.com/photos/892548/pexels-photo-892548.jpeg",
-    prompt_pratica: "Pratique com 'whale': Fale sobre diferentes tipos de baleias. Use verbos como 'dive', 'breach', 'migrate'. Descreva tamanho e comportamento das baleias."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'whale' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 29,
@@ -319,7 +319,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The dolphin jumps high out of the water.",
     frase_exemplo_portugues: "O golfinho pula alto para fora da água.",
     imagem_url: "https://images.pexels.com/photos/64219/dolphin-marine-mammals-water-sea-64219.jpeg",
-    prompt_pratica: "Pratique com 'dolphin': Fale sobre inteligência dos golfinhos. Use verbos como 'jump', 'swim', 'play'. Descreva comunicação entre golfinhos."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'dolphin' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 30,
@@ -329,7 +329,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The shark swims powerfully through deep waters.",
     frase_exemplo_portugues: "O tubarão nada poderosamente pelas águas profundas.",
     imagem_url: "https://images.pexels.com/photos/544551/pexels-photo-544551.jpeg",
-    prompt_pratica: "Pratique com 'shark': Fale sobre diferentes tipos de tubarões. Use adjetivos como 'dangerous', 'powerful', 'fast'. Descreva características dos tubarões."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'shark' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 31,
