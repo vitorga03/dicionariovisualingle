@@ -1143,7 +1143,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Sunlight streams through the large window.",
     frase_exemplo_portugues: "A luz do sol entra pela janela grande.",
     imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
-    prompt_pratica: "Pratique com 'window': Fale sobre luz natural, ventilação. Use verbos como open, close, look through. Descreva cortinas e persianas."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'window' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 112,
@@ -1153,7 +1153,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "We painted the wall a beautiful shade of blue.",
     frase_exemplo_portugues: "Pintamos a parede de um belo tom de azul.",
     imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
-    prompt_pratica: "Pratique com 'wall': Fale sobre decoração, cores, quadros. Use atividades como painting, hanging pictures, leaning against."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'wall' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 113,
@@ -1163,7 +1163,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The wooden floor creaks when you walk on it.",
     frase_exemplo_portugues: "O chão de madeira range quando você caminha sobre ele.",
     imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
-    prompt_pratica: "Pratique com 'floor': Fale sobre diferentes materiais (wood, tile, carpet). Use atividades como sweeping, mopping, walking on."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'floor' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 114,
@@ -1173,7 +1173,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The ceiling fan helps cool the room in summer.",
     frase_exemplo_portugues: "O ventilador de teto ajuda a refrescar o cômodo no verão.",
     imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
-    prompt_pratica: "Pratique com 'ceiling': Fale sobre altura, ventiladores, lustres. Use expressões como 'hit the ceiling' (ficar furioso)."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'ceiling' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 115,
@@ -1183,7 +1183,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The red roof protects the house from rain.",
     frase_exemplo_portugues: "O telhado vermelho protege a casa da chuva.",
     imagem_url: "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg",
-    prompt_pratica: "Pratique com 'roof': Fale sobre proteção, materiais (tiles, shingles). Use expressões como 'roof over your head'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'roof' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 116,
@@ -1193,7 +1193,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Be careful walking down the steep stairs.",
     frase_exemplo_portugues: "Tenha cuidado ao descer as escadas íngremes.",
     imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
-    prompt_pratica: "Pratique com 'stairs': Note que é sempre plural. Use verbos como go up, go down, climb, fall down. Fale sobre corrimão (handrail)."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'stairs' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 117,
@@ -1203,7 +1203,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "We bought new furniture for the living room.",
     frase_exemplo_portugues: "Compramos móveis novos para a sala de estar.",
     imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
-    prompt_pratica: "Pratique com 'furniture': É substantivo incontável. Fale sobre diferentes peças (chair, table, sofa). Use 'piece of furniture'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'furniture' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 118,
@@ -1213,7 +1213,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The comfortable chair is perfect for reading.",
     frase_exemplo_portugues: "A cadeira confortável é perfeita para ler.",
     imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
-    prompt_pratica: "Pratique com 'chair': Fale sobre diferentes tipos (armchair, office chair). Use verbos como sit, stand up, pull up a chair."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'chair' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 119,
@@ -1223,7 +1223,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "We eat dinner together at the kitchen table.",
     frase_exemplo_portugues: "Jantamos juntos na mesa da cozinha.",
     imagem_url: "https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg",
-    prompt_pratica: "Pratique com 'table': Fale sobre diferentes tipos (dining table, coffee table). Use atividades como setting the table, clearing the table."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'table' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 120,
@@ -1233,7 +1233,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The soft sofa is great for watching movies.",
     frase_exemplo_portugues: "O sofá macio é ótimo para assistir filmes.",
     imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
-    prompt_pratica: "Pratique com 'sofa': Compare com 'couch'. Fale sobre conforto, relaxamento. Use atividades como lying down, sitting, napping."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'sofa' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 121,
@@ -1243,7 +1243,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "I make my bed every morning after waking up.",
     frase_exemplo_portugues: "Arrumo minha cama toda manhã depois de acordar.",
     imagem_url: "https://images.pexels.com/photos/1454804/pexels-photo-1454804.jpeg",
-    prompt_pratica: "Pratique com 'bed': Fale sobre dormir, descansar. Use expressões como 'make the bed', 'go to bed', 'get out of bed'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'bed' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 122,
@@ -1253,7 +1253,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "A soft pillow helps me sleep better at night.",
     frase_exemplo_portugues: "Um travesseiro macio me ajuda a dormir melhor à noite.",
     imagem_url: "https://images.pexels.com/photos/1454804/pexels-photo-1454804.jpeg",
-    prompt_pratica: "Pratique com 'pillow': Fale sobre conforto, sono. Use adjetivos como soft, fluffy, comfortable. Descreva diferentes tamanhos."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'pillow' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 123,
@@ -1263,7 +1263,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The warm blanket keeps me cozy on cold nights.",
     frase_exemplo_portugues: "O cobertor quente me mantém aconchegado em noites frias.",
     imagem_url: "https://images.pexels.com/photos/1454804/pexels-photo-1454804.jpeg",
-    prompt_pratica: "Pratique com 'blanket': Fale sobre calor, conforto. Use adjetivos como warm, soft, thick. Compare com 'sheet' e 'comforter'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'blanket' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 124,
@@ -1273,7 +1273,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "I organize my clothes in the bedroom closet.",
     frase_exemplo_portugues: "Organizo minhas roupas no armário do quarto.",
     imagem_url: "https://images.pexels.com/photos/1454804/pexels-photo-1454804.jpeg",
-    prompt_pratica: "Pratique com 'closet': Fale sobre organização, roupas. Use atividades como hanging clothes, organizing, finding clothes."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'closet' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 125,
@@ -1283,7 +1283,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "I check my appearance in the bathroom mirror.",
     frase_exemplo_portugues: "Verifico minha aparência no espelho do banheiro.",
     imagem_url: "https://images.pexels.com/photos/1454804/pexels-photo-1454804.jpeg",
-    prompt_pratica: "Pratique com 'mirror': Fale sobre reflexo, aparência. Use atividades como looking in, checking appearance, brushing hair."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'mirror' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 126,
@@ -1293,7 +1293,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The reading lamp provides perfect light for books.",
     frase_exemplo_portugues: "A luminária de leitura fornece luz perfeita para livros.",
     imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
-    prompt_pratica: "Pratique com 'lamp': Fale sobre iluminação, diferentes tipos. Use verbos como turn on, turn off, adjust. Compare table lamp e floor lamp."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'lamp' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 127,
