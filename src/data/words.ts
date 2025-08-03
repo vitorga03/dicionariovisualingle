@@ -339,7 +339,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The octopus changes color to hide from predators.",
     frase_exemplo_portugues: "O polvo muda de cor para se esconder dos predadores.",
     imagem_url: "https://images.pexels.com/photos/3046639/pexels-photo-3046639.jpeg",
-    prompt_pratica: "Pratique com 'octopus': Fale sobre tentáculos, inteligência dos polvos. Use verbos como 'camouflage', 'squeeze', 'grab'. Descreva habilidades únicas."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'octopus' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 32,
@@ -349,7 +349,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The crab scuttles sideways across the beach.",
     frase_exemplo_portugues: "O caranguejo corre de lado pela praia.",
     imagem_url: "https://images.pexels.com/photos/1618606/pexels-photo-1618606.jpeg",
-    prompt_pratica: "Pratique com 'crab': Use verbos como 'scuttle', 'pinch', 'hide'. Fale sobre caranguejos na praia e no mar. Descreva garras e caranguejos."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'crab' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 33,
@@ -359,7 +359,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The lobster hides under rocks on the ocean floor.",
     frase_exemplo_portugues: "A lagosta se esconde sob rochas no fundo do oceano.",
     imagem_url: "https://images.pexels.com/photos/725991/pexels-photo-725991.jpeg",
-    prompt_pratica: "Pratique com 'lobster': Fale sobre lagostas como comida e animal marinho. Use verbos como 'crawl', 'molt', 'catch'. Compare lagosta e caranguejo."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'lobster' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 34,
@@ -369,7 +369,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The penguin waddles across the icy ground.",
     frase_exemplo_portugues: "O pinguim caminha desajeitadamente pelo chão gelado.",
     imagem_url: "https://images.pexels.com/photos/86405/penguin-funny-blue-water-86405.jpeg",
-    prompt_pratica: "Pratique com 'penguin': Fale sobre vida na Antártica. Use verbos como 'waddle', 'swim', 'huddle'. Descreva comportamento social dos pinguins."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'penguin' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 35,
@@ -379,7 +379,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The eagle soars high above the mountains.",
     frase_exemplo_portugues: "A águia voa alto acima das montanhas.",
     imagem_url: "https://images.pexels.com/photos/133394/pexels-photo-133394.jpeg",
-    prompt_pratica: "Pratique com 'eagle': Use verbos como 'soar', 'hunt', 'dive'. Fale sobre águias como símbolos. Use expressões como 'eagle eye'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'eagle' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 36,
