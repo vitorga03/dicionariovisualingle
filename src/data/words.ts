@@ -89,7 +89,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The elephant is the largest land animal.",
     frase_exemplo_portugues: "O elefante é o maior animal terrestre.",
     imagem_url: "https://images.pexels.com/photos/66898/elephant-cub-tsavo-kenya-66898.jpeg",
-    prompt_pratica: "Pratique com 'elephant': Compare elefantes com outros animais usando comparativos. Fale sobre habitat, características físicas e comportamento dos elefantes."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'elephant' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 7,
@@ -99,7 +99,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The lion roars loudly in the jungle.",
     frase_exemplo_portugues: "O leão ruge alto na selva.",
     imagem_url: "https://images.pexels.com/photos/247502/pexels-photo-247502.jpeg",
-    prompt_pratica: "Pratique com 'lion': Use 'lion' em expressões como 'brave as a lion'. Descreva a vida dos leões na savana. Compare leões machos e fêmeas."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'lion' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 8,
@@ -109,7 +109,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The tiger has beautiful orange stripes.",
     frase_exemplo_portugues: "O tigre tem lindas listras laranja.",
     imagem_url: "https://images.pexels.com/photos/792381/pexels-photo-792381.jpeg",
-    prompt_pratica: "Pratique com 'tiger': Descreva as características físicas dos tigres. Compare tigres com outros felinos. Use 'tiger' em metáforas e expressões."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'tiger' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 9,
@@ -119,7 +119,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The monkey swings from tree to tree.",
     frase_exemplo_portugues: "O macaco balança de árvore em árvore.",
     imagem_url: "https://images.pexels.com/photos/50988/ape-berber-monkeys-mammal-affchen-50988.jpeg",
-    prompt_pratica: "Pratique com 'monkey': Fale sobre diferentes tipos de macacos. Use verbos como 'swing', 'climb', 'jump' com 'monkey'. Descreva comportamentos dos macacos."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'monkey' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 10,
@@ -129,7 +129,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The rabbit hops quickly through the garden.",
     frase_exemplo_portugues: "O coelho pula rapidamente pelo jardim.",
     imagem_url: "https://images.pexels.com/photos/104373/pexels-photo-104373.jpeg",
-    prompt_pratica: "Pratique com 'rabbit': Use 'rabbit' com verbos como 'hop', 'nibble', 'hide'. Fale sobre coelhos domésticos vs. selvagens. Crie histórias com coelhos."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'rabbit' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 11,
