@@ -641,7 +641,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Soft peaches are perfect for summer smoothies.",
     frase_exemplo_portugues: "Pêssegos macios são perfeitos para vitaminas de verão.",
     imagem_url: "https://images.pexels.com/photos/209439/pexels-photo-209439.jpeg",
-    prompt_pratica: "Pratique com 'peach': Fale sobre textura macia, sabor doce. Use adjetivos como 'soft', 'fuzzy', 'sweet'. Compare com nectarina."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'peach' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 62,
@@ -651,7 +651,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Juicy pears are excellent for healthy snacks.",
     frase_exemplo_portugues: "Peras suculentas são excelentes para lanches saudáveis.",
     imagem_url: "https://images.pexels.com/photos/568471/pexels-photo-568471.jpeg",
-    prompt_pratica: "Pratique com 'pear': Fale sobre formato único, fibras. Use adjetivos como 'juicy', 'sweet', 'crisp'. Compare diferentes variedades."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'pear' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 63,
@@ -661,7 +661,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Fresh coconut water is naturally hydrating.",
     frase_exemplo_portugues: "Água de coco fresca é naturalmente hidratante.",
     imagem_url: "https://images.pexels.com/photos/1002543/pexels-photo-1002543.jpeg",
-    prompt_pratica: "Pratique com 'coconut': Fale sobre água de coco, óleo de coco. Use em receitas tropicais. Descreva casca dura e polpa branca."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'coconut' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 64,
@@ -671,7 +671,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Creamy avocado is rich in healthy fats.",
     frase_exemplo_portugues: "Abacate cremoso é rico em gorduras saudáveis.",
     imagem_url: "https://images.pexels.com/photos/557659/pexels-photo-557659.jpeg",
-    prompt_pratica: "Pratique com 'avocado': Fale sobre gorduras boas, guacamole. Use adjetivos como 'creamy', 'nutritious', 'green'. Descreva usos culinários."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'avocado' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 65,
@@ -681,7 +681,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Fresh tomatoes make the salad more colorful.",
     frase_exemplo_portugues: "Tomates frescos deixam a salada mais colorida.",
     imagem_url: "https://images.pexels.com/photos/533280/pexels-photo-533280.jpeg",
-    prompt_pratica: "Pratique com 'tomato': Note que botanicamente é fruta, culinariamente é vegetal. Fale sobre molhos, saladas. Use em receitas italianas."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'tomato' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 66,
@@ -691,7 +691,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Baked potatoes are a healthy side dish.",
     frase_exemplo_portugues: "Batatas assadas são um acompanhamento saudável.",
     imagem_url: "https://images.pexels.com/photos/144248/potatoes-vegetables-erdfrucht-bio-144248.jpeg",
-    prompt_pratica: "Pratique com 'potato': Fale sobre diferentes preparos (mashed, baked, fried). Use 'potatoes' no plural. Descreva importância nutricional."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'potato' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 67,
@@ -701,7 +701,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Orange carrots are good for your eyesight.",
     frase_exemplo_portugues: "Cenouras laranja são boas para a visão.",
     imagem_url: "https://images.pexels.com/photos/143133/pexels-photo-143133.jpeg",
-    prompt_pratica: "Pratique com 'carrot': Fale sobre vitamina A, beta-caroteno. Use expressões como 'carrot and stick'. Descreva cor laranja característica."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'carrot' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 68,
@@ -711,7 +711,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Chopping onions always makes me cry.",
     frase_exemplo_portugues: "Cortar cebolas sempre me faz chorar.",
     imagem_url: "https://images.pexels.com/photos/533342/pexels-photo-533342.jpeg",
-    prompt_pratica: "Pratique com 'onion': Fale sobre chorar ao cortar, sabor forte. Use em receitas básicas. Descreva diferentes tipos (red, white, yellow)."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'onion' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 69,
@@ -721,7 +721,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Fresh garlic adds strong flavor to pasta.",
     frase_exemplo_portugues: "Alho fresco adiciona sabor forte à massa.",
     imagem_url: "https://images.pexels.com/photos/1435904/pexels-photo-1435904.jpeg",
-    prompt_pratica: "Pratique com 'garlic': Fale sobre tempero, propriedades medicinais. Use 'clove of garlic' para dente de alho. Descreva aroma característico."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'garlic' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 70,
@@ -731,7 +731,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Colorful bell peppers brighten up any dish.",
     frase_exemplo_portugues: "Pimentões coloridos alegram qualquer prato.",
     imagem_url: "https://images.pexels.com/photos/594137/pexels-photo-594137.jpeg",
-    prompt_pratica: "Pratique com 'pepper': Diferencie 'bell pepper' (pimentão) de 'black pepper' (pimenta). Fale sobre cores diferentes. Use em saladas e refogados."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'pepper' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 71,
