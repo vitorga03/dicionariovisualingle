@@ -338,7 +338,7 @@ export const wordsDatabase: Word[] = [
     categoria: "animals",
     frase_exemplo_ingles: "The octopus changes color to hide from predators.",
     frase_exemplo_portugues: "O polvo muda de cor para se esconder dos predadores.",
-    imagem_url: "https://images.pexels.com/photos/3046639/pexels-photo-3046639.jpeg",
+    imagem_url: "https://images.pexels.com/photos/3046629/pexels-photo-3046629.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'octopus' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -348,7 +348,7 @@ export const wordsDatabase: Word[] = [
     categoria: "animals",
     frase_exemplo_ingles: "The crab scuttles sideways across the beach.",
     frase_exemplo_portugues: "O caranguejo corre de lado pela praia.",
-    imagem_url: "https://images.pexels.com/photos/1618606/pexels-photo-1618606.jpeg",
+    imagem_url: "https://images.pexels.com/photos/76966/crab-red-klippenkrabbe-grapsus-grapsus-shellfish-76966.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'crab' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -358,7 +358,7 @@ export const wordsDatabase: Word[] = [
     categoria: "animals",
     frase_exemplo_ingles: "The lobster hides under rocks on the ocean floor.",
     frase_exemplo_portugues: "A lagosta se esconde sob rochas no fundo do oceano.",
-    imagem_url: "https://images.pexels.com/photos/725991/pexels-photo-725991.jpeg",
+    imagem_url: "https://images.pexels.com/photos/940301/pexels-photo-940301.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'lobster' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -378,7 +378,7 @@ export const wordsDatabase: Word[] = [
     categoria: "animals",
     frase_exemplo_ingles: "The eagle soars high above the mountains.",
     frase_exemplo_portugues: "A águia voa alto acima das montanhas.",
-    imagem_url: "https://images.pexels.com/photos/133394/pexels-photo-133394.jpeg",
+    imagem_url: "https://images.pexels.com/photos/3250638/pexels-photo-3250638.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'eagle' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -418,7 +418,7 @@ export const wordsDatabase: Word[] = [
     categoria: "animals",
     frase_exemplo_ingles: "The elegant swan glides across the lake.",
     frase_exemplo_portugues: "O cisne elegante desliza pelo lago.",
-    imagem_url: "https://images.pexels.com/photos/133394/pexels-photo-133394.jpeg",
+    imagem_url: "https://images.pexels.com/photos/133442/pexels-photo-133442.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'swan' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -428,7 +428,7 @@ export const wordsDatabase: Word[] = [
     categoria: "animals",
     frase_exemplo_ingles: "The pink flamingo stands on one leg.",
     frase_exemplo_portugues: "O flamingo rosa fica em pé numa perna só.",
-    imagem_url: "https://images.pexels.com/photos/133394/pexels-photo-133394.jpeg",
+    imagem_url: "https://images.pexels.com/photos/441222/pexels-photo-441222.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'flamingo' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -438,7 +438,7 @@ export const wordsDatabase: Word[] = [
     categoria: "animals",
     frase_exemplo_ingles: "The kangaroo hops across the Australian outback.",
     frase_exemplo_portugues: "O canguru pula pelo interior australiano.",
-    imagem_url: "https://images.pexels.com/photos/133394/pexels-photo-133394.jpeg",
+    imagem_url: "https://images.pexels.com/photos/2122423/pexels-photo-2122423.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'kangaroo' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -448,7 +448,7 @@ export const wordsDatabase: Word[] = [
     categoria: "animals",
     frase_exemplo_ingles: "The sleepy koala clings to the eucalyptus tree.",
     frase_exemplo_portugues: "O coala sonolento se agarra à árvore de eucalipto.",
-    imagem_url: "https://images.pexels.com/photos/133394/pexels-photo-133394.jpeg",
+    imagem_url: "https://images.pexels.com/photos/162339/koala-cute-tree-zoo-162339.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'koala' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -458,7 +458,7 @@ export const wordsDatabase: Word[] = [
     categoria: "animals",
     frase_exemplo_ingles: "The giant panda munches on bamboo shoots.",
     frase_exemplo_portugues: "O panda gigante mastiga brotos de bambu.",
-    imagem_url: "https://images.pexels.com/photos/133394/pexels-photo-133394.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1661535/pexels-photo-1661535.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'panda' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -468,7 +468,7 @@ export const wordsDatabase: Word[] = [
     categoria: "animals",
     frase_exemplo_ingles: "The tall giraffe reaches leaves on high branches.",
     frase_exemplo_portugues: "A girafa alta alcança folhas nos galhos altos.",
-    imagem_url: "https://images.pexels.com/photos/133394/pexels-photo-133394.jpeg",
+    imagem_url: "https://images.pexels.com/photos/259554/pexels-photo-259554.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'giraffe' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
