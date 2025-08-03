@@ -1043,7 +1043,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "My house has a beautiful garden in the backyard.",
     frase_exemplo_portugues: "Minha casa tem um jardim bonito no quintal.",
     imagem_url: "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg",
-    prompt_pratica: "Pratique com 'house': Descreva diferentes tipos de casas. Compare 'house' e 'home'. Fale sobre cômodos, jardim, vizinhança."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'house' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 102,
@@ -1053,7 +1053,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "This room is very bright and spacious.",
     frase_exemplo_portugues: "Este cômodo é muito claro e espaçoso.",
     imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
-    prompt_pratica: "Pratique com 'room': Fale sobre diferentes cômodos (bedroom, living room, bathroom). Use adjetivos como 'spacious', 'cozy', 'bright'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'room' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 103,
@@ -1063,7 +1063,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The kitchen is the heart of every home.",
     frase_exemplo_portugues: "A cozinha é o coração de toda casa.",
     imagem_url: "https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg",
-    prompt_pratica: "Pratique com 'kitchen': Fale sobre eletrodomésticos, utensílios de cozinha. Descreva atividades como cooking, baking, washing dishes."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'kitchen' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 104,
@@ -1073,7 +1073,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The bathroom has a large mirror and bathtub.",
     frase_exemplo_portugues: "O banheiro tem um espelho grande e banheira.",
     imagem_url: "https://images.pexels.com/photos/1454804/pexels-photo-1454804.jpeg",
-    prompt_pratica: "Pratique com 'bathroom': Fale sobre itens do banheiro (toilet, shower, sink). Use atividades como brushing teeth, taking a shower."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'bathroom' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 105,
@@ -1083,7 +1083,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "My bedroom is quiet and comfortable for sleeping.",
     frase_exemplo_portugues: "Meu quarto é silencioso e confortável para dormir.",
     imagem_url: "https://images.pexels.com/photos/1454804/pexels-photo-1454804.jpeg",
-    prompt_pratica: "Pratique com 'bedroom': Fale sobre móveis (bed, dresser, closet). Descreva atividades como sleeping, getting dressed, relaxing."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'bedroom' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 106,
@@ -1093,7 +1093,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "We watch TV together in the living room.",
     frase_exemplo_portugues: "Assistimos TV juntos na sala de estar.",
     imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
-    prompt_pratica: "Pratique com 'living room': Fale sobre móveis (sofa, coffee table, TV). Descreva atividades familiares como watching TV, reading, talking."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'living room' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 107,
@@ -1103,7 +1103,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The dining room table seats eight people comfortably.",
     frase_exemplo_portugues: "A mesa da sala de jantar acomoda oito pessoas confortavelmente.",
     imagem_url: "https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg",
-    prompt_pratica: "Pratique com 'dining room': Fale sobre refeições em família, móveis (table, chairs). Descreva ocasiões especiais e jantares formais."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'dining room' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 108,
@@ -1113,7 +1113,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Dad parks his car in the garage every night.",
     frase_exemplo_portugues: "Papai estaciona o carro na garagem toda noite.",
     imagem_url: "https://images.pexels.com/photos/1454804/pexels-photo-1454804.jpeg",
-    prompt_pratica: "Pratique com 'garage': Fale sobre carros, ferramentas, armazenamento. Use atividades como parking, fixing cars, storing items."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'garage' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 109,
@@ -1123,7 +1123,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Beautiful flowers bloom in our garden every spring.",
     frase_exemplo_portugues: "Flores bonitas florescem em nosso jardim toda primavera.",
     imagem_url: "https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg",
-    prompt_pratica: "Pratique com 'garden': Fale sobre plantas, flores, jardinagem. Use atividades como planting, watering, weeding, harvesting."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'garden' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 110,
@@ -1133,7 +1133,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Please close the door when you leave the room.",
     frase_exemplo_portugues: "Por favor, feche a porta quando sair do cômodo.",
     imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
-    prompt_pratica: "Pratique com 'door': Fale sobre diferentes tipos (front door, back door). Use verbos como open, close, knock, lock, unlock."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'door' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 111,
