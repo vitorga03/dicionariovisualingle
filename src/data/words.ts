@@ -139,7 +139,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The bear catches fish in the river.",
     frase_exemplo_portugues: "O urso pesca no rio.",
     imagem_url: "https://images.pexels.com/photos/1770918/pexels-photo-1770918.jpeg",
-    prompt_pratica: "Pratique com 'bear': Fale sobre diferentes tipos de ursos (polar, pardo, panda). Use 'bear' como verbo (suportar). Descreva hibernação."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'bear' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 12,
@@ -149,7 +149,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The wolf howls at the full moon.",
     frase_exemplo_portugues: "O lobo uiva para a lua cheia.",
     imagem_url: "https://images.pexels.com/photos/1123771/pexels-photo-1123771.jpeg",
-    prompt_pratica: "Pratique com 'wolf': Use expressões como 'lone wolf', 'wolf pack'. Fale sobre comportamento dos lobos. Compare lobos e cachorros."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'wolf' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 13,
@@ -159,7 +159,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The clever fox hunts at night.",
     frase_exemplo_portugues: "A raposa esperta caça à noite.",
     imagem_url: "https://images.pexels.com/photos/39310/fox-animal-nature-red-39310.jpeg",
-    prompt_pratica: "Pratique com 'fox': Use adjetivos como 'sly', 'clever', 'red' com 'fox'. Fale sobre raposas em fábulas e histórias. Descreva habitat das raposas."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'fox' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 14,
@@ -169,7 +169,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The deer grazes peacefully in the meadow.",
     frase_exemplo_portugues: "O veado pasta pacificamente no prado.",
     imagem_url: "https://images.pexels.com/photos/247502/pexels-photo-247502.jpeg",
-    prompt_pratica: "Pratique com 'deer': Note que 'deer' é igual no singular e plural. Use com verbos como 'graze', 'leap', 'run'. Fale sobre chifres e habitat."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'deer' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 15,
@@ -179,7 +179,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The cow gives fresh milk every morning.",
     frase_exemplo_portugues: "A vaca dá leite fresco toda manhã.",
     imagem_url: "https://images.pexels.com/photos/422218/pexels-photo-422218.jpeg",
-    prompt_pratica: "Pratique com 'cow': Fale sobre produtos derivados do leite. Use 'cow' em expressões idiomáticas. Descreva vida na fazenda com vacas."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'cow' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 16,
