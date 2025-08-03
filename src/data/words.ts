@@ -541,7 +541,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "I eat a red apple for breakfast every day.",
     frase_exemplo_portugues: "Eu como uma maçã vermelha no café da manhã todos os dias.",
     imagem_url: "https://images.pexels.com/photos/102104/pexels-photo-102104.jpeg",
-    prompt_pratica: "Pratique com 'apple': Use diferentes cores de maçãs (red, green, yellow). Fale sobre pratos com maçã (apple pie, apple juice). Use expressões como 'an apple a day keeps the doctor away'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'apple' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 52,
@@ -551,7 +551,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The monkey loves to eat ripe bananas.",
     frase_exemplo_portugues: "O macaco adora comer bananas maduras.",
     imagem_url: "https://images.pexels.com/photos/61127/pexels-photo-61127.jpeg",
-    prompt_pratica: "Pratique com 'banana': Fale sobre vitaminas, potássio. Use adjetivos como 'ripe', 'yellow', 'sweet'. Crie frases sobre smoothies e vitaminas."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'banana' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 53,
@@ -561,7 +561,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Fresh orange juice is full of vitamin C.",
     frase_exemplo_portugues: "Suco de laranja fresco é cheio de vitamina C.",
     imagem_url: "https://images.pexels.com/photos/161559/background-bitter-breakfast-bright-161559.jpeg",
-    prompt_pratica: "Pratique com 'orange': Note que 'orange' é cor e fruta. Fale sobre suco, vitamina C. Use em receitas e descrições de sabor."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'orange' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 54,
@@ -571,7 +571,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Purple grapes grow in large clusters on vines.",
     frase_exemplo_portugues: "Uvas roxas crescem em grandes cachos nas videiras.",
     imagem_url: "https://images.pexels.com/photos/23042/pexels-photo-23042.jpg",
-    prompt_pratica: "Pratique com 'grape': Fale sobre vinhos, vinhedos. Use 'grapes' sempre no plural quando se refere à fruta. Descreva diferentes tipos de uva."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'grape' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 55,
@@ -581,7 +581,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Sweet strawberries are perfect for desserts.",
     frase_exemplo_portugues: "Morangos doces são perfeitos para sobremesas.",
     imagem_url: "https://images.pexels.com/photos/89778/strawberries-frisch-ripe-sweet-89778.jpeg",
-    prompt_pratica: "Pratique com 'strawberry': Fale sobre sobremesas, vitaminas. Use adjetivos como 'sweet', 'juicy', 'red'. Crie receitas com morangos."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'strawberry' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 56,
@@ -591,7 +591,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Cold watermelon is refreshing on hot summer days.",
     frase_exemplo_portugues: "Melancia gelada é refrescante em dias quentes de verão.",
     imagem_url: "https://images.pexels.com/photos/1313267/pexels-photo-1313267.jpeg",
-    prompt_pratica: "Pratique com 'watermelon': Fale sobre verão, hidratação. Use adjetivos como 'juicy', 'refreshing', 'sweet'. Descreva sementes e polpa."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'watermelon' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 57,
@@ -601,7 +601,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Tropical pineapple adds sweetness to fruit salads.",
     frase_exemplo_portugues: "Abacaxi tropical adiciona doçura às saladas de frutas.",
     imagem_url: "https://images.pexels.com/photos/947879/pexels-photo-947879.jpeg",
-    prompt_pratica: "Pratique com 'pineapple': Fale sobre frutas tropicais, enzimas. Use em receitas de pizza, sucos. Descreva textura e sabor únicos."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'pineapple' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 58,
@@ -611,7 +611,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Ripe mango has a sweet, tropical flavor.",
     frase_exemplo_portugues: "Manga madura tem um sabor doce e tropical.",
     imagem_url: "https://images.pexels.com/photos/918327/pexels-photo-918327.jpeg",
-    prompt_pratica: "Pratique com 'mango': Fale sobre frutas tropicais, vitaminas. Use adjetivos como 'sweet', 'juicy', 'tropical'. Descreva textura cremosa."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'mango' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 59,
@@ -621,7 +621,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Sour lemon juice makes the fish taste better.",
     frase_exemplo_portugues: "Suco de limão azedo faz o peixe ficar mais saboroso.",
     imagem_url: "https://images.pexels.com/photos/1414130/pexels-photo-1414130.jpeg",
-    prompt_pratica: "Pratique com 'lemon': Fale sobre acidez, vitamina C. Use em receitas, temperos. Compare 'lemon' (amarelo) e 'lime' (verde)."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'lemon' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 60,
@@ -631,7 +631,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Red cherries are delicious in pies and cakes.",
     frase_exemplo_portugues: "Cerejas vermelhas são deliciosas em tortas e bolos.",
     imagem_url: "https://images.pexels.com/photos/162689/cherry-pair-fruits-sweet-162689.jpeg",
-    prompt_pratica: "Pratique com 'cherry': Fale sobre sobremesas, antioxidantes. Use expressões como 'cherry on top'. Descreva diferentes variedades de cereja."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'cherry' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 61,
