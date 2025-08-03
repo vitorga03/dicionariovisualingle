@@ -189,7 +189,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The pig rolls in the mud to stay cool.",
     frase_exemplo_portugues: "O porco se revolve na lama para se refrescar.",
     imagem_url: "https://images.pexels.com/photos/1300355/pexels-photo-1300355.jpeg",
-    prompt_pratica: "Pratique com 'pig': Use expressões como 'happy as a pig in mud'. Fale sobre diferentes usos dos porcos. Compare porcos domésticos e selvagens."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'pig' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 17,
@@ -199,7 +199,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The sheep provides wool for clothing.",
     frase_exemplo_portugues: "A ovelha fornece lã para roupas.",
     imagem_url: "https://images.pexels.com/photos/2647053/pexels-photo-2647053.jpeg",
-    prompt_pratica: "Pratique com 'sheep': Note que 'sheep' é igual no singular e plural. Fale sobre lã, pastoreio e rebanhos. Use expressões com 'sheep'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'sheep' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 18,
@@ -209,7 +209,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The goat climbs steep mountain rocks.",
     frase_exemplo_portugues: "A cabra escala rochas íngremes da montanha.",
     imagem_url: "https://images.pexels.com/photos/1670732/pexels-photo-1670732.jpeg",
-    prompt_pratica: "Pratique com 'goat': Fale sobre agilidade das cabras. Use 'goat' em expressões como 'scapegoat'. Compare cabras e ovelhas."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'goat' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 19,
@@ -219,7 +219,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The chicken lays eggs in the nest.",
     frase_exemplo_portugues: "A galinha põe ovos no ninho.",
     imagem_url: "https://images.pexels.com/photos/1300361/pexels-photo-1300361.jpeg",
-    prompt_pratica: "Pratique com 'chicken': Fale sobre ovos, criação de galinhas. Use 'chicken' como adjetivo (covarde). Compare 'chicken', 'hen', 'rooster'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'chicken' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 20,
@@ -229,7 +229,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The duck swims gracefully on the pond.",
     frase_exemplo_portugues: "O pato nada graciosamente na lagoa.",
     imagem_url: "https://images.pexels.com/photos/133459/pexels-photo-133459.jpeg",
-    prompt_pratica: "Pratique com 'duck': Use 'duck' como verbo (abaixar). Fale sobre patos em lagos e rios. Descreva características dos patos."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'duck' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 21,
