@@ -1052,7 +1052,7 @@ export const wordsDatabase: Word[] = [
     categoria: "house",
     frase_exemplo_ingles: "This room is very bright and spacious.",
     frase_exemplo_portugues: "Este cômodo é muito claro e espaçoso.",
-    imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
+    imagem_url: "https://images.pexels.com/photos/271816/pexels-photo-271816.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'room' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1062,7 +1062,7 @@ export const wordsDatabase: Word[] = [
     categoria: "house",
     frase_exemplo_ingles: "The kitchen is the heart of every home.",
     frase_exemplo_portugues: "A cozinha é o coração de toda casa.",
-    imagem_url: "https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg",
+    imagem_url: "https://images.pexels.com/photos/2062426/pexels-photo-2062426.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'kitchen' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1082,7 +1082,7 @@ export const wordsDatabase: Word[] = [
     categoria: "house",
     frase_exemplo_ingles: "My bedroom is quiet and comfortable for sleeping.",
     frase_exemplo_portugues: "Meu quarto é silencioso e confortável para dormir.",
-    imagem_url: "https://images.pexels.com/photos/1454804/pexels-photo-1454804.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1454806/pexels-photo-1454806.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'bedroom' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1112,7 +1112,7 @@ export const wordsDatabase: Word[] = [
     categoria: "house",
     frase_exemplo_ingles: "Dad parks his car in the garage every night.",
     frase_exemplo_portugues: "Papai estaciona o carro na garagem toda noite.",
-    imagem_url: "https://images.pexels.com/photos/1454804/pexels-photo-1454804.jpeg",
+    imagem_url: "https://images.pexels.com/photos/190537/pexels-photo-190537.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'garage' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1122,7 +1122,7 @@ export const wordsDatabase: Word[] = [
     categoria: "house",
     frase_exemplo_ingles: "Beautiful flowers bloom in our garden every spring.",
     frase_exemplo_portugues: "Flores bonitas florescem em nosso jardim toda primavera.",
-    imagem_url: "https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg",
+    imagem_url: "https://images.pexels.com/photos/158028/bellingrath-gardens-alabama-landscape-scenic-158028.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'garden' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1132,7 +1132,7 @@ export const wordsDatabase: Word[] = [
     categoria: "house",
     frase_exemplo_ingles: "Please close the door when you leave the room.",
     frase_exemplo_portugues: "Por favor, feche a porta quando sair do cômodo.",
-    imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
+    imagem_url: "https://images.pexels.com/photos/277559/pexels-photo-277559.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'door' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1142,7 +1142,7 @@ export const wordsDatabase: Word[] = [
     categoria: "house",
     frase_exemplo_ingles: "Sunlight streams through the large window.",
     frase_exemplo_portugues: "A luz do sol entra pela janela grande.",
-    imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
+    imagem_url: "https://images.pexels.com/photos/910458/pexels-photo-910458.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'window' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1152,7 +1152,7 @@ export const wordsDatabase: Word[] = [
     categoria: "house",
     frase_exemplo_ingles: "We painted the wall a beautiful shade of blue.",
     frase_exemplo_portugues: "Pintamos a parede de um belo tom de azul.",
-    imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1227515/pexels-photo-1227515.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'wall' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1162,7 +1162,7 @@ export const wordsDatabase: Word[] = [
     categoria: "house",
     frase_exemplo_ingles: "The wooden floor creaks when you walk on it.",
     frase_exemplo_portugues: "O chão de madeira range quando você caminha sobre ele.",
-    imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
+    imagem_url: "https://images.pexels.com/photos/269063/pexels-photo-269063.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'floor' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1172,7 +1172,7 @@ export const wordsDatabase: Word[] = [
     categoria: "house",
     frase_exemplo_ingles: "The ceiling fan helps cool the room in summer.",
     frase_exemplo_portugues: "O ventilador de teto ajuda a refrescar o cômodo no verão.",
-    imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
+    imagem_url: "https://images.pexels.com/photos/158571/architecture-about-building-modern-158571.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'ceiling' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1182,7 +1182,7 @@ export const wordsDatabase: Word[] = [
     categoria: "house",
     frase_exemplo_ingles: "The red roof protects the house from rain.",
     frase_exemplo_portugues: "O telhado vermelho protege a casa da chuva.",
-    imagem_url: "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg",
+    imagem_url: "https://images.pexels.com/photos/48895/roof-plate-tiles-brick-black-48895.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'roof' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1192,7 +1192,7 @@ export const wordsDatabase: Word[] = [
     categoria: "house",
     frase_exemplo_ingles: "Be careful walking down the steep stairs.",
     frase_exemplo_portugues: "Tenha cuidado ao descer as escadas íngremes.",
-    imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
+    imagem_url: "https://images.pexels.com/photos/434645/pexels-photo-434645.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'stairs' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1202,7 +1202,7 @@ export const wordsDatabase: Word[] = [
     categoria: "house",
     frase_exemplo_ingles: "We bought new furniture for the living room.",
     frase_exemplo_portugues: "Compramos móveis novos para a sala de estar.",
-    imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1350789/pexels-photo-1350789.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'furniture' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1212,7 +1212,7 @@ export const wordsDatabase: Word[] = [
     categoria: "house",
     frase_exemplo_ingles: "The comfortable chair is perfect for reading.",
     frase_exemplo_portugues: "A cadeira confortável é perfeita para ler.",
-    imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
+    imagem_url: "https://images.pexels.com/photos/116910/pexels-photo-116910.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'chair' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1222,7 +1222,7 @@ export const wordsDatabase: Word[] = [
     categoria: "house",
     frase_exemplo_ingles: "We eat dinner together at the kitchen table.",
     frase_exemplo_portugues: "Jantamos juntos na mesa da cozinha.",
-    imagem_url: "https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg",
+    imagem_url: "https://images.pexels.com/photos/279626/pexels-photo-279626.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'table' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
