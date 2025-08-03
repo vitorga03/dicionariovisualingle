@@ -851,7 +851,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Tender beef steak is perfect for special dinners.",
     frase_exemplo_portugues: "Bife de carne macia é perfeito para jantares especiais.",
     imagem_url: "https://images.pexels.com/photos/361184/asparagus-steak-veal-chop-361184.jpeg",
-    prompt_pratica: "Pratique com 'beef': Fale sobre diferentes cortes (steak, ground beef). Use diferentes pontos de cozimento. Descreva sabor rico da carne."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'beef' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 83,
@@ -861,7 +861,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Roasted pork with herbs tastes delicious.",
     frase_exemplo_portugues: "Carne suína assada com ervas fica deliciosa.",
     imagem_url: "https://images.pexels.com/photos/323682/pexels-photo-323682.jpeg",
-    prompt_pratica: "Pratique com 'pork': Fale sobre diferentes cortes (chops, bacon, ham). Use temperos e marinadas. Descreva diferentes preparos."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'pork' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 84,
@@ -871,7 +871,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Fresh fish provides healthy omega-3 fatty acids.",
     frase_exemplo_portugues: "Peixe fresco fornece ácidos graxos ômega-3 saudáveis.",
     imagem_url: "https://images.pexels.com/photos/725991/pexels-photo-725991.jpeg",
-    prompt_pratica: "Pratique com 'fish': Fale sobre diferentes tipos (salmon, tuna, cod). Use métodos de preparo (grilled, baked). Descreva benefícios para saúde."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'fish' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 85,
@@ -881,7 +881,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Grilled shrimp with garlic is a tasty appetizer.",
     frase_exemplo_portugues: "Camarão grelhado com alho é um aperitivo saboroso.",
     imagem_url: "https://images.pexels.com/photos/725991/pexels-photo-725991.jpeg",
-    prompt_pratica: "Pratique com 'shrimp': Fale sobre frutos do mar, diferentes preparos. Use em saladas, massas. Descreva textura delicada e sabor suave."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'shrimp' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 86,
@@ -891,7 +891,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Italian pasta with tomato sauce is always satisfying.",
     frase_exemplo_portugues: "Massa italiana com molho de tomate é sempre satisfatória.",
     imagem_url: "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg",
-    prompt_pratica: "Pratique com 'pasta': Fale sobre diferentes formatos (spaghetti, penne, fusilli). Use diferentes molhos. Descreva tradição italiana."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'pasta' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 87,
@@ -901,7 +901,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Hot pizza with melted cheese is irresistible.",
     frase_exemplo_portugues: "Pizza quente com queijo derretido é irresistível.",
     imagem_url: "https://images.pexels.com/photos/315755/pexels-photo-315755.jpeg",
-    prompt_pratica: "Pratique com 'pizza': Fale sobre diferentes coberturas (toppings). Use 'slice of pizza'. Descreva massa crocante e queijo derretido."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'pizza' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 88,
@@ -911,7 +911,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "A turkey sandwich makes a quick, healthy lunch.",
     frase_exemplo_portugues: "Um sanduíche de peru faz um almoço rápido e saudável.",
     imagem_url: "https://images.pexels.com/photos/1603901/pexels-photo-1603901.jpeg",
-    prompt_pratica: "Pratique com 'sandwich': Fale sobre diferentes recheios, tipos de pão. Use como refeição rápida. Descreva camadas de ingredientes."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'sandwich' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 89,
@@ -921,7 +921,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Warm chicken soup is comforting on cold days.",
     frase_exemplo_portugues: "Sopa de frango quente é reconfortante em dias frios.",
     imagem_url: "https://images.pexels.com/photos/539451/pexels-photo-539451.jpeg",
-    prompt_pratica: "Pratique com 'soup': Fale sobre diferentes tipos (chicken, vegetable, tomato). Use como entrada ou prato principal. Descreva calor reconfortante."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'soup' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 90,
@@ -931,7 +931,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Fresh green salad is perfect for a light meal.",
     frase_exemplo_portugues: "Salada verde fresca é perfeita para uma refeição leve.",
     imagem_url: "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg",
-    prompt_pratica: "Pratique com 'salad': Fale sobre diferentes ingredientes, molhos (dressing). Use como acompanhamento ou prato principal. Descreva frescor e cores."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'salad' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 91,
