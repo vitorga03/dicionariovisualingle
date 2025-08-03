@@ -39,7 +39,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The cat is sleeping on the sofa.",
     frase_exemplo_portugues: "O gato está dormindo no sofá.",
     imagem_url: "https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg",
-    prompt_pratica: "Pratique com 'cat': Crie 5 frases usando 'cat' em diferentes contextos (casa, rua, veterinário). Inclua adjetivos como 'fluffy', 'black', 'lazy'. Depois, faça perguntas sobre gatos usando 'Do you have...?', 'Have you ever seen...?'"
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'cat' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 2,
@@ -49,7 +49,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "My dog loves to play in the park.",
     frase_exemplo_portugues: "Meu cachorro adora brincar no parque.",
     imagem_url: "https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg",
-    prompt_pratica: "Pratique com 'dog': Descreva diferentes raças de cachorros em inglês. Use 'dog' em frases com verbos como 'bark', 'run', 'fetch'. Crie um diálogo sobre adotar um cachorro."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'dog' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 3,
@@ -59,7 +59,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The bird is singing in the tree.",
     frase_exemplo_portugues: "O pássaro está cantando na árvore.",
     imagem_url: "https://images.pexels.com/photos/326900/pexels-photo-326900.jpeg",
-    prompt_pratica: "Pratique com 'bird': Liste 10 tipos de pássaros em inglês. Use 'bird' com verbos como 'fly', 'sing', 'nest'. Descreva o que os pássaros fazem durante o dia."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'bird' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 4,
@@ -69,7 +69,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "There are colorful fish in the aquarium.",
     frase_exemplo_portugues: "Há peixes coloridos no aquário.",
     imagem_url: "https://images.pexels.com/photos/128756/pexels-photo-128756.jpeg",
-    prompt_pratica: "Pratique com 'fish': Fale sobre diferentes tipos de peixes. Use 'fish' como verbo (pescar) e substantivo. Crie frases sobre aquários, oceano e pesca."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'fish' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 5,
@@ -79,7 +79,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The horse is running across the field.",
     frase_exemplo_portugues: "O cavalo está correndo pelo campo.",
     imagem_url: "https://images.pexels.com/photos/635499/pexels-photo-635499.jpeg",
-    prompt_pratica: "Pratique com 'horse': Descreva cavalos usando adjetivos como 'wild', 'brown', 'fast'. Use expressões idiomáticas com 'horse'. Fale sobre equitação e fazendas."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'horse' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 6,
