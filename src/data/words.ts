@@ -941,7 +941,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Chocolate cake is my favorite birthday dessert.",
     frase_exemplo_portugues: "Bolo de chocolate é minha sobremesa favorita de aniversário.",
     imagem_url: "https://images.pexels.com/photos/291528/pexels-photo-291528.jpeg",
-    prompt_pratica: "Pratique com 'cake': Fale sobre diferentes sabores, ocasiões especiais. Use expressões como 'piece of cake'. Descreva textura fofa e doçura."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'cake' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 92,
@@ -951,7 +951,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Homemade cookies smell amazing when baking.",
     frase_exemplo_portugues: "Biscoitos caseiros têm um cheiro incrível quando estão assando.",
     imagem_url: "https://images.pexels.com/photos/230325/pexels-photo-230325.jpeg",
-    prompt_pratica: "Pratique com 'cookie': Fale sobre diferentes tipos (chocolate chip, oatmeal). Use em lanches, sobremesas. Descreva textura crocante ou macia."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'cookie' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 93,
@@ -961,7 +961,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Cold ice cream is the perfect summer treat.",
     frase_exemplo_portugues: "Sorvete gelado é a sobremesa perfeita do verão.",
     imagem_url: "https://images.pexels.com/photos/1362534/pexels-photo-1362534.jpeg",
-    prompt_pratica: "Pratique com 'ice cream': Fale sobre diferentes sabores, coberturas. Use como sobremesa refrescante. Descreva textura cremosa e fria."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'ice cream' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 94,
@@ -971,7 +971,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Dark chocolate has many health benefits.",
     frase_exemplo_portugues: "Chocolate amargo tem muitos benefícios para a saúde.",
     imagem_url: "https://images.pexels.com/photos/65882/chocolate-dark-coffee-confiserie-65882.jpeg",
-    prompt_pratica: "Pratique com 'chocolate': Fale sobre diferentes tipos (dark, milk, white). Use em sobremesas, bebidas. Descreva sabor rico e indulgente."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'chocolate' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 95,
@@ -981,7 +981,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Colorful candy brings joy to children's faces.",
     frase_exemplo_portugues: "Doces coloridos trazem alegria aos rostos das crianças.",
     imagem_url: "https://images.pexels.com/photos/33162/candy-sweetmeats-colorful-color.jpeg",
-    prompt_pratica: "Pratique com 'candy': Fale sobre diferentes tipos, ocasiões especiais. Use como guloseima ocasional. Descreva cores vibrantes e doçura."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'candy' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 96,
@@ -991,7 +991,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Natural honey is a healthy alternative to sugar.",
     frase_exemplo_portugues: "Mel natural é uma alternativa saudável ao açúcar.",
     imagem_url: "https://images.pexels.com/photos/33162/honey-sweet-syrup-organic.jpeg",
-    prompt_pratica: "Pratique com 'honey': Fale sobre abelhas, propriedades naturais. Use como adoçante natural. Descreva textura viscosa e sabor floral."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'honey' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 97,
@@ -1001,7 +1001,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Hot coffee helps me wake up in the morning.",
     frase_exemplo_portugues: "Café quente me ajuda a acordar pela manhã.",
     imagem_url: "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg",
-    prompt_pratica: "Pratique com 'coffee': Fale sobre diferentes preparos (espresso, latte, cappuccino). Use como bebida energizante. Descreva aroma e sabor."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'coffee' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 98,
@@ -1011,7 +1011,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Herbal tea is relaxing before bedtime.",
     frase_exemplo_portugues: "Chá de ervas é relaxante antes de dormir.",
     imagem_url: "https://images.pexels.com/photos/230477/pexels-photo-230477.jpeg",
-    prompt_pratica: "Pratique com 'tea': Fale sobre diferentes tipos (green, black, herbal). Use em diferentes momentos do dia. Descreva propriedades calmantes."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'tea' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 99,
@@ -1021,7 +1021,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Clean water is essential for good health.",
     frase_exemplo_portugues: "Água limpa é essencial para uma boa saúde.",
     imagem_url: "https://images.pexels.com/photos/416528/pexels-photo-416528.jpeg",
-    prompt_pratica: "Pratique com 'water': Fale sobre hidratação, importância vital. Use diferentes tipos (tap, bottled, sparkling). Descreva pureza e transparência."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'water' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 100,
@@ -1031,7 +1031,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Fresh orange juice provides vitamin C.",
     frase_exemplo_portugues: "Suco de laranja fresco fornece vitamina C.",
     imagem_url: "https://images.pexels.com/photos/96974/pexels-photo-96974.jpeg",
-    prompt_pratica: "Pratique com 'juice': Fale sobre diferentes frutas, vitaminas. Use como bebida saudável. Descreva frescor e sabores naturais."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'juice' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
 
   // HOUSE (50 words)
