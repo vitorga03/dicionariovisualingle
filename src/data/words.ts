@@ -239,7 +239,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The snake slithers silently through the grass.",
     frase_exemplo_portugues: "A cobra desliza silenciosamente pela grama.",
     imagem_url: "https://images.pexels.com/photos/34426/snake-rainbow-boa-reptile-scale.jpeg",
-    prompt_pratica: "Pratique com 'snake': Use verbos como 'slither', 'coil', 'hiss' com 'snake'. Fale sobre cobras venenosas e não-venenosas. Use metáforas com 'snake'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'snake' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 22,
@@ -249,7 +249,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The turtle moves slowly across the sand.",
     frase_exemplo_portugues: "A tartaruga se move lentamente pela areia.",
     imagem_url: "https://images.pexels.com/photos/847393/pexels-photo-847393.jpeg",
-    prompt_pratica: "Pratique com 'turtle': Compare 'turtle' e 'tortoise'. Use expressões como 'slow as a turtle'. Fale sobre tartarugas marinhas e terrestres."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'turtle' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 23,
@@ -259,7 +259,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The frog jumps from lily pad to lily pad.",
     frase_exemplo_portugues: "O sapo pula de vitória-régia em vitória-régia.",
     imagem_url: "https://images.pexels.com/photos/70083/frog-macro-amphibian-green-70083.jpeg",
-    prompt_pratica: "Pratique com 'frog': Use verbos como 'croak', 'hop', 'leap' com 'frog'. Fale sobre metamorfose de girinos. Use 'frog' em expressões idiomáticas."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'frog' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 24,
@@ -269,7 +269,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The butterfly lands gently on the flower.",
     frase_exemplo_portugues: "A borboleta pousa delicadamente na flor.",
     imagem_url: "https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg",
-    prompt_pratica: "Pratique com 'butterfly': Fale sobre metamorfose das borboletas. Use adjetivos como 'colorful', 'delicate', 'beautiful'. Descreva padrões das asas."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'butterfly' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 25,
@@ -279,7 +279,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The bee collects nectar from flowers.",
     frase_exemplo_portugues: "A abelha coleta néctar das flores.",
     imagem_url: "https://images.pexels.com/photos/56876/honey-bee-insect-bee-flower-56876.jpeg",
-    prompt_pratica: "Pratique com 'bee': Fale sobre produção de mel, colmeias. Use expressões como 'busy as a bee'. Descreva importância das abelhas para polinização."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'bee' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 26,
