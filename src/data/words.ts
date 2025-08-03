@@ -138,7 +138,7 @@ export const wordsDatabase: Word[] = [
     categoria: "animals",
     frase_exemplo_ingles: "The bear catches fish in the river.",
     frase_exemplo_portugues: "O urso pesca no rio.",
-    imagem_url: "https://images.pexels.com/photos/1770918/pexels-photo-1770918.jpeg",
+    imagem_url: "https://images.pexels.com/photos/162340/bear-bavarian-bear-wild-brown-bear-162340.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'bear' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -148,7 +148,7 @@ export const wordsDatabase: Word[] = [
     categoria: "animals",
     frase_exemplo_ingles: "The wolf howls at the full moon.",
     frase_exemplo_portugues: "O lobo uiva para a lua cheia.",
-    imagem_url: "https://images.pexels.com/photos/1123771/pexels-photo-1123771.jpeg",
+    imagem_url: "https://images.pexels.com/photos/682375/pexels-photo-682375.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'wolf' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -158,7 +158,7 @@ export const wordsDatabase: Word[] = [
     categoria: "animals",
     frase_exemplo_ingles: "The clever fox hunts at night.",
     frase_exemplo_portugues: "A raposa esperta caça à noite.",
-    imagem_url: "https://images.pexels.com/photos/39310/fox-animal-nature-red-39310.jpeg",
+    imagem_url: "https://images.pexels.com/photos/134058/pexels-photo-134058.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'fox' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -168,7 +168,7 @@ export const wordsDatabase: Word[] = [
     categoria: "animals",
     frase_exemplo_ingles: "The deer grazes peacefully in the meadow.",
     frase_exemplo_portugues: "O veado pasta pacificamente no prado.",
-    imagem_url: "https://images.pexels.com/photos/247502/pexels-photo-247502.jpeg",
+    imagem_url: "https://images.pexels.com/photos/34231/antler-antler-carrier-fallow-deer-hirsch.jpg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'deer' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -188,7 +188,7 @@ export const wordsDatabase: Word[] = [
     categoria: "animals",
     frase_exemplo_ingles: "The pig rolls in the mud to stay cool.",
     frase_exemplo_portugues: "O porco se revolve na lama para se refrescar.",
-    imagem_url: "https://images.pexels.com/photos/1300355/pexels-photo-1300355.jpeg",
+    imagem_url: "https://images.pexels.com/photos/110820/pexels-photo-110820.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'pig' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -208,7 +208,7 @@ export const wordsDatabase: Word[] = [
     categoria: "animals",
     frase_exemplo_ingles: "The goat climbs steep mountain rocks.",
     frase_exemplo_portugues: "A cabra escala rochas íngremes da montanha.",
-    imagem_url: "https://images.pexels.com/photos/1670732/pexels-photo-1670732.jpeg",
+    imagem_url: "https://images.pexels.com/photos/144240/goat-lamb-little-grass-144240.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'goat' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -218,7 +218,7 @@ export const wordsDatabase: Word[] = [
     categoria: "animals",
     frase_exemplo_ingles: "The chicken lays eggs in the nest.",
     frase_exemplo_portugues: "A galinha põe ovos no ninho.",
-    imagem_url: "https://images.pexels.com/photos/1300361/pexels-photo-1300361.jpeg",
+    imagem_url: "https://images.pexels.com/photos/375510/pexels-photo-375510.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'chicken' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -228,7 +228,7 @@ export const wordsDatabase: Word[] = [
     categoria: "animals",
     frase_exemplo_ingles: "The duck swims gracefully on the pond.",
     frase_exemplo_portugues: "O pato nada graciosamente na lagoa.",
-    imagem_url: "https://images.pexels.com/photos/133459/pexels-photo-133459.jpeg",
+    imagem_url: "https://images.pexels.com/photos/322438/pexels-photo-322438.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'duck' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -238,7 +238,7 @@ export const wordsDatabase: Word[] = [
     categoria: "animals",
     frase_exemplo_ingles: "The snake slithers silently through the grass.",
     frase_exemplo_portugues: "A cobra desliza silenciosamente pela grama.",
-    imagem_url: "https://images.pexels.com/photos/34426/snake-rainbow-boa-reptile-scale.jpeg",
+    imagem_url: "https://images.pexels.com/photos/80474/grass-snake-snake-serpentes-natrix-80474.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'snake' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -278,7 +278,7 @@ export const wordsDatabase: Word[] = [
     categoria: "animals",
     frase_exemplo_ingles: "The bee collects nectar from flowers.",
     frase_exemplo_portugues: "A abelha coleta néctar das flores.",
-    imagem_url: "https://images.pexels.com/photos/56876/honey-bee-insect-bee-flower-56876.jpeg",
+    imagem_url: "https://images.pexels.com/photos/460961/pexels-photo-460961.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'bee' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -298,7 +298,7 @@ export const wordsDatabase: Word[] = [
     categoria: "animals",
     frase_exemplo_ingles: "The ant carries food back to the colony.",
     frase_exemplo_portugues: "A formiga carrega comida de volta para a colônia.",
-    imagem_url: "https://images.pexels.com/photos/86722/pexels-photo-86722.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1104974/pexels-photo-1104974.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'ant' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -328,7 +328,7 @@ export const wordsDatabase: Word[] = [
     categoria: "animals",
     frase_exemplo_ingles: "The shark swims powerfully through deep waters.",
     frase_exemplo_portugues: "O tubarão nada poderosamente pelas águas profundas.",
-    imagem_url: "https://images.pexels.com/photos/544551/pexels-photo-544551.jpeg",
+    imagem_url: "https://images.pexels.com/photos/2747248/pexels-photo-2747248.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'shark' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
