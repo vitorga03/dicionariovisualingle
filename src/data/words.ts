@@ -741,7 +741,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Crisp lettuce is the base of most salads.",
     frase_exemplo_portugues: "Alface crocante é a base da maioria das saladas.",
     imagem_url: "https://images.pexels.com/photos/1656666/pexels-photo-1656666.jpeg",
-    prompt_pratica: "Pratique com 'lettuce': Fale sobre saladas, folhas verdes. Use adjetivos como 'crisp', 'fresh', 'green'. Descreva diferentes tipos de alface."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'lettuce' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 72,
@@ -751,7 +751,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Cool cucumber slices are refreshing in summer.",
     frase_exemplo_portugues: "Fatias de pepino gelado são refrescantes no verão.",
     imagem_url: "https://images.pexels.com/photos/1414651/pexels-photo-1414651.jpeg",
-    prompt_pratica: "Pratique com 'cucumber': Fale sobre hidratação, saladas. Use expressões como 'cool as a cucumber'. Descreva textura crocante e sabor suave."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'cucumber' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 73,
@@ -761,7 +761,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Green broccoli is packed with vitamins.",
     frase_exemplo_portugues: "Brócolis verde é cheio de vitaminas.",
     imagem_url: "https://images.pexels.com/photos/47347/broccoli-vegetable-food-healthy-47347.jpeg",
-    prompt_pratica: "Pratique com 'broccoli': Fale sobre vegetais verdes, nutrição. Use diferentes formas de preparo (steamed, roasted). Descreva formato de árvore pequena."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'broccoli' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 74,
@@ -771,7 +771,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Fresh spinach leaves are great in smoothies.",
     frase_exemplo_portugues: "Folhas de espinafre fresco são ótimas em vitaminas.",
     imagem_url: "https://images.pexels.com/photos/2255935/pexels-photo-2255935.jpeg",
-    prompt_pratica: "Pratique com 'spinach': Fale sobre ferro, folhas verdes. Use em saladas, vitaminas. Reference Popeye e força do espinafre."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'spinach' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 75,
@@ -781,7 +781,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Sweet corn on the cob is a summer favorite.",
     frase_exemplo_portugues: "Milho doce na espiga é um favorito do verão.",
     imagem_url: "https://images.pexels.com/photos/547263/pexels-photo-547263.jpeg",
-    prompt_pratica: "Pratique com 'corn': Fale sobre 'corn on the cob', popcorn. Use diferentes preparos. Descreva grãos amarelos e doçura natural."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'corn' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 76,
@@ -791,7 +791,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "White rice is a staple food in many countries.",
     frase_exemplo_portugues: "Arroz branco é um alimento básico em muitos países.",
     imagem_url: "https://images.pexels.com/photos/723198/pexels-photo-723198.jpeg",
-    prompt_pratica: "Pratique com 'rice': Fale sobre diferentes tipos (white, brown, wild). Use como acompanhamento. Descreva importância cultural mundial."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'rice' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 77,
@@ -801,7 +801,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Fresh bread smells wonderful in the morning.",
     frase_exemplo_portugues: "Pão fresco tem um cheiro maravilhoso pela manhã.",
     imagem_url: "https://images.pexels.com/photos/209206/pexels-photo-209206.jpeg",
-    prompt_pratica: "Pratique com 'bread': Fale sobre diferentes tipos (white, whole wheat, sourdough). Use expressões como 'daily bread'. Descreva textura e aroma."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'bread' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 78,
@@ -811,7 +811,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Aged cheese has a strong, complex flavor.",
     frase_exemplo_portugues: "Queijo envelhecido tem um sabor forte e complexo.",
     imagem_url: "https://images.pexels.com/photos/773253/pexels-photo-773253.jpeg",
-    prompt_pratica: "Pratique com 'cheese': Fale sobre diferentes tipos (cheddar, mozzarella, brie). Use em sanduíches, pizzas. Descreva processo de envelhecimento."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'cheese' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 79,
@@ -821,7 +821,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Cold milk is perfect with chocolate cookies.",
     frase_exemplo_portugues: "Leite gelado é perfeito com biscoitos de chocolate.",
     imagem_url: "https://images.pexels.com/photos/248412/pexels-photo-248412.jpeg",
-    prompt_pratica: "Pratique com 'milk': Fale sobre diferentes tipos (whole, skim, almond). Use expressões como 'spilled milk'. Descreva importância nutricional."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'milk' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 80,
@@ -831,7 +831,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Scrambled eggs are easy to make for breakfast.",
     frase_exemplo_portugues: "Ovos mexidos são fáceis de fazer no café da manhã.",
     imagem_url: "https://images.pexels.com/photos/162712/egg-white-food-protein-162712.jpeg",
-    prompt_pratica: "Pratique com 'egg': Fale sobre diferentes preparos (fried, boiled, scrambled). Use em receitas de bolo. Descreva proteína completa."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'egg' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 81,
@@ -841,7 +841,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Grilled chicken breast is a healthy protein choice.",
     frase_exemplo_portugues: "Peito de frango grelhado é uma escolha saudável de proteína.",
     imagem_url: "https://images.pexels.com/photos/616354/pexels-photo-616354.jpeg",
-    prompt_pratica: "Pratique com 'chicken': Fale sobre diferentes cortes e preparos. Use como proteína magra. Compare 'chicken' (comida) com 'chicken' (animal)."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'chicken' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 82,
