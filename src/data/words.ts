@@ -439,7 +439,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The kangaroo hops across the Australian outback.",
     frase_exemplo_portugues: "O canguru pula pelo interior australiano.",
     imagem_url: "https://images.pexels.com/photos/133394/pexels-photo-133394.jpeg",
-    prompt_pratica: "Pratique com 'kangaroo': Fale sobre marsupiais, Austrália. Use verbos como 'hop', 'box', 'carry'. Descreva bolsa marsupial e filhotes."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'kangaroo' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 42,
@@ -449,7 +449,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The sleepy koala clings to the eucalyptus tree.",
     frase_exemplo_portugues: "O coala sonolento se agarra à árvore de eucalipto.",
     imagem_url: "https://images.pexels.com/photos/133394/pexels-photo-133394.jpeg",
-    prompt_pratica: "Pratique com 'koala': Fale sobre eucalipto, sono. Use verbos como 'cling', 'sleep', 'climb'. Descreva habitat e dieta dos coalas."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'koala' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 43,
@@ -459,7 +459,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The giant panda munches on bamboo shoots.",
     frase_exemplo_portugues: "O panda gigante mastiga brotos de bambu.",
     imagem_url: "https://images.pexels.com/photos/133394/pexels-photo-133394.jpeg",
-    prompt_pratica: "Pratique com 'panda': Fale sobre bambu, conservação. Use verbos como 'munch', 'roll', 'climb'. Descreva características únicas dos pandas."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'panda' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 44,
@@ -469,7 +469,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The tall giraffe reaches leaves on high branches.",
     frase_exemplo_portugues: "A girafa alta alcança folhas nos galhos altos.",
     imagem_url: "https://images.pexels.com/photos/133394/pexels-photo-133394.jpeg",
-    prompt_pratica: "Pratique com 'giraffe': Fale sobre altura, pescoço longo. Use verbos como 'reach', 'stretch', 'bend'. Descreva padrões das manchas."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'giraffe' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 45,
@@ -479,7 +479,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The zebra's black and white stripes are unique.",
     frase_exemplo_portugues: "As listras pretas e brancas da zebra são únicas.",
     imagem_url: "https://images.pexels.com/photos/133394/pexels-photo-133394.jpeg",
-    prompt_pratica: "Pratique com 'zebra': Fale sobre listras, savana africana. Use adjetivos como 'striped', 'wild', 'fast'. Compare zebras e cavalos."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'zebra' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 46,
@@ -489,7 +489,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The huge hippo wallows in the muddy river.",
     frase_exemplo_portugues: "O hipopótamo enorme se revolve no rio lamacento.",
     imagem_url: "https://images.pexels.com/photos/133394/pexels-photo-133394.jpeg",
-    prompt_pratica: "Pratique com 'hippo': Use 'hippo' como forma abreviada de 'hippopotamus'. Fale sobre rios africanos. Use verbos como 'wallow', 'submerge'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'hippo' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 47,
@@ -499,7 +499,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The powerful rhino charges through the grassland.",
     frase_exemplo_portugues: "O rinoceronte poderoso avança pela pastagem.",
     imagem_url: "https://images.pexels.com/photos/133394/pexels-photo-133394.jpeg",
-    prompt_pratica: "Pratique com 'rhino': Use 'rhino' como abreviação. Fale sobre chifres, conservação. Use verbos como 'charge', 'graze', 'protect'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'rhino' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 48,
@@ -509,7 +509,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The camel walks steadily across the desert sand.",
     frase_exemplo_portugues: "O camelo caminha firmemente pela areia do deserto.",
     imagem_url: "https://images.pexels.com/photos/133394/pexels-photo-133394.jpeg",
-    prompt_pratica: "Pratique com 'camel': Fale sobre deserto, corcova. Use verbos como 'trek', 'carry', 'survive'. Descreva adaptações ao deserto."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'camel' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 49,
@@ -519,7 +519,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The fluffy llama grazes on mountain slopes.",
     frase_exemplo_portugues: "A lhama fofa pasta nas encostas da montanha.",
     imagem_url: "https://images.pexels.com/photos/133394/pexels-photo-133394.jpeg",
-    prompt_pratica: "Pratique com 'llama': Fale sobre Andes, lã. Use adjetivos como 'fluffy', 'gentle', 'sure-footed'. Compare lhama e alpaca."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'llama' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 50,
@@ -529,7 +529,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The hardworking donkey carries heavy loads.",
     frase_exemplo_portugues: "O burro trabalhador carrega cargas pesadas.",
     imagem_url: "https://images.pexels.com/photos/133394/pexels-photo-133394.jpeg",
-    prompt_pratica: "Pratique com 'donkey': Fale sobre trabalho, fazendas. Use verbos como 'carry', 'bray', 'plod'. Use expressões idiomáticas com 'donkey'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'donkey' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
 
   // FOOD (50 words)
