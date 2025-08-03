@@ -1443,7 +1443,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The colorful painting brightens up the wall.",
     frase_exemplo_portugues: "O quadro colorido alegra a parede.",
     imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
-    prompt_pratica: "Pratique com 'painting': Fale sobre arte, decoração. Use atividades como hanging, admiring, creating. Descreva diferentes estilos artísticos."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'painting' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 142,
@@ -1453,7 +1453,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The wall clock shows the correct time.",
     frase_exemplo_portugues: "O relógio de parede mostra a hora certa.",
     imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
-    prompt_pratica: "Pratique com 'clock': Fale sobre tempo, diferentes tipos. Use atividades como checking time, setting alarm, winding up."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'clock' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 143,
@@ -1463,7 +1463,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The tall bookshelf holds hundreds of books.",
     frase_exemplo_portugues: "A estante alta comporta centenas de livros.",
     imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
-    prompt_pratica: "Pratique com 'bookshelf': Fale sobre organização, leitura. Use atividades como organizing books, dusting, browsing. Compare com 'bookcase'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'bookshelf' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 144,
@@ -1473,7 +1473,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "I study and work at my wooden desk.",
     frase_exemplo_portugues: "Estudo e trabalho na minha escrivaninha de madeira.",
     imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
-    prompt_pratica: "Pratique com 'desk': Fale sobre trabalho, estudo. Use atividades como working, studying, organizing. Descreva diferentes tipos e materiais."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'desk' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 145,
@@ -1483,7 +1483,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "I keep my socks organized in the top drawer.",
     frase_exemplo_portugues: "Mantenho minhas meias organizadas na gaveta de cima.",
     imagem_url: "https://images.pexels.com/photos/1454804/pexels-photo-1454804.jpeg",
-    prompt_pratica: "Pratique com 'drawer': Fale sobre organização, armazenamento. Use atividades como opening, closing, organizing, searching through."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'drawer' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 146,
@@ -1493,7 +1493,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The kitchen shelf holds spices and cooking supplies.",
     frase_exemplo_portugues: "A prateleira da cozinha guarda temperos e utensílios de cozinha.",
     imagem_url: "https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg",
-    prompt_pratica: "Pratique com 'shelf': Fale sobre armazenamento, organização. Use atividades como placing items, organizing, dusting. Note plural 'shelves'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'shelf' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 147,
@@ -1503,7 +1503,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The medicine cabinet contains first aid supplies.",
     frase_exemplo_portugues: "O armário de remédios contém suprimentos de primeiros socorros.",
     imagem_url: "https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg",
-    prompt_pratica: "Pratique com 'cabinet': Fale sobre armazenamento, diferentes tipos (kitchen, medicine, filing). Use atividades como storing, organizing, accessing."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'cabinet' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 148,
@@ -1513,7 +1513,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Turn on the light using the wall switch.",
     frase_exemplo_portugues: "Acenda a luz usando o interruptor da parede.",
     imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
-    prompt_pratica: "Pratique com 'switch': Fale sobre controle elétrico. Use verbos como turn on, turn off, flip, press. Descreva diferentes tipos de interruptores."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'switch' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 149,
@@ -1523,7 +1523,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Plug the charger into the electrical outlet.",
     frase_exemplo_portugues: "Conecte o carregador na tomada elétrica.",
     imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
-    prompt_pratica: "Pratique com 'outlet': Use também 'socket'. Fale sobre eletricidade, segurança. Use atividades como plugging in, unplugging, checking voltage."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'outlet' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 150,
@@ -1533,7 +1533,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "I always carry my house key in my pocket.",
     frase_exemplo_portugues: "Sempre carrego a chave de casa no bolso.",
     imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
-    prompt_pratica: "Pratique com 'key': Fale sobre segurança, acesso. Use atividades como locking, unlocking, losing, finding. Use expressões como 'key to success'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'key' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
 
   // TRANSPORT (50 words)
