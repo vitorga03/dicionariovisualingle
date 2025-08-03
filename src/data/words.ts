@@ -1342,7 +1342,7 @@ export const wordsDatabase: Word[] = [
     categoria: "house",
     frase_exemplo_ingles: "Heat the food quickly in the microwave.",
     frase_exemplo_portugues: "Aqueça a comida rapidamente no micro-ondas.",
-    imagem_url: "https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg",
+    imagem_url: "https://images.pexels.com/photos/211761/pexels-photo-211761.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'microwave' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1352,7 +1352,7 @@ export const wordsDatabase: Word[] = [
     categoria: "house",
     frase_exemplo_ingles: "The dishwasher cleans all the dirty plates.",
     frase_exemplo_portugues: "A lava-louças limpa todos os pratos sujos.",
-    imagem_url: "https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg",
+    imagem_url: "https://images.pexels.com/photos/3829560/pexels-photo-3829560.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'dishwasher' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1362,7 +1362,7 @@ export const wordsDatabase: Word[] = [
     categoria: "house",
     frase_exemplo_ingles: "The washing machine cleans our clothes efficiently.",
     frase_exemplo_portugues: "A máquina de lavar limpa nossas roupas eficientemente.",
-    imagem_url: "https://images.pexels.com/photos/1454804/pexels-photo-1454804.jpeg",
+    imagem_url: "https://images.pexels.com/photos/5591460/pexels-photo-5591460.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'washing machine' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1372,7 +1372,7 @@ export const wordsDatabase: Word[] = [
     categoria: "house",
     frase_exemplo_ingles: "The dryer makes clothes soft and warm.",
     frase_exemplo_portugues: "A secadora deixa as roupas macias e quentes.",
-    imagem_url: "https://images.pexels.com/photos/1454804/pexels-photo-1454804.jpeg",
+    imagem_url: "https://images.pexels.com/photos/2254065/pexels-photo-2254065.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'dryer' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1382,7 +1382,7 @@ export const wordsDatabase: Word[] = [
     categoria: "house",
     frase_exemplo_ingles: "I use the vacuum cleaner to clean the carpets.",
     frase_exemplo_portugues: "Uso o aspirador de pó para limpar os tapetes.",
-    imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
+    imagem_url: "https://images.pexels.com/photos/38325/vacuum-cleaner-carpet-cleaner-housework-housekeeping-38325.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'vacuum cleaner' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1392,7 +1392,7 @@ export const wordsDatabase: Word[] = [
     categoria: "house",
     frase_exemplo_ingles: "The air conditioner keeps the house cool in summer.",
     frase_exemplo_portugues: "O ar condicionado mantém a casa fresca no verão.",
-    imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
+    imagem_url: "https://images.pexels.com/photos/16592625/pexels-photo-16592625.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'air conditioner' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1402,7 +1402,7 @@ export const wordsDatabase: Word[] = [
     categoria: "house",
     frase_exemplo_ingles: "The heater warms the room on cold winter days.",
     frase_exemplo_portugues: "O aquecedor esquenta o cômodo em dias frios de inverno.",
-    imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
+    imagem_url: "https://images.pexels.com/photos/6474298/pexels-photo-6474298.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'heather' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1412,7 +1412,7 @@ export const wordsDatabase: Word[] = [
     categoria: "house",
     frase_exemplo_ingles: "The ceiling fan circulates air throughout the room.",
     frase_exemplo_portugues: "O ventilador de teto circula o ar por todo o cômodo.",
-    imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1374448/pexels-photo-1374448.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'fan' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1422,7 +1422,7 @@ export const wordsDatabase: Word[] = [
     categoria: "house",
     frase_exemplo_ingles: "Beautiful curtains frame the living room window.",
     frase_exemplo_portugues: "Cortinas bonitas emolduram a janela da sala de estar.",
-    imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
+    imagem_url: "https://images.pexels.com/photos/462197/pexels-photo-462197.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'curtain' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1432,7 +1432,7 @@ export const wordsDatabase: Word[] = [
     categoria: "house",
     frase_exemplo_ingles: "The soft carpet feels comfortable under bare feet.",
     frase_exemplo_portugues: "O tapete macio é confortável sob os pés descalços.",
-    imagem_url: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
+    imagem_url: "https://images.pexels.com/photos/164446/pexels-photo-164446.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'carpet' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
