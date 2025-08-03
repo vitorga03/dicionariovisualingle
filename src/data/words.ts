@@ -478,7 +478,7 @@ export const wordsDatabase: Word[] = [
     categoria: "animals",
     frase_exemplo_ingles: "The zebra's black and white stripes are unique.",
     frase_exemplo_portugues: "As listras pretas e brancas da zebra são únicas.",
-    imagem_url: "https://images.pexels.com/photos/133394/pexels-photo-133394.jpeg",
+    imagem_url: "https://images.pexels.com/photos/750539/pexels-photo-750539.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'zebra' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -488,7 +488,7 @@ export const wordsDatabase: Word[] = [
     categoria: "animals",
     frase_exemplo_ingles: "The huge hippo wallows in the muddy river.",
     frase_exemplo_portugues: "O hipopótamo enorme se revolve no rio lamacento.",
-    imagem_url: "https://images.pexels.com/photos/133394/pexels-photo-133394.jpeg",
+    imagem_url: "https://images.pexels.com/photos/46540/hippo-hippopotamus-animal-look-46540.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'hippo' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -498,7 +498,7 @@ export const wordsDatabase: Word[] = [
     categoria: "animals",
     frase_exemplo_ingles: "The powerful rhino charges through the grassland.",
     frase_exemplo_portugues: "O rinoceronte poderoso avança pela pastagem.",
-    imagem_url: "https://images.pexels.com/photos/133394/pexels-photo-133394.jpeg",
+    imagem_url: "https://images.pexels.com/photos/677974/pexels-photo-677974.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'rhino' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -508,7 +508,7 @@ export const wordsDatabase: Word[] = [
     categoria: "animals",
     frase_exemplo_ingles: "The camel walks steadily across the desert sand.",
     frase_exemplo_portugues: "O camelo caminha firmemente pela areia do deserto.",
-    imagem_url: "https://images.pexels.com/photos/133394/pexels-photo-133394.jpeg",
+    imagem_url: "https://images.pexels.com/photos/2080195/pexels-photo-2080195.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'camel' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -518,7 +518,7 @@ export const wordsDatabase: Word[] = [
     categoria: "animals",
     frase_exemplo_ingles: "The fluffy llama grazes on mountain slopes.",
     frase_exemplo_portugues: "A lhama fofa pasta nas encostas da montanha.",
-    imagem_url: "https://images.pexels.com/photos/133394/pexels-photo-133394.jpeg",
+    imagem_url: "https://images.pexels.com/photos/133387/pexels-photo-133387.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'llama' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -528,7 +528,7 @@ export const wordsDatabase: Word[] = [
     categoria: "animals",
     frase_exemplo_ingles: "The hardworking donkey carries heavy loads.",
     frase_exemplo_portugues: "O burro trabalhador carrega cargas pesadas.",
-    imagem_url: "https://images.pexels.com/photos/133394/pexels-photo-133394.jpeg",
+    imagem_url: "https://images.pexels.com/photos/598751/pexels-photo-598751.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'donkey' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
 
