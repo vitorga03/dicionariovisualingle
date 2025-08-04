@@ -1845,7 +1845,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The shopping trolley makes carrying groceries easier.",
     frase_exemplo_portugues: "O carrinho de compras facilita carregar mantimentos.",
     imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
-    prompt_pratica: "Pratique com 'trolley': Note diferentes significados (transporte público, carrinho de compras). Use atividades como pushing, loading, maneuvering."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'trolley' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 182,
@@ -1855,7 +1855,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The horse pulls the wooden cart down the country road.",
     frase_exemplo_portugues: "O cavalo puxa o carrinho de madeira pela estrada rural.",
     imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
-    prompt_pratica: "Pratique com 'cart': Fale sobre transporte tradicional, diferentes tipos. Use atividades como pulling, loading, transporting goods."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'cart' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 183,
@@ -1865,7 +1865,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Children ride the sled down the snowy hill.",
     frase_exemplo_portugues: "As crianças descem a colina nevada no trenó.",
     imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
-    prompt_pratica: "Pratique com 'sled': Fale sobre diversão na neve, inverno. Use atividades como sledding, sliding down hills, enjoying winter."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'sled' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 184,
@@ -1875,7 +1875,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The snowmobile speeds across the frozen landscape.",
     frase_exemplo_portugues: "O snowmobile acelera pela paisagem congelada.",
     imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
-    prompt_pratica: "Pratique com 'snowmobile': Fale sobre transporte na neve, recreação. Use atividades como riding, exploring snowy terrain, racing."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'snowmobile' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 185,
@@ -1885,7 +1885,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Tourists explore the city on electric Segways.",
     frase_exemplo_portugues: "Turistas exploram a cidade em Segways elétricos.",
     imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
-    prompt_pratica: "Pratique com 'Segway': Fale sobre transporte moderno, equilíbrio. Use atividades como balancing, touring, learning to ride."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'segway' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 186,
@@ -1895,7 +1895,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The hovercraft glides over both land and water.",
     frase_exemplo_portugues: "O aerodeslizador desliza sobre terra e água.",
     imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
-    prompt_pratica: "Pratique com 'hovercraft': Fale sobre tecnologia única, versatilidade. Use atividades como hovering, crossing different terrains, floating on air."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'hovercraft' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 187,
@@ -1905,7 +1905,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The bicycle rickshaw carries passengers through narrow streets.",
     frase_exemplo_portugues: "O riquixá de bicicleta carrega passageiros pelas ruas estreitas.",
     imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
-    prompt_pratica: "Pratique com 'rickshaw': Fale sobre transporte tradicional asiático. Use atividades como pedaling, carrying passengers, navigating streets."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'rickshaw' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 188,
@@ -1915,7 +1915,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The cable car climbs slowly up the steep mountain.",
     frase_exemplo_portugues: "O teleférico sobe lentamente a montanha íngreme.",
     imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
-    prompt_pratica: "Pratique com 'cable car': Fale sobre transporte em montanhas, turismo. Use atividades como climbing, enjoying views, overcoming steep terrain."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'cable car' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 189,
@@ -1925,7 +1925,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The futuristic monorail connects different parts of the city.",
     frase_exemplo_portugues: "O monotrilho futurista conecta diferentes partes da cidade.",
     imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
-    prompt_pratica: "Pratique com 'monorail': Fale sobre transporte moderno, eficiência. Use atividades como gliding, connecting areas, reducing traffic."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'monorail' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 190,
@@ -1935,7 +1935,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The moving escalator carries people between floors.",
     frase_exemplo_portugues: "A escada rolante carrega pessoas entre os andares.",
     imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
-    prompt_pratica: "Pratique com 'escalator': Fale sobre conveniência, edifícios modernos. Use atividades como riding, moving between floors, standing or walking."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'escalator' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 191,
@@ -1945,7 +1945,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The elevator quickly takes us to the top floor.",
     frase_exemplo_portugues: "O elevador nos leva rapidamente ao último andar.",
     imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
-    prompt_pratica: "Pratique com 'elevator': Use também 'lift' (britânico). Fale sobre edifícios altos, conveniência. Use atividades como riding, pressing buttons, waiting."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'elevator' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 192,
