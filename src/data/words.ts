@@ -1654,7 +1654,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "The rescue helicopter hovers above the accident scene.",
     frase_exemplo_portugues: "O helicóptero de resgate paira sobre o local do acidente.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/104757/pexels-photo-104757.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'helicopter' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1664,7 +1664,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "Children love riding their scooters in the park.",
     frase_exemplo_portugues: "As crianças adoram andar de patinete no parque.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1379374/pexels-photo-1379374.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'scooter' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1674,7 +1674,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "Teenagers practice tricks on their skateboards.",
     frase_exemplo_portugues: "Adolescentes praticam manobras em seus skates.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1018484/pexels-photo-1018484.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'skateboard' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1684,7 +1684,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "The family van has space for eight passengers.",
     frase_exemplo_portugues: "A van da família tem espaço para oito passageiros.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/33230971/pexels-photo-33230971.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'van' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1694,7 +1694,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "The ambulance rushes to the hospital with sirens on.",
     frase_exemplo_portugues: "A ambulância corre para o hospital com as sirenes ligadas.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/3719815/pexels-photo-3719815.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'ambulance' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1704,7 +1704,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "The red fire truck races to extinguish the flames.",
     frase_exemplo_portugues: "O caminhão de bombeiros vermelho corre para extinguir as chamas.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/3773291/pexels-photo-3773291.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'fire truck' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1714,7 +1714,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "The police car patrols the neighborhood at night.",
     frase_exemplo_portugues: "A viatura policial patrulha o bairro à noite.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/303313/pexels-photo-303313.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'police car' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1724,7 +1724,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "The electric tram glides smoothly along the tracks.",
     frase_exemplo_portugues: "O bonde elétrico desliza suavemente pelos trilhos.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/947937/pexels-photo-947937.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'tram' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1734,7 +1734,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "The ferry transports cars and passengers across the river.",
     frase_exemplo_portugues: "A balsa transporta carros e passageiros pelo rio.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1636500/pexels-photo-1636500.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'ferry' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1744,7 +1744,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "The space rocket launches astronauts to the moon.",
     frase_exemplo_portugues: "O foguete espacial lança astronautas para a lua.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/2166/flight-sky-earth-space.jpg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'rocket' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
