@@ -1944,7 +1944,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "The elevator quickly takes us to the top floor.",
     frase_exemplo_portugues: "O elevador nos leva rapidamente ao último andar.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/8453040/pexels-photo-8453040.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'elevator' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1954,7 +1954,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "The wheelchair provides mobility for people with disabilities.",
     frase_exemplo_portugues: "A cadeira de rodas fornece mobilidade para pessoas com deficiência.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/2026764/pexels-photo-2026764.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'wheelchair' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1964,7 +1964,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "Parents push the baby stroller through the park.",
     frase_exemplo_portugues: "Os pais empurram o carrinho de bebê pelo parque.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1007773/pexels-photo-1007773.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'stroller' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1974,7 +1974,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "The train wagon carries passengers across the country.",
     frase_exemplo_portugues: "O vagão do trem carrega passageiros pelo país.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/273062/pexels-photo-273062.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'wagon' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1984,7 +1984,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "The truck pulls a heavy trailer full of cargo.",
     frase_exemplo_portugues: "O caminhão puxa um reboque pesado cheio de carga.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://www.freepik.com/free-vector/sticker-design-with-side-view-tow-truck-isolated_19119037.htm#fromView=search&page=1&position=4&uuid=c173f77a-761d-4114-b5fd-9df279fd86c0&query=reboque",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'trailer' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1994,7 +1994,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "The elegant limousine arrives for the special occasion.",
     frase_exemplo_portugues: "A limusine elegante chega para a ocasião especial.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/3821424/pexels-photo-3821424.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'limousine' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -2004,7 +2004,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "We drive the convertible with the top down on sunny days.",
     frase_exemplo_portugues: "Dirigimos o conversível com a capota abaixada em dias ensolarados.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/627678/pexels-photo-627678.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'convertible' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -2014,7 +2014,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "The pickup truck hauls tools and equipment to the job site.",
     frase_exemplo_portugues: "A caminhonete transporta ferramentas e equipamentos para o local de trabalho.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1015555/pexels-photo-1015555.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'pickup truck' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -2024,7 +2024,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "The family minivan comfortably seats seven people.",
     frase_exemplo_portugues: "A minivan da família acomoda confortavelmente sete pessoas.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/5834936/pexels-photo-5834936.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'minivan' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -2034,7 +2034,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "The compact hatchback is perfect for city driving.",
     frase_exemplo_portugues: "O hatchback compacto é perfeito para dirigir na cidade.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/8886307/pexels-photo-8886307.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'hatchback' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
 
