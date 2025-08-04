@@ -1754,7 +1754,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "The military jet flies faster than the speed of sound.",
     frase_exemplo_portugues: "O jato militar voa mais rápido que a velocidade do som.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/76971/fighter-jet-fighter-aircraft-f-16-falcon-aircraft-76971.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'jet' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1764,7 +1764,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "The silent glider soars gracefully without an engine.",
     frase_exemplo_portugues: "O planador silencioso voa graciosamente sem motor.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/53012/glider-hang-glider-pilot-flying-53012.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'glider' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1774,7 +1774,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "The colorful hot air balloon floats peacefully in the sky.",
     frase_exemplo_portugues: "O balão de ar quente colorido flutua pacificamente no céu.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1061783/pexels-photo-1061783.png",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'balloon' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1784,7 +1784,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "We paddle the canoe gently down the quiet river.",
     frase_exemplo_portugues: "Remamos a canoa suavemente rio abaixo.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/2422557/pexels-photo-2422557.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'canoe' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1794,7 +1794,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "The kayak moves swiftly through the white water rapids.",
     frase_exemplo_portugues: "O caiaque se move rapidamente pelas corredeiras.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1430672/pexels-photo-1430672.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'kayak' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1804,7 +1804,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "The luxury yacht anchors in the beautiful bay.",
     frase_exemplo_portugues: "O iate de luxo ancora na baía bonita.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/163236/luxury-yacht-boat-speed-water-163236.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'yacht' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1814,7 +1814,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "The white sailboat catches the wind beautifully.",
     frase_exemplo_portugues: "O veleiro branco pega o vento lindamente.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/996328/pexels-photo-996328.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'sailboat' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1824,7 +1824,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "The speedboat races across the lake at high speed.",
     frase_exemplo_portugues: "A lancha corre pelo lago em alta velocidade.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/11038873/pexels-photo-11038873.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'speedboat' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1834,7 +1834,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "The submarine explores the deep ocean floor.",
     frase_exemplo_portugues: "O submarino explora o fundo profundo do oceano.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://www.freepik.com/free-photo/life-style_1007079.htm#fromView=search&page=1&position=0&uuid=b6efed75-6a3e-4439-938f-a4b9885bde5c&query=submarine",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'submarine' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
