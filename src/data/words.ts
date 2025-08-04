@@ -2487,7 +2487,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The dramatic cape flows behind her as she walks.",
     frase_exemplo_portugues: "A capa dramática flutua atrás dela enquanto caminha.",
     imagem_url: "https://images.pexels.com/photos/33269091/pexels-photo-33269091.jpeg",
-    prompt_pratica: "Me ajude a treinar o uso da palavra 'cape' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'cape'(capa, referente a roupa) em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 246,
