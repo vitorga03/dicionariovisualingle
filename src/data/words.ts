@@ -2197,7 +2197,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The colorful scarf adds warmth and style to her outfit.",
     frase_exemplo_portugues: "O cachecol colorido adiciona calor e estilo ao look dela.",
     imagem_url: "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg",
-    prompt_pratica: "Pratique com 'scarf': Fale sobre calor, acessório de moda. Descreva diferentes materiais, formas de usar."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'scarf' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 217,
@@ -2207,7 +2207,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "A leather belt completes his professional appearance.",
     frase_exemplo_portugues: "Um cinto de couro completa sua aparência profissional.",
     imagem_url: "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg",
-    prompt_pratica: "Pratique com 'belt': Fale sobre funcionalidade, estilo. Descreva diferentes materiais, fivelas. Use expressões como 'tighten your belt'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'belt' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 218,
@@ -2217,7 +2217,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "He adjusts his silk tie before the important meeting.",
     frase_exemplo_portugues: "Ele ajusta sua gravata de seda antes da reunião importante.",
     imagem_url: "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg",
-    prompt_pratica: "Pratique com 'tie': Fale sobre formalidade, negócios. Descreva diferentes padrões, como amarrar. Use em contextos profissionais."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'tie' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 219,
@@ -2227,7 +2227,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The elegant suit makes him look very professional.",
     frase_exemplo_portugues: "O terno elegante o faz parecer muito profissional.",
     imagem_url: "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg",
-    prompt_pratica: "Pratique com 'suit': Fale sobre formalidade, negócios. Descreva diferentes cores, ocasiões. Use para entrevistas, casamentos."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'suit' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 220,
@@ -2237,7 +2237,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The nurse wears a clean white uniform at work.",
     frase_exemplo_portugues: "A enfermeira usa um uniforme branco limpo no trabalho.",
     imagem_url: "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg",
-    prompt_pratica: "Pratique com 'uniform': Fale sobre profissões, identificação. Descreva diferentes tipos (school, military, medical)."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'uniform' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 221,
@@ -2247,7 +2247,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Soft pajamas make sleeping more comfortable.",
     frase_exemplo_portugues: "Pijamas macios tornam o sono mais confortável.",
     imagem_url: "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg",
-    prompt_pratica: "Pratique com 'pajamas': Use também 'pyjamas' (britânico). Sempre plural. Fale sobre conforto, sono, relaxamento."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'pajamas' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 222,
@@ -2257,7 +2257,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Comfortable underwear is essential for daily wear.",
     frase_exemplo_portugues: "Roupa íntima confortável é essencial para o uso diário.",
     imagem_url: "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg",
-    prompt_pratica: "Pratique com 'underwear': Fale sobre conforto, higiene. Use diferentes materiais, importância da qualidade."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'underwear' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 223,
@@ -2267,7 +2267,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "She wears a colorful swimsuit at the beach.",
     frase_exemplo_portugues: "Ela usa um maiô colorido na praia.",
     imagem_url: "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg",
-    prompt_pratica: "Pratique com 'swimsuit': Use também 'bathing suit'. Fale sobre praia, piscina, natação. Descreva diferentes estilos."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'swimsuit' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 224,
@@ -2277,7 +2277,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The bright bikini is perfect for sunbathing.",
     frase_exemplo_portugues: "O biquíni colorido é perfeito para tomar sol.",
     imagem_url: "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg",
-    prompt_pratica: "Pratique com 'bikini': Fale sobre praia, verão, bronzeado. Descreva diferentes cores e estilos."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'bikini' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 225,
@@ -2287,7 +2287,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Waterproof boots keep feet dry in rainy weather.",
     frase_exemplo_portugues: "Botas impermeáveis mantêm os pés secos em tempo chuvoso.",
     imagem_url: "https://images.pexels.com/photos/1598507/pexels-photo-1598507.jpeg",
-    prompt_pratica: "Pratique com 'boots': Sempre plural. Fale sobre proteção, diferentes tipos (rain boots, hiking boots, fashion boots)."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'boots' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 226,
@@ -2297,7 +2297,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Comfortable sandals are perfect for warm weather.",
     frase_exemplo_portugues: "Sandálias confortáveis são perfeitas para tempo quente.",
     imagem_url: "https://images.pexels.com/photos/1598507/pexels-photo-1598507.jpeg",
-    prompt_pratica: "Pratique com 'sandals': Sempre plural. Fale sobre verão, conforto, ventilação. Descreva diferentes estilos."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'sandals' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 227,
@@ -2307,7 +2307,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "White sneakers go well with casual outfits.",
     frase_exemplo_portugues: "Tênis brancos combinam bem com looks casuais.",
     imagem_url: "https://images.pexels.com/photos/1598507/pexels-photo-1598507.jpeg",
-    prompt_pratica: "Pratique com 'sneakers': Sempre plural. Use também 'trainers' (britânico). Fale sobre esportes, conforto, estilo casual."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'sneakers' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 228,
@@ -2317,7 +2317,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "High heels make her look taller and more elegant.",
     frase_exemplo_portugues: "Salto alto a faz parecer mais alta e elegante.",
     imagem_url: "https://images.pexels.com/photos/1598507/pexels-photo-1598507.jpeg",
-    prompt_pratica: "Pratique com 'heels': Sempre plural. Fale sobre elegância, altura, ocasiões formais. Descreva diferentes alturas."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'heels' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 229,
@@ -2327,7 +2327,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Cozy slippers keep feet warm inside the house.",
     frase_exemplo_portugues: "Chinelos aconchegantes mantêm os pés aquecidos dentro de casa.",
     imagem_url: "https://images.pexels.com/photos/1598507/pexels-photo-1598507.jpeg",
-    prompt_pratica: "Pratique com 'slippers': Sempre plural. Fale sobre conforto doméstico, relaxamento, materiais macios."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'slippers' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 230,
@@ -2337,7 +2337,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The soft robe is perfect for relaxing after a shower.",
     frase_exemplo_portugues: "O roupão macio é perfeito para relaxar depois do banho.",
     imagem_url: "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg",
-    prompt_pratica: "Pratique com 'robe': Fale sobre conforto, relaxamento, spa. Descreva diferentes materiais (terry, silk)."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'robe' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 231,
