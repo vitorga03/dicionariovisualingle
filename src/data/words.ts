@@ -1844,7 +1844,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "The shopping trolley makes carrying groceries easier.",
     frase_exemplo_portugues: "O carrinho de compras facilita carregar mantimentos.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/7195232/pexels-photo-7195232.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'trolley' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1854,7 +1854,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "The horse pulls the wooden cart down the country road.",
     frase_exemplo_portugues: "O cavalo puxa o carrinho de madeira pela estrada rural.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/236910/pexels-photo-236910.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'cart' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1864,7 +1864,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "Children ride the sled down the snowy hill.",
     frase_exemplo_portugues: "As crianças descem a colina nevada no trenó.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/70448/sweden-children-girls-sled-70448.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'sled' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1874,7 +1874,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "The snowmobile speeds across the frozen landscape.",
     frase_exemplo_portugues: "O snowmobile acelera pela paisagem congelada.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/804570/pexels-photo-804570.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'snowmobile' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1884,7 +1884,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "Tourists explore the city on electric Segways.",
     frase_exemplo_portugues: "Turistas exploram a cidade em Segways elétricos.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/6364213/pexels-photo-6364213.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'segway' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1894,7 +1894,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "The hovercraft glides over both land and water.",
     frase_exemplo_portugues: "O aerodeslizador desliza sobre terra e água.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/7108245/pexels-photo-7108245.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'hovercraft' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1904,7 +1904,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "The bicycle rickshaw carries passengers through narrow streets.",
     frase_exemplo_portugues: "O riquixá de bicicleta carrega passageiros pelas ruas estreitas.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1128419/pexels-photo-1128419.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'rickshaw' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1914,7 +1914,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "The cable car climbs slowly up the steep mountain.",
     frase_exemplo_portugues: "O teleférico sobe lentamente a montanha íngreme.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/405169/pexels-photo-405169.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'cable car' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1924,7 +1924,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "The futuristic monorail connects different parts of the city.",
     frase_exemplo_portugues: "O monotrilho futurista conecta diferentes partes da cidade.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/33231966/pexels-photo-33231966.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'monorail' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1934,7 +1934,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "The moving escalator carries people between floors.",
     frase_exemplo_portugues: "A escada rolante carrega pessoas entre os andares.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/2087514/pexels-photo-2087514.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'escalator' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
