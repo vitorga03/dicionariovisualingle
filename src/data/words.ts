@@ -2347,7 +2347,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The chef wears an apron to protect clothes while cooking.",
     frase_exemplo_portugues: "O chef usa um avental para proteger as roupas enquanto cozinha.",
     imagem_url: "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg",
-    prompt_pratica: "Pratique com 'apron': Fale sobre proteção, cozinha, trabalho. Descreva diferentes tipos (kitchen, work, decorative)."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'apron' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 232,
@@ -2357,7 +2357,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The formal vest completes his three-piece suit.",
     frase_exemplo_portugues: "O colete formal completa seu terno de três peças.",
     imagem_url: "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg",
-    prompt_pratica: "Pratique com 'vest': Fale sobre formalidade, camadas. Compare diferentes tipos (dress vest, safety vest)."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'vest' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 233,
@@ -2367,7 +2367,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The button-up cardigan is perfect for layering.",
     frase_exemplo_portugues: "O cardigã com botões é perfeito para usar em camadas.",
     imagem_url: "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg",
-    prompt_pratica: "Pratique com 'cardigan': Fale sobre versatilidade, camadas, conforto. Descreva diferentes materiais e estilos."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'cardigan' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 234,
@@ -2377,7 +2377,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The comfortable hoodie is great for casual wear.",
     frase_exemplo_portugues: "O moletom com capuz confortável é ótimo para uso casual.",
     imagem_url: "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg",
-    prompt_pratica: "Pratique com 'hoodie': Fale sobre casualidade, conforto, juventude. Descreva capuz, bolso frontal."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'hoodie' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 235,
@@ -2387,7 +2387,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The navy blazer works well for business casual events.",
     frase_exemplo_portugues: "O blazer azul marinho funciona bem para eventos business casual.",
     imagem_url: "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg",
-    prompt_pratica: "Pratique com 'blazer': Fale sobre versatilidade, profissionalismo casual. Compare com suit jacket."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'blazer' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 236,
@@ -2397,7 +2397,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The polo shirt strikes a balance between casual and formal.",
     frase_exemplo_portugues: "A camisa polo equilibra entre casual e formal.",
     imagem_url: "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg",
-    prompt_pratica: "Pratique com 'polo shirt': Fale sobre versatilidade, esportes, business casual. Descreva gola e botões."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'polo shirt' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 237,
@@ -2407,7 +2407,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The tank top is perfect for hot summer workouts.",
     frase_exemplo_portugues: "A regata é perfeita para exercícios no verão quente.",
     imagem_url: "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg",
-    prompt_pratica: "Pratique com 'tank top': Fale sobre verão, exercícios, ventilação. Descreva ausência de mangas."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'tank top' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 238,
@@ -2417,7 +2417,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Stretchy leggings are comfortable for yoga and exercise.",
     frase_exemplo_portugues: "Leggings elásticas são confortáveis para yoga e exercícios.",
     imagem_url: "https://images.pexels.com/photos/1598507/pexels-photo-1598507.jpeg",
-    prompt_pratica: "Pratique com 'leggings': Sempre plural. Fale sobre flexibilidade, exercícios, conforto. Descreva material elástico."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'leggings' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 239,
@@ -2427,7 +2427,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Black tights complement her dress perfectly.",
     frase_exemplo_portugues: "A meia-calça preta complementa perfeitamente o vestido dela.",
     imagem_url: "https://images.pexels.com/photos/1598507/pexels-photo-1598507.jpeg",
-    prompt_pratica: "Pratique com 'tights': Sempre plural. Fale sobre elegância, proteção, diferentes cores e espessuras."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'tights' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 240,
@@ -2437,7 +2437,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Silk stockings add elegance to formal outfits.",
     frase_exemplo_portugues: "Meias altas de seda adicionam elegância a looks formais.",
     imagem_url: "https://images.pexels.com/photos/1598507/pexels-photo-1598507.jpeg",
-    prompt_pratica: "Pratique com 'stockings': Sempre plural. Fale sobre elegância, formalidade, diferentes materiais."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'stockings' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 241,
@@ -2447,7 +2447,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Denim overalls are both practical and stylish.",
     frase_exemplo_portugues: "Macacão jeans é tanto prático quanto estiloso.",
     imagem_url: "https://images.pexels.com/photos/1598507/pexels-photo-1598507.jpeg",
-    prompt_pratica: "Pratique com 'overalls': Sempre plural. Fale sobre trabalho, praticidade, moda casual. Descreva alças e bolsos."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'overalls' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 242,
@@ -2457,7 +2457,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The elegant jumpsuit is perfect for evening events.",
     frase_exemplo_portugues: "O macacão elegante é perfeito para eventos noturnos.",
     imagem_url: "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg",
-    prompt_pratica: "Pratique com 'jumpsuit': Fale sobre elegância, praticidade, moda moderna. Compare com overalls."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'jumpsuit' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 243,
@@ -2467,7 +2467,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The silk kimono represents traditional Japanese clothing.",
     frase_exemplo_portugues: "O quimono de seda representa a roupa tradicional japonesa.",
     imagem_url: "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg",
-    prompt_pratica: "Pratique com 'kimono': Fale sobre cultura japonesa, tradição, cerimônias. Descreva padrões e cores."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'kimono' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 244,
@@ -2477,7 +2477,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The colorful poncho protects from rain and wind.",
     frase_exemplo_portugues: "O poncho colorido protege da chuva e do vento.",
     imagem_url: "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg",
-    prompt_pratica: "Pratique com 'poncho': Fale sobre proteção, cultura latino-americana, praticidade. Descreva forma e uso."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'poncho' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 245,
@@ -2487,7 +2487,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The dramatic cape flows behind her as she walks.",
     frase_exemplo_portugues: "A capa dramática flutua atrás dela enquanto caminha.",
     imagem_url: "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg",
-    prompt_pratica: "Pratique com 'cape': Fale sobre drama, elegância, super-heróis. Descreva movimento e estilo."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'cape' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 246,
@@ -2497,7 +2497,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The delicate shawl adds warmth and elegance.",
     frase_exemplo_portugues: "O xale delicado adiciona calor e elegância.",
     imagem_url: "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg",
-    prompt_pratica: "Pratique com 'shawl': Fale sobre elegância, ocasiões formais, diferentes materiais. Descreva formas de usar."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'shawl' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 247,
@@ -2507,7 +2507,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Warm mittens keep fingers together for extra warmth.",
     frase_exemplo_portugues: "Luvas sem dedos mantêm os dedos juntos para calor extra.",
     imagem_url: "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg",
-    prompt_pratica: "Pratique com 'mittens': Sempre plural. Compare com 'gloves'. Fale sobre calor, inverno, design especial."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'mittens' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 248,
@@ -2517,7 +2517,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Fluffy earmuffs protect ears from cold winter wind.",
     frase_exemplo_portugues: "Protetores de ouvido fofos protegem as orelhas do vento frio do inverno.",
     imagem_url: "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg",
-    prompt_pratica: "Pratique com 'earmuffs': Sempre plural. Fale sobre proteção, inverno, conforto. Descreva design e materiais."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'earmuffs' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 249,
@@ -2527,7 +2527,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Classic suspenders hold up pants with vintage style.",
     frase_exemplo_portugues: "Suspensórios clássicos seguram as calças com estilo vintage.",
     imagem_url: "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg",
-    prompt_pratica: "Pratique com 'suspenders': Sempre plural. Use também 'braces' (britânico). Fale sobre estilo vintage, funcionalidade."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'suspenders' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 250,
@@ -2537,7 +2537,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The elegant bow tie completes his formal tuxedo.",
     frase_exemplo_portugues: "A gravata borboleta elegante completa seu smoking formal.",
     imagem_url: "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg",
-    prompt_pratica: "Pratique com 'bow tie': Fale sobre formalidade extrema, eventos especiais. Compare com regular tie."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'bow tie' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
 
   // NATURE (50 words)
