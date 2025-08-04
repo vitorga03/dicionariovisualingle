@@ -1545,7 +1545,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "My red car is parked in the driveway.",
     frase_exemplo_portugues: "Meu carro vermelho está estacionado na entrada da garagem.",
     imagem_url: "https://images.pexels.com/photos/116675/pexels-photo-116675.jpeg",
-    prompt_pratica: "Pratique com 'car': Fale sobre diferentes tipos, cores, marcas. Use atividades como driving, parking, washing. Descreva partes do carro."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'car' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 152,
@@ -1555,7 +1555,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The yellow school bus picks up children every morning.",
     frase_exemplo_portugues: "O ônibus escolar amarelo pega as crianças toda manhã.",
     imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
-    prompt_pratica: "Pratique com 'bus': Fale sobre transporte público, diferentes tipos. Use atividades como catching, riding, waiting for. Descreva rotas e horários."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'bus' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 153,
@@ -1565,7 +1565,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The fast train travels between cities efficiently.",
     frase_exemplo_portugues: "O trem rápido viaja entre cidades eficientemente.",
     imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
-    prompt_pratica: "Pratique com 'train': Fale sobre viagens longas, estações. Use atividades como boarding, riding, arriving. Descreva diferentes tipos de trem."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'train' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 154,
@@ -1575,7 +1575,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The airplane flies high above the clouds.",
     frase_exemplo_portugues: "O avião voa alto acima das nuvens.",
     imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
-    prompt_pratica: "Pratique com 'airplane': Use também 'plane'. Fale sobre viagens internacionais, aeroportos. Use atividades como flying, taking off, landing."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'airplane' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 155,
@@ -1585,7 +1585,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "I ride my bicycle to work every morning.",
     frase_exemplo_portugues: "Ando de bicicleta para o trabalho toda manhã.",
     imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
-    prompt_pratica: "Pratique com 'bicycle': Use também 'bike'. Fale sobre exercício, meio ambiente. Use atividades como riding, pedaling, balancing."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'bicycle' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 156,
@@ -1595,7 +1595,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The motorcycle speeds through city traffic easily.",
     frase_exemplo_portugues: "A motocicleta passa rapidamente pelo trânsito da cidade.",
     imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
-    prompt_pratica: "Pratique com 'motorcycle': Use também 'motorbike'. Fale sobre velocidade, agilidade. Use atividades como riding, accelerating, wearing helmet."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'motorcycle' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 157,
@@ -1605,7 +1605,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The delivery truck brings packages to our house.",
     frase_exemplo_portugues: "O caminhão de entrega traz pacotes para nossa casa.",
     imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
-    prompt_pratica: "Pratique com 'truck': Fale sobre transporte de carga, diferentes tamanhos. Use atividades como loading, delivering, driving. Descreva tipos específicos."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'truck' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 158,
@@ -1615,7 +1615,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "We took a taxi to the airport this morning.",
     frase_exemplo_portugues: "Pegamos um táxi para o aeroporto esta manhã.",
     imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
-    prompt_pratica: "Pratique com 'taxi': Fale sobre transporte urbano, conveniência. Use atividades como calling, hailing, paying fare. Compare com ride-sharing."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'taxi' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 159,
@@ -1625,7 +1625,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The subway system connects all parts of the city.",
     frase_exemplo_portugues: "O sistema de metrô conecta todas as partes da cidade.",
     imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
-    prompt_pratica: "Pratique com 'subway': Use também 'metro', 'underground'. Fale sobre transporte urbano rápido. Use atividades como riding, transferring, buying tickets."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'subway' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 160,
@@ -1635,7 +1635,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The small boat sails peacefully on the lake.",
     frase_exemplo_portugues: "O barco pequeno navega pacificamente no lago.",
     imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
-    prompt_pratica: "Pratique com 'boat': Fale sobre navegação, diferentes tipos. Use atividades como sailing, rowing, fishing. Descreva uso recreativo e comercial."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'boat' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 161,
