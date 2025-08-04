@@ -2047,7 +2047,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "He wears a clean white shirt to work every day.",
     frase_exemplo_portugues: "Ele usa uma camisa branca limpa para trabalhar todos os dias.",
     imagem_url: "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg",
-    prompt_pratica: "Pratique com 'shirt': Fale sobre diferentes tipos (dress shirt, t-shirt, polo). Use cores, materiais. Descreva ocasiões formais e casuais."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'shirt' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 202,
@@ -2057,7 +2057,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "These comfortable pants are perfect for casual wear.",
     frase_exemplo_portugues: "Essas calças confortáveis são perfeitas para uso casual.",
     imagem_url: "https://images.pexels.com/photos/1598507/pexels-photo-1598507.jpeg",
-    prompt_pratica: "Pratique com 'pants': Note que é sempre plural. Use também 'trousers'. Fale sobre diferentes estilos (jeans, dress pants, casual)."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'pants' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 203,
@@ -2067,7 +2067,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "She looks elegant in her beautiful red dress.",
     frase_exemplo_portugues: "Ela fica elegante em seu lindo vestido vermelho.",
     imagem_url: "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg",
-    prompt_pratica: "Pratique com 'dress': Fale sobre diferentes estilos (casual, formal, evening). Use cores, comprimentos. Descreva ocasiões especiais."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'dress' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 204,
@@ -2077,7 +2077,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The flowing skirt moves gracefully when she walks.",
     frase_exemplo_portugues: "A saia fluida se move graciosamente quando ela caminha.",
     imagem_url: "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg",
-    prompt_pratica: "Pratique com 'skirt': Fale sobre diferentes comprimentos (mini, midi, maxi). Use materiais, estilos. Descreva movimento e elegância."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'skirt' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 205,
@@ -2087,7 +2087,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The warm jacket protects him from the cold wind.",
     frase_exemplo_portugues: "A jaqueta quente o protege do vento frio.",
     imagem_url: "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg",
-    prompt_pratica: "Pratique com 'jacket': Fale sobre diferentes tipos (leather, denim, winter). Use para proteção, estilo. Descreva materiais e ocasiões."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'jacket' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 206,
@@ -2097,7 +2097,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "She buttons up her heavy coat before going outside.",
     frase_exemplo_portugues: "Ela abotoa seu casaco pesado antes de sair.",
     imagem_url: "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg",
-    prompt_pratica: "Pratique com 'coat': Fale sobre proteção contra frio, diferentes tipos (winter coat, raincoat). Use materiais pesados, comprimentos."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'coat' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 207,
@@ -2107,7 +2107,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The cozy sweater keeps me warm on chilly evenings.",
     frase_exemplo_portugues: "O suéter aconchegante me mantém aquecido em noites frias.",
     imagem_url: "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg",
-    prompt_pratica: "Pratique com 'sweater': Use também 'jumper' (britânico). Fale sobre conforto, calor. Descreva diferentes materiais (wool, cotton)."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'sweater' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 208,
@@ -2117,7 +2117,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "A simple t-shirt is perfect for hot summer days.",
     frase_exemplo_portugues: "Uma camiseta simples é perfeita para dias quentes de verão.",
     imagem_url: "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg",
-    prompt_pratica: "Pratique com 't-shirt': Fale sobre casualidade, conforto. Use diferentes cores, estampas. Descreva uso diário e exercícios."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 't-shirt' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 209,
@@ -2127,7 +2127,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Blue jeans are a classic choice for casual outfits.",
     frase_exemplo_portugues: "Jeans azuis são uma escolha clássica para looks casuais.",
     imagem_url: "https://images.pexels.com/photos/1598507/pexels-photo-1598507.jpeg",
-    prompt_pratica: "Pratique com 'jeans': Note que é sempre plural. Fale sobre versatilidade, durabilidade. Descreva diferentes cortes e lavagens."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'jeans' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 210,
@@ -2137,7 +2137,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Comfortable shorts are ideal for playing sports.",
     frase_exemplo_portugues: "Shorts confortáveis são ideais para praticar esportes.",
     imagem_url: "https://images.pexels.com/photos/1598507/pexels-photo-1598507.jpeg",
-    prompt_pratica: "Pratique com 'shorts': Note que é sempre plural. Fale sobre verão, esportes. Descreva diferentes comprimentos e materiais."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'shorts' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 211,
@@ -2147,7 +2147,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "New shoes make walking more comfortable and stylish.",
     frase_exemplo_portugues: "Sapatos novos tornam o caminhar mais confortável e elegante.",
     imagem_url: "https://images.pexels.com/photos/1598507/pexels-photo-1598507.jpeg",
-    prompt_pratica: "Pratique com 'shoes': Sempre plural. Fale sobre diferentes tipos (sneakers, dress shoes, boots). Use para diferentes ocasiões."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'shoes' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 212,
@@ -2157,7 +2157,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Warm socks keep my feet cozy in winter.",
     frase_exemplo_portugues: "Meias quentes mantêm meus pés aconchegados no inverno.",
     imagem_url: "https://images.pexels.com/photos/1598507/pexels-photo-1598507.jpeg",
-    prompt_pratica: "Pratique com 'socks': Sempre plural. Fale sobre conforto, diferentes materiais. Use expressões como 'knock your socks off'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'socks' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 213,
@@ -2167,7 +2167,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The wide-brimmed hat protects her face from the sun.",
     frase_exemplo_portugues: "O chapéu de aba larga protege o rosto dela do sol.",
     imagem_url: "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg",
-    prompt_pratica: "Pratique com 'hat': Fale sobre proteção solar, estilo. Descreva diferentes tipos (baseball cap, fedora, beanie)."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'hat' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 214,
@@ -2177,7 +2177,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "He wears a baseball cap to shade his eyes.",
     frase_exemplo_portugues: "Ele usa um boné de baseball para proteger os olhos.",
     imagem_url: "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg",
-    prompt_pratica: "Pratique com 'cap': Fale sobre esportes, proteção. Compare com 'hat'. Descreva diferentes estilos (baseball, trucker)."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'cap' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 215,
@@ -2187,7 +2187,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Leather gloves keep hands warm and protected.",
     frase_exemplo_portugues: "Luvas de couro mantêm as mãos aquecidas e protegidas.",
     imagem_url: "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg",
-    prompt_pratica: "Pratique com 'gloves': Sempre plural. Fale sobre proteção, diferentes materiais. Use para inverno, trabalho, esportes."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'gloves' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 216,
