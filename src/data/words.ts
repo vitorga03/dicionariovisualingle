@@ -2798,7 +2798,7 @@ export const wordsDatabase: Word[] = [
     categoria: "nature",
     frase_exemplo_ingles: "Ducks swim peacefully in the small pond.",
     frase_exemplo_portugues: "Patos nadam pacificamente na pequena lagoa.",
-    imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
+    imagem_url: "https://images.pexels.com/photos/261088/pexels-photo-261088.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'pond' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -2808,7 +2808,7 @@ export const wordsDatabase: Word[] = [
     categoria: "nature",
     frase_exemplo_ingles: "The tropical island is surrounded by crystal clear water.",
     frase_exemplo_portugues: "A ilha tropical é cercada por água cristalina.",
-    imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1536428/pexels-photo-1536428.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'island' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -2818,7 +2818,7 @@ export const wordsDatabase: Word[] = [
     categoria: "nature",
     frase_exemplo_ingles: "The active volcano occasionally releases hot lava.",
     frase_exemplo_portugues: "O vulcão ativo ocasionalmente libera lava quente.",
-    imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
+    imagem_url: "https://images.pexels.com/photos/6307488/pexels-photo-6307488.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'volcano' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -2828,7 +2828,7 @@ export const wordsDatabase: Word[] = [
     categoria: "nature",
     frase_exemplo_ingles: "The ancient glacier slowly moves down the mountain.",
     frase_exemplo_portugues: "A geleira antiga se move lentamente montanha abaixo.",
-    imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
+    imagem_url: "https://images.pexels.com/photos/219837/pexels-photo-219837.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'glacier' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -2838,7 +2838,7 @@ export const wordsDatabase: Word[] = [
     categoria: "nature",
     frase_exemplo_ingles: "The deep canyon reveals millions of years of geology.",
     frase_exemplo_portugues: "O cânion profundo revela milhões de anos de geologia.",
-    imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
+    imagem_url: "https://images.pexels.com/photos/545964/pexels-photo-545964.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'canyon' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -2848,7 +2848,7 @@ export const wordsDatabase: Word[] = [
     categoria: "nature",
     frase_exemplo_ingles: "Wildflowers bloom across the sunny meadow.",
     frase_exemplo_portugues: "Flores silvestres florescem pelo prado ensolarado.",
-    imagem_url: "https://images.pexels.com/photos/1072179/pexels-photo-1072179.jpeg",
+    imagem_url: "https://images.pexels.com/photos/269138/pexels-photo-269138.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'meadow' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -2858,7 +2858,7 @@ export const wordsDatabase: Word[] = [
     categoria: "nature",
     frase_exemplo_ingles: "Golden wheat waves gently in the open field.",
     frase_exemplo_portugues: "Trigo dourado balança suavemente no campo aberto.",
-    imagem_url: "https://images.pexels.com/photos/1072179/pexels-photo-1072179.jpeg",
+    imagem_url: "https://images.pexels.com/photos/388415/pexels-photo-388415.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'field' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -2868,7 +2868,7 @@ export const wordsDatabase: Word[] = [
     categoria: "nature",
     frase_exemplo_ingles: "Dense vegetation fills the humid tropical jungle.",
     frase_exemplo_portugues: "Vegetação densa preenche a selva tropical úmida.",
-    imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
+    imagem_url: "https://images.pexels.com/photos/975771/pexels-photo-975771.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'jungle' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -2878,7 +2878,7 @@ export const wordsDatabase: Word[] = [
     categoria: "nature",
     frase_exemplo_ingles: "The murky swamp is home to alligators and birds.",
     frase_exemplo_portugues: "O pântano turvo é lar de jacarés e pássaros.",
-    imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1677955/pexels-photo-1677955.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'swamp' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -2888,7 +2888,7 @@ export const wordsDatabase: Word[] = [
     categoria: "nature",
     frase_exemplo_ingles: "Tall reeds grow abundantly in the coastal marsh.",
     frase_exemplo_portugues: "Juncos altos crescem abundantemente no brejo costeiro.",
-    imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1000069/pexels-photo-1000069.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'marsh' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -2898,7 +2898,7 @@ export const wordsDatabase: Word[] = [
     categoria: "nature",
     frase_exemplo_ingles: "The desert oasis provides water and shade for travelers.",
     frase_exemplo_portugues: "O oásis do deserto fornece água e sombra para viajantes.",
-    imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1045113/pexels-photo-1045113.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'oasis' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -2908,7 +2908,7 @@ export const wordsDatabase: Word[] = [
     categoria: "nature",
     frase_exemplo_ingles: "The high plateau offers stunning panoramic views.",
     frase_exemplo_portugues: "O planalto alto oferece vistas panorâmicas deslumbrantes.",
-    imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
+    imagem_url: "https://images.pexels.com/photos/3049329/pexels-photo-3049329.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'plateau' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -2918,7 +2918,7 @@ export const wordsDatabase: Word[] = [
     categoria: "nature",
     frase_exemplo_ingles: "The mountain ridge forms a natural boundary.",
     frase_exemplo_portugues: "A crista da montanha forma uma fronteira natural.",
-    imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
+    imagem_url: "https://images.pexels.com/photos/33261943/pexels-photo-33261943.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'ridge' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -2928,7 +2928,7 @@ export const wordsDatabase: Word[] = [
     categoria: "nature",
     frase_exemplo_ingles: "Snow covers the mountain peak year-round.",
     frase_exemplo_portugues: "Neve cobre o pico da montanha o ano todo.",
-    imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
+    imagem_url: "https://images.pexels.com/photos/2405094/pexels-photo-2405094.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'peak' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -2938,7 +2938,7 @@ export const wordsDatabase: Word[] = [
     categoria: "nature",
     frase_exemplo_ingles: "Skiers enjoy the steep mountain slope in winter.",
     frase_exemplo_portugues: "Esquiadores aproveitam a encosta íngreme da montanha no inverno.",
-    imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
+    imagem_url: "https://images.pexels.com/photos/33242716/pexels-photo-33242716.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'slope' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
