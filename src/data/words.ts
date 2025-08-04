@@ -1554,7 +1554,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "The yellow school bus picks up children every morning.",
     frase_exemplo_portugues: "O ônibus escolar amarelo pega as crianças toda manhã.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/6307071/pexels-photo-6307071.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'bus' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1564,7 +1564,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "The fast train travels between cities efficiently.",
     frase_exemplo_portugues: "O trem rápido viaja entre cidades eficientemente.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/159148/regional-train-rail-cars-platform-deutsche-bahn-159148.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'train' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1574,7 +1574,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "The airplane flies high above the clouds.",
     frase_exemplo_portugues: "O avião voa alto acima das nuvens.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/33267364/pexels-photo-33267364.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'airplane' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1584,7 +1584,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "I ride my bicycle to work every morning.",
     frase_exemplo_portugues: "Ando de bicicleta para o trabalho toda manhã.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/5446297/pexels-photo-5446297.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'bicycle' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1594,7 +1594,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "The motorcycle speeds through city traffic easily.",
     frase_exemplo_portugues: "A motocicleta passa rapidamente pelo trânsito da cidade.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1413412/pexels-photo-1413412.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'motorcycle' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1604,7 +1604,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "The delivery truck brings packages to our house.",
     frase_exemplo_portugues: "O caminhão de entrega traz pacotes para nossa casa.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/2199293/pexels-photo-2199293.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'truck' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1614,7 +1614,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "We took a taxi to the airport this morning.",
     frase_exemplo_portugues: "Pegamos um táxi para o aeroporto esta manhã.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/462867/pexels-photo-462867.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'taxi' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1624,7 +1624,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "The subway system connects all parts of the city.",
     frase_exemplo_portugues: "O sistema de metrô conecta todas as partes da cidade.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1057861/pexels-photo-1057861.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'subway' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1634,7 +1634,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "The small boat sails peacefully on the lake.",
     frase_exemplo_portugues: "O barco pequeno navega pacificamente no lago.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/5711189/pexels-photo-5711189.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'boat' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -1644,7 +1644,7 @@ export const wordsDatabase: Word[] = [
     categoria: "transport",
     frase_exemplo_ingles: "The large ship carries cargo across the ocean.",
     frase_exemplo_portugues: "O navio grande transporta carga pelo oceano.",
-    imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
+    imagem_url: "https://images.pexels.com/photos/813011/pexels-photo-813011.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'ship' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
