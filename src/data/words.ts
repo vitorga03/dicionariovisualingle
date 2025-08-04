@@ -2799,7 +2799,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Ducks swim peacefully in the small pond.",
     frase_exemplo_portugues: "Patos nadam pacificamente na pequena lagoa.",
     imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
-    prompt_pratica: "Pratique com 'pond': Compare com 'lake'. Fale sobre tamanho menor, vida aquática. Use para jardins, parques."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'pond' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 277,
@@ -2809,7 +2809,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The tropical island is surrounded by crystal clear water.",
     frase_exemplo_portugues: "A ilha tropical é cercada por água cristalina.",
     imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
-    prompt_pratica: "Pratique com 'island': Fale sobre isolamento, turismo, vida marinha. Descreva diferentes tipos (tropical, volcanic)."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'island' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 278,
@@ -2819,7 +2819,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The active volcano occasionally releases hot lava.",
     frase_exemplo_portugues: "O vulcão ativo ocasionalmente libera lava quente.",
     imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
-    prompt_pratica: "Pratique com 'volcano': Fale sobre atividade geológica, lava, perigo. Use adjetivos como active, dormant, extinct."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'volcano' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 279,
@@ -2829,7 +2829,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The ancient glacier slowly moves down the mountain.",
     frase_exemplo_portugues: "A geleira antiga se move lentamente montanha abaixo.",
     imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
-    prompt_pratica: "Pratique com 'glacier': Fale sobre gelo, movimento lento, mudanças climáticas. Descreva formação e derretimento."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'glacier' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 280,
@@ -2839,7 +2839,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The deep canyon reveals millions of years of geology.",
     frase_exemplo_portugues: "O cânion profundo revela milhões de anos de geologia.",
     imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
-    prompt_pratica: "Pratique com 'canyon': Fale sobre erosão, tempo geológico, formações. Descreva profundidade e beleza."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'canyon' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 281,
@@ -2849,7 +2849,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Wildflowers bloom across the sunny meadow.",
     frase_exemplo_portugues: "Flores silvestres florescem pelo prado ensolarado.",
     imagem_url: "https://images.pexels.com/photos/1072179/pexels-photo-1072179.jpeg",
-    prompt_pratica: "Pratique com 'meadow': Fale sobre campos abertos, flores silvestres, pastagem. Descreva beleza natural e paz."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'meadow' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 282,
@@ -2859,7 +2859,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Golden wheat waves gently in the open field.",
     frase_exemplo_portugues: "Trigo dourado balança suavemente no campo aberto.",
     imagem_url: "https://images.pexels.com/photos/1072179/pexels-photo-1072179.jpeg",
-    prompt_pratica: "Pratique com 'field': Fale sobre agricultura, cultivo, espaços abertos. Use diferentes tipos de campos (wheat, corn)."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'field' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 283,
@@ -2869,7 +2869,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Dense vegetation fills the humid tropical jungle.",
     frase_exemplo_portugues: "Vegetação densa preenche a selva tropical úmida.",
     imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
-    prompt_pratica: "Pratique com 'jungle': Compare com 'forest'. Fale sobre densidade, umidade, biodiversidade. Descreva vida selvagem."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'jungle' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 284,
@@ -2879,7 +2879,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The murky swamp is home to alligators and birds.",
     frase_exemplo_portugues: "O pântano turvo é lar de jacarés e pássaros.",
     imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
-    prompt_pratica: "Pratique com 'swamp': Fale sobre água parada, vida selvagem, ecossistema único. Use adjetivos como murky, humid."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'swamp' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 285,
@@ -2889,7 +2889,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Tall reeds grow abundantly in the coastal marsh.",
     frase_exemplo_portugues: "Juncos altos crescem abundantemente no brejo costeiro.",
     imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
-    prompt_pratica: "Pratique com 'marsh': Compare com 'swamp'. Fale sobre plantas aquáticas, aves migratórias, ecossistema."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'marsh' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 286,
@@ -2899,7 +2899,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The desert oasis provides water and shade for travelers.",
     frase_exemplo_portugues: "O oásis do deserto fornece água e sombra para viajantes.",
     imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
-    prompt_pratica: "Pratique com 'oasis': Fale sobre contraste com deserto, vida, esperança. Use como metáfora para alívio."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'oasis' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 287,
@@ -2909,7 +2909,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The high plateau offers stunning panoramic views.",
     frase_exemplo_portugues: "O planalto alto oferece vistas panorâmicas deslumbrantes.",
     imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
-    prompt_pratica: "Pratique com 'plateau': Fale sobre elevação, superfície plana, formação geológica. Descreva vistas e altitude."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'plateau' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 288,
@@ -2919,7 +2919,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The mountain ridge forms a natural boundary.",
     frase_exemplo_portugues: "A crista da montanha forma uma fronteira natural.",
     imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
-    prompt_pratica: "Pratique com 'ridge': Fale sobre formações montanhosas, divisores de água, fronteiras naturais."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'ridge' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 289,
@@ -2929,7 +2929,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Snow covers the mountain peak year-round.",
     frase_exemplo_portugues: "Neve cobre o pico da montanha o ano todo.",
     imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
-    prompt_pratica: "Pratique com 'peak': Fale sobre ponto mais alto, escalada, conquista. Use como metáfora para sucesso."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'peak' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 290,
@@ -2939,7 +2939,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Skiers enjoy the steep mountain slope in winter.",
     frase_exemplo_portugues: "Esquiadores aproveitam a encosta íngreme da montanha no inverno.",
     imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
-    prompt_pratica: "Pratique com 'slope': Fale sobre inclinação, esqui, dificuldade. Use adjetivos como steep, gentle, dangerous."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'slope' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 291,
@@ -2949,7 +2949,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Waves gently wash against the rocky shore.",
     frase_exemplo_portugues: "Ondas lavam suavemente contra a margem rochosa.",
     imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
-    prompt_pratica: "Pratique com 'shore': Fale sobre encontro entre terra e água. Compare com 'coast', 'beach'. Use diferentes tipos."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'shore' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 292,
@@ -2959,7 +2959,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The rugged coast attracts many tourists annually.",
     frase_exemplo_portugues: "A costa acidentada atrai muitos turistas anualmente.",
     imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
-    prompt_pratica: "Pratique com 'coast': Fale sobre linha costeira, turismo, geografia. Compare com 'shore'. Descreva diferentes tipos."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'coast' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 293,
@@ -2969,7 +2969,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Sailboats anchor safely in the protected bay.",
     frase_exemplo_portugues: "Veleiros ancoram com segurança na baía protegida.",
     imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
-    prompt_pratica: "Pratique com 'bay': Fale sobre proteção natural, navegação, portos. Descreva formato e função."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'bay' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 294,
@@ -2979,7 +2979,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The lighthouse stands proudly on the rocky cape.",
     frase_exemplo_portugues: "O farol fica orgulhosamente no cabo rochoso.",
     imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
-    prompt_pratica: "Pratique com 'cape': Fale sobre projeção de terra, navegação, marcos geográficos. Compare com 'peninsula'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'cape' (referente a geografia) em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 295,
@@ -2989,7 +2989,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The narrow peninsula extends far into the sea.",
     frase_exemplo_portugues: "A península estreita se estende mar adentro.",
     imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
-    prompt_pratica: "Pratique com 'peninsula': Fale sobre geografia, formação de terra cercada por água. Compare com 'cape'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'peninsula' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 296,
@@ -2999,7 +2999,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Ships navigate carefully through the narrow strait.",
     frase_exemplo_portugues: "Navios navegam cuidadosamente pelo estreito.",
     imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
-    prompt_pratica: "Pratique com 'strait': Fale sobre passagem estreita entre terras, navegação, geografia. Descreva importância comercial."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'strait' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 297,
@@ -3009,7 +3009,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The natural channel connects two large bodies of water.",
     frase_exemplo_portugues: "O canal natural conecta duas grandes massas de água.",
     imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
-    prompt_pratica: "Pratique com 'channel': Fale sobre passagem de água, navegação, comunicação. Compare natural vs. artificial."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'channel' (referente a gografia) em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 298,
@@ -3019,7 +3019,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The river delta creates fertile land for farming.",
     frase_exemplo_portugues: "O delta do rio cria terra fértil para agricultura.",
     imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
-    prompt_pratica: "Pratique com 'delta': Fale sobre formação na foz do rio, fertilidade, agricultura. Descreva formato triangular."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'delta' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 299,
@@ -3029,7 +3029,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The estuary provides a nursery for young fish.",
     frase_exemplo_portugues: "O estuário fornece um berçário para peixes jovens.",
     imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
-    prompt_pratica: "Pratique com 'estuary': Fale sobre encontro de rio e mar, ecossistema único, vida marinha."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'estuary' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 300,
@@ -3039,7 +3039,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Colorful fish swim around the coral reef.",
     frase_exemplo_portugues: "Peixes coloridos nadam ao redor do recife de coral.",
     imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
-    prompt_pratica: "Pratique com 'reef': Fale sobre vida marinha, mergulho, conservação. Descreva biodiversidade e beleza."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'reef' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
 
   // BODY (50 words)
