@@ -1745,7 +1745,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The space rocket launches astronauts to the moon.",
     frase_exemplo_portugues: "O foguete espacial lança astronautas para a lua.",
     imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
-    prompt_pratica: "Pratique com 'rocket': Fale sobre exploração espacial, tecnologia. Use atividades como launching, exploring space, carrying astronauts."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'rocket' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 172,
@@ -1755,7 +1755,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The military jet flies faster than the speed of sound.",
     frase_exemplo_portugues: "O jato militar voa mais rápido que a velocidade do som.",
     imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
-    prompt_pratica: "Pratique com 'jet': Fale sobre velocidade, tecnologia militar. Use atividades como flying fast, breaking sound barrier, defending airspace."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'jet' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 173,
@@ -1765,7 +1765,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The silent glider soars gracefully without an engine.",
     frase_exemplo_portugues: "O planador silencioso voa graciosamente sem motor.",
     imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
-    prompt_pratica: "Pratique com 'glider': Fale sobre voo silencioso, correntes de ar. Use atividades como soaring, gliding, using thermals."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'glider' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 174,
@@ -1775,7 +1775,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The colorful hot air balloon floats peacefully in the sky.",
     frase_exemplo_portugues: "O balão de ar quente colorido flutua pacificamente no céu.",
     imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
-    prompt_pratica: "Pratique com 'balloon': Fale sobre voo recreativo, ar quente. Use atividades como floating, heating air, enjoying views."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'balloon' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 175,
@@ -1785,7 +1785,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "We paddle the canoe gently down the quiet river.",
     frase_exemplo_portugues: "Remamos a canoa suavemente rio abaixo.",
     imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
-    prompt_pratica: "Pratique com 'canoe': Fale sobre navegação recreativa, remos. Use atividades como paddling, navigating rivers, enjoying nature."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'canoe' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 176,
@@ -1795,7 +1795,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The kayak moves swiftly through the white water rapids.",
     frase_exemplo_portugues: "O caiaque se move rapidamente pelas corredeiras.",
     imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
-    prompt_pratica: "Pratique com 'kayak': Fale sobre esporte aquático, agilidade. Use atividades como paddling, navigating rapids, balancing."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'kayak' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 177,
@@ -1805,7 +1805,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The luxury yacht anchors in the beautiful bay.",
     frase_exemplo_portugues: "O iate de luxo ancora na baía bonita.",
     imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
-    prompt_pratica: "Pratique com 'yacht': Fale sobre luxo, navegação recreativa. Use atividades como sailing, anchoring, entertaining guests."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'yacht' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 178,
@@ -1815,7 +1815,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The white sailboat catches the wind beautifully.",
     frase_exemplo_portugues: "O veleiro branco pega o vento lindamente.",
     imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
-    prompt_pratica: "Pratique com 'sailboat': Fale sobre navegação à vela, vento. Use atividades como sailing, adjusting sails, racing."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'sailboat' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 179,
@@ -1825,7 +1825,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The speedboat races across the lake at high speed.",
     frase_exemplo_portugues: "A lancha corre pelo lago em alta velocidade.",
     imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
-    prompt_pratica: "Pratique com 'speedboat': Fale sobre velocidade na água, recreação. Use atividades como racing, water skiing, enjoying speed."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'speedboat' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 180,
@@ -1835,7 +1835,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The submarine explores the deep ocean floor.",
     frase_exemplo_portugues: "O submarino explora o fundo profundo do oceano.",
     imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
-    prompt_pratica: "Pratique com 'submarine': Fale sobre exploração submarina, militar. Use atividades como diving, exploring depths, staying underwater."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'submarine' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 181,
