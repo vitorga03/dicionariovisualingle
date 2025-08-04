@@ -2196,7 +2196,7 @@ export const wordsDatabase: Word[] = [
     categoria: "clothes",
     frase_exemplo_ingles: "The colorful scarf adds warmth and style to her outfit.",
     frase_exemplo_portugues: "O cachecol colorido adiciona calor e estilo ao look dela.",
-    imagem_url: "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1436134/pexels-photo-1436134.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'scarf' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -2206,7 +2206,7 @@ export const wordsDatabase: Word[] = [
     categoria: "clothes",
     frase_exemplo_ingles: "A leather belt completes his professional appearance.",
     frase_exemplo_portugues: "Um cinto de couro completa sua aparência profissional.",
-    imagem_url: "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg",
+    imagem_url: "https://images.pexels.com/photos/89783/belts-belt-buckle-leather-metal-89783.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'belt' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -2216,7 +2216,7 @@ export const wordsDatabase: Word[] = [
     categoria: "clothes",
     frase_exemplo_ingles: "He adjusts his silk tie before the important meeting.",
     frase_exemplo_portugues: "Ele ajusta sua gravata de seda antes da reunião importante.",
-    imagem_url: "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg",
+    imagem_url: "https://images.pexels.com/photos/130855/pexels-photo-130855.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'tie' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -2226,7 +2226,7 @@ export const wordsDatabase: Word[] = [
     categoria: "clothes",
     frase_exemplo_ingles: "The elegant suit makes him look very professional.",
     frase_exemplo_portugues: "O terno elegante o faz parecer muito profissional.",
-    imagem_url: "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1300550/pexels-photo-1300550.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'suit' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -2236,7 +2236,7 @@ export const wordsDatabase: Word[] = [
     categoria: "clothes",
     frase_exemplo_ingles: "The nurse wears a clean white uniform at work.",
     frase_exemplo_portugues: "A enfermeira usa um uniforme branco limpo no trabalho.",
-    imagem_url: "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg",
+    imagem_url: "https://images.pexels.com/photos/710743/pexels-photo-710743.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'uniform' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -2246,7 +2246,7 @@ export const wordsDatabase: Word[] = [
     categoria: "clothes",
     frase_exemplo_ingles: "Soft pajamas make sleeping more comfortable.",
     frase_exemplo_portugues: "Pijamas macios tornam o sono mais confortável.",
-    imagem_url: "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg",
+    imagem_url: "https://images.pexels.com/photos/364362/pexels-photo-364362.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'pajamas' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -2256,7 +2256,7 @@ export const wordsDatabase: Word[] = [
     categoria: "clothes",
     frase_exemplo_ingles: "Comfortable underwear is essential for daily wear.",
     frase_exemplo_portugues: "Roupa íntima confortável é essencial para o uso diário.",
-    imagem_url: "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg",
+    imagem_url: "https://images.pexels.com/photos/542506/pexels-photo-542506.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'underwear' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -2266,7 +2266,7 @@ export const wordsDatabase: Word[] = [
     categoria: "clothes",
     frase_exemplo_ingles: "She wears a colorful swimsuit at the beach.",
     frase_exemplo_portugues: "Ela usa um maiô colorido na praia.",
-    imagem_url: "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg",
+    imagem_url: "https://images.pexels.com/photos/565996/pexels-photo-565996.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'swimsuit' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -2276,7 +2276,7 @@ export const wordsDatabase: Word[] = [
     categoria: "clothes",
     frase_exemplo_ingles: "The bright bikini is perfect for sunbathing.",
     frase_exemplo_portugues: "O biquíni colorido é perfeito para tomar sol.",
-    imagem_url: "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg",
+    imagem_url: "https://images.pexels.com/photos/815996/pexels-photo-815996.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'bikini' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -2286,7 +2286,7 @@ export const wordsDatabase: Word[] = [
     categoria: "clothes",
     frase_exemplo_ingles: "Waterproof boots keep feet dry in rainy weather.",
     frase_exemplo_portugues: "Botas impermeáveis mantêm os pés secos em tempo chuvoso.",
-    imagem_url: "https://images.pexels.com/photos/1598507/pexels-photo-1598507.jpeg",
+    imagem_url: "https://images.pexels.com/photos/167706/pexels-photo-167706.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'boots' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -2296,7 +2296,7 @@ export const wordsDatabase: Word[] = [
     categoria: "clothes",
     frase_exemplo_ingles: "Comfortable sandals are perfect for warm weather.",
     frase_exemplo_portugues: "Sandálias confortáveis são perfeitas para tempo quente.",
-    imagem_url: "https://images.pexels.com/photos/1598507/pexels-photo-1598507.jpeg",
+    imagem_url: "https://images.pexels.com/photos/112285/pexels-photo-112285.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'sandals' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -2306,7 +2306,7 @@ export const wordsDatabase: Word[] = [
     categoria: "clothes",
     frase_exemplo_ingles: "White sneakers go well with casual outfits.",
     frase_exemplo_portugues: "Tênis brancos combinam bem com looks casuais.",
-    imagem_url: "https://images.pexels.com/photos/1598507/pexels-photo-1598507.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'sneakers' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -2316,7 +2316,7 @@ export const wordsDatabase: Word[] = [
     categoria: "clothes",
     frase_exemplo_ingles: "High heels make her look taller and more elegant.",
     frase_exemplo_portugues: "Salto alto a faz parecer mais alta e elegante.",
-    imagem_url: "https://images.pexels.com/photos/1598507/pexels-photo-1598507.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1630344/pexels-photo-1630344.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'heels' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -2326,7 +2326,7 @@ export const wordsDatabase: Word[] = [
     categoria: "clothes",
     frase_exemplo_ingles: "Cozy slippers keep feet warm inside the house.",
     frase_exemplo_portugues: "Chinelos aconchegantes mantêm os pés aquecidos dentro de casa.",
-    imagem_url: "https://images.pexels.com/photos/1598507/pexels-photo-1598507.jpeg",
+    imagem_url: "https://images.pexels.com/photos/40737/sandals-flip-flops-footwear-beach-40737.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'slippers' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -2336,7 +2336,7 @@ export const wordsDatabase: Word[] = [
     categoria: "clothes",
     frase_exemplo_ingles: "The soft robe is perfect for relaxing after a shower.",
     frase_exemplo_portugues: "O roupão macio é perfeito para relaxar depois do banho.",
-    imagem_url: "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg",
+    imagem_url: "https://images.pexels.com/photos/306739/pexels-photo-306739.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'robe' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
