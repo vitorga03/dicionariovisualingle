@@ -1955,7 +1955,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The wheelchair provides mobility for people with disabilities.",
     frase_exemplo_portugues: "A cadeira de rodas fornece mobilidade para pessoas com deficiência.",
     imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
-    prompt_pratica: "Pratique com 'wheelchair': Fale sobre acessibilidade, independência. Use atividades como rolling, maneuvering, accessing ramps."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'wheelchair' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 193,
@@ -1965,7 +1965,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Parents push the baby stroller through the park.",
     frase_exemplo_portugues: "Os pais empurram o carrinho de bebê pelo parque.",
     imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
-    prompt_pratica: "Pratique com 'stroller': Use também 'pushchair' (britânico). Fale sobre cuidado infantil, mobilidade. Use atividades como pushing, folding, maneuvering."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'stroller' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 194,
@@ -1975,7 +1975,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The train wagon carries passengers across the country.",
     frase_exemplo_portugues: "O vagão do trem carrega passageiros pelo país.",
     imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
-    prompt_pratica: "Pratique com 'wagon': Fale sobre transporte ferroviário, diferentes tipos. Use atividades como boarding, traveling, connecting cars."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'wagon' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 195,
@@ -1985,7 +1985,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The truck pulls a heavy trailer full of cargo.",
     frase_exemplo_portugues: "O caminhão puxa um reboque pesado cheio de carga.",
     imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
-    prompt_pratica: "Pratique com 'trailer': Fale sobre transporte de carga, acoplamento. Use atividades como pulling, loading, hauling goods."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'trailer' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 196,
@@ -1995,7 +1995,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The elegant limousine arrives for the special occasion.",
     frase_exemplo_portugues: "A limusine elegante chega para a ocasião especial.",
     imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
-    prompt_pratica: "Pratique com 'limousine': Use também 'limo'. Fale sobre luxo, ocasiões especiais. Use atividades como arriving in style, celebrating, impressing."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'limousine' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 197,
@@ -2005,7 +2005,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "We drive the convertible with the top down on sunny days.",
     frase_exemplo_portugues: "Dirigimos o conversível com a capota abaixada em dias ensolarados.",
     imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
-    prompt_pratica: "Pratique com 'convertible': Fale sobre liberdade, tempo bom. Use atividades como putting top down, enjoying breeze, feeling free."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'convertible' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 198,
@@ -2015,7 +2015,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The pickup truck hauls tools and equipment to the job site.",
     frase_exemplo_portugues: "A caminhonete transporta ferramentas e equipamentos para o local de trabalho.",
     imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
-    prompt_pratica: "Pratique com 'pickup truck': Use também 'pickup'. Fale sobre trabalho, versatilidade. Use atividades como hauling, loading bed, working."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'pickup truck' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 199,
@@ -2025,7 +2025,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The family minivan comfortably seats seven people.",
     frase_exemplo_portugues: "A minivan da família acomoda confortavelmente sete pessoas.",
     imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
-    prompt_pratica: "Pratique com 'minivan': Fale sobre famílias grandes, praticidade. Use atividades como carpooling, traveling with family, loading cargo."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'minivan' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 200,
@@ -2035,7 +2035,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The compact hatchback is perfect for city driving.",
     frase_exemplo_portugues: "O hatchback compacto é perfeito para dirigir na cidade.",
     imagem_url: "https://images.pexels.com/photos/385998/pexels-photo-385998.jpeg",
-    prompt_pratica: "Pratique com 'hatchback': Fale sobre eficiência, cidade. Use atividades como parking easily, saving fuel, maneuvering in traffic."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'hatchback' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
 
   // CLOTHES (50 words)
