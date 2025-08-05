@@ -4455,7 +4455,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Reduce plastic waste by using reusable containers.",
     frase_exemplo_portugues: "Reduza o desperdício de plástico usando recipientes reutilizáveis.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'plastic': Fale sobre material, meio ambiente, reciclagem. Use como adjetivo. Sustentabilidade."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'plastic' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 442,
@@ -4465,7 +4465,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The metal frame provides strong support for the structure.",
     frase_exemplo_portugues: "A estrutura de metal fornece suporte forte para a construção.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'metal': Fale sobre diferentes tipos, propriedades, usos. Use como adjetivo. Reciclagem de metais."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'metal' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 443,
@@ -4475,7 +4475,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Furniture made from solid wood lasts for generations.",
     frase_exemplo_portugues: "Móveis feitos de madeira maciça duram por gerações.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'wood': Fale sobre diferentes tipos, construção, sustentabilidade. Use como material natural vs. sintético."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'wood' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 444,
@@ -4485,7 +4485,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Choose soft fabric for comfortable clothing.",
     frase_exemplo_portugues: "Escolha tecido macio para roupas confortáveis.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'fabric': Fale sobre diferentes tipos, texturas, usos. Compare tecidos naturais vs. sintéticos."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'fabric' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 445,
@@ -4495,7 +4495,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Genuine leather shoes are durable and comfortable.",
     frase_exemplo_portugues: "Sapatos de couro genuíno são duráveis e confortáveis.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'leather': Fale sobre qualidade, durabilidade, diferentes tipos. Use em roupas, acessórios, móveis."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'leather' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 446,
@@ -4505,7 +4505,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Cotton shirts are breathable and perfect for summer.",
     frase_exemplo_portugues: "Camisas de algodão são respiráveis e perfeitas para o verão.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'cotton': Fale sobre fibra natural, conforto, diferentes usos. Compare com fibras sintéticas."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'cotton' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 447,
@@ -4515,7 +4515,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The elegant silk dress feels smooth against the skin.",
     frase_exemplo_portugues: "O vestido elegante de seda é macio contra a pele.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'silk': Fale sobre luxo, suavidade, origem natural. Use expressões como 'smooth as silk'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'silk' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 448,
@@ -4525,7 +4525,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Warm wool sweaters keep you cozy in winter.",
     frase_exemplo_portugues: "Suéteres quentes de lã mantêm você aconchegado no inverno.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'wool': Fale sobre calor, origem animal, diferentes tipos. Use em roupas de inverno, tapetes."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'wool' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 449,
@@ -4535,7 +4535,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The sparkling diamond ring symbolizes eternal love.",
     frase_exemplo_portugues: "O anel de diamante cintilante simboliza amor eterno.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'diamond': Fale sobre valor, dureza, joias. Use expressões como 'diamond in the rough'. Diferentes usos."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'diamond' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 450,
@@ -4545,7 +4545,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Pure gold jewelry never tarnishes or loses its shine.",
     frase_exemplo_portugues: "Joias de ouro puro nunca mancham ou perdem o brilho.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'gold': Fale sobre valor, investimento, joias. Use como cor. Expressões como 'good as gold'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'gold' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
 
   // EMOTIONS (55 words)
