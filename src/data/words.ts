@@ -3952,7 +3952,7 @@ export const wordsDatabase: Word[] = [
     categoria: "actions",
     frase_exemplo_ingles: "Turn left at the next traffic light.",
     frase_exemplo_portugues: "Vire à esquerda no próximo semáforo.",
-    imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
+    imagem_url: "https://images.pexels.com/photos/33295795/pexels-photo-33295795.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'turn' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3962,7 +3962,7 @@ export const wordsDatabase: Word[] = [
     categoria: "actions",
     frase_exemplo_ingles: "Let's start the meeting with introductions.",
     frase_exemplo_portugues: "Vamos começar a reunião com apresentações.",
-    imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
+    imagem_url: "https://images.pexels.com/photos/163444/sport-treadmill-tor-route-163444.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'start' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3972,7 +3972,7 @@ export const wordsDatabase: Word[] = [
     categoria: "actions",
     frase_exemplo_ingles: "The bus stops at every corner in downtown.",
     frase_exemplo_portugues: "O ônibus para em toda esquina no centro da cidade.",
-    imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
+    imagem_url: "https://images.pexels.com/photos/39080/stop-shield-traffic-sign-road-sign-39080.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'stop' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3982,7 +3982,7 @@ export const wordsDatabase: Word[] = [
     categoria: "actions",
     frase_exemplo_ingles: "We need to move the furniture to clean underneath.",
     frase_exemplo_portugues: "Precisamos mover os móveis para limpar embaixo.",
-    imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
+    imagem_url: "https://images.pexels.com/photos/7203879/pexels-photo-7203879.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'move' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3992,7 +3992,7 @@ export const wordsDatabase: Word[] = [
     categoria: "actions",
     frase_exemplo_ingles: "They dance beautifully together at the wedding.",
     frase_exemplo_portugues: "Eles dançam lindamente juntos no casamento.",
-    imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
+    imagem_url: "https://images.pexels.com/photos/12312/pexels-photo-12312.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'dance' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4002,7 +4002,7 @@ export const wordsDatabase: Word[] = [
     categoria: "actions",
     frase_exemplo_ingles: "She sings beautifully in the church choir.",
     frase_exemplo_portugues: "Ela canta lindamente no coral da igreja.",
-    imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
+    imagem_url: "https://images.pexels.com/photos/236149/pexels-photo-236149.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'sing' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4012,7 +4012,7 @@ export const wordsDatabase: Word[] = [
     categoria: "actions",
     frase_exemplo_ingles: "Everyone laughs at his funny jokes.",
     frase_exemplo_portugues: "Todos riem das piadas engraçadas dele.",
-    imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
+    imagem_url: "https://images.pexels.com/photos/2219118/pexels-photo-2219118.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'laugh' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4022,7 +4022,7 @@ export const wordsDatabase: Word[] = [
     categoria: "actions",
     frase_exemplo_ingles: "The baby cries when she is hungry or tired.",
     frase_exemplo_portugues: "O bebê chora quando está com fome ou cansado.",
-    imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
+    imagem_url: "https://images.pexels.com/photos/47090/baby-tears-small-child-sad-47090.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'cry' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4032,7 +4032,7 @@ export const wordsDatabase: Word[] = [
     categoria: "actions",
     frase_exemplo_ingles: "She smiles warmly when greeting new people.",
     frase_exemplo_portugues: "Ela sorri calorosamente ao cumprimentar pessoas novas.",
-    imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1236678/pexels-photo-1236678.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'smile' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4042,7 +4042,7 @@ export const wordsDatabase: Word[] = [
     categoria: "actions",
     frase_exemplo_ingles: "Parents kiss their children goodnight before bed.",
     frase_exemplo_portugues: "Pais beijam seus filhos para dar boa noite antes de dormir.",
-    imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
+    imagem_url: "https://images.pexels.com/photos/984944/pexels-photo-984944.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'kiss' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
 
