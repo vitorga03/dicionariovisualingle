@@ -3553,7 +3553,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "I walk to work every morning for exercise.",
     frase_exemplo_portugues: "Eu caminho para o trabalho toda manhã para me exercitar.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'walk': Use em diferentes tempos verbais. Fale sobre diferentes tipos (stroll, march, hike). Compare com outros movimentos."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'walk' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 352,
@@ -3563,7 +3563,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "She runs five miles every morning before breakfast.",
     frase_exemplo_portugues: "Ela corre cinco milhas toda manhã antes do café da manhã.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'run': Fale sobre exercício, velocidade, competições. Use expressões como 'run out of', 'run into'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'run' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 353,
@@ -3573,7 +3573,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Children love to jump on the trampoline.",
     frase_exemplo_portugues: "Crianças adoram pular no trampolim.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'jump': Fale sobre altura, alegria, esportes. Use expressões como 'jump for joy', 'jump to conclusions'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'jump' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 354,
@@ -3583,7 +3583,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Please sit down and make yourself comfortable.",
     frase_exemplo_portugues: "Por favor, sente-se e fique à vontade.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'sit': Use 'sit down', 'sit up'. Fale sobre postura, móveis, relaxamento. Compare com 'seat'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'sit' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 355,
@@ -3593,7 +3593,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Everyone stands when the judge enters the courtroom.",
     frase_exemplo_portugues: "Todos ficam em pé quando o juiz entra no tribunal.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'stand': Use 'stand up', 'stand out'. Fale sobre respeito, postura. Expressões como 'stand for'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'stand' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 356,
@@ -3603,7 +3603,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "I lie down on the soft bed to rest.",
     frase_exemplo_portugues: "Eu me deito na cama macia para descansar.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'lie': Note diferença entre 'lie down' (deitar) e 'lie' (mentir). Use 'lie down', 'lying'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'lie' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 357,
@@ -3613,7 +3613,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Babies sleep up to 16 hours per day.",
     frase_exemplo_portugues: "Bebês dormem até 16 horas por dia.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'sleep': Fale sobre descanso, sonhos, horários. Use expressões como 'sleep tight', 'sleep on it'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'sleep' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 358,
@@ -3623,7 +3623,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "We eat dinner together as a family every night.",
     frase_exemplo_portugues: "Jantamos juntos em família toda noite.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'eat': Fale sobre refeições, nutrição, hábitos. Use 'eat out', 'eat up'. Compare com 'have' para refeições."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'eat' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 359,
@@ -3633,7 +3633,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Remember to drink plenty of water throughout the day.",
     frase_exemplo_portugues: "Lembre-se de beber bastante água durante o dia.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'drink': Fale sobre hidratação, diferentes bebidas. Use expressões como 'drink up', 'drink to'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'drink' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 360,
@@ -3643,7 +3643,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "My grandmother loves to cook traditional recipes.",
     frase_exemplo_portugues: "Minha avó adora cozinhar receitas tradicionais.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'cook': Fale sobre métodos (bake, fry, boil). Use como substantivo (the cook). Descreva habilidades culinárias."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'cook' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 361,
