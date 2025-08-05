@@ -3051,7 +3051,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "She nods her head to show agreement.",
     frase_exemplo_portugues: "Ela balança a cabeça para mostrar concordância.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'head': Fale sobre partes da cabeça, movimentos. Use expressões como 'head over heels', 'use your head'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'head' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 302,
@@ -3061,7 +3061,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "A smile brightens up her beautiful face.",
     frase_exemplo_portugues: "Um sorriso ilumina seu rosto bonito.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'face': Fale sobre expressões faciais, emoções. Use verbos como smile, frown, blush. Descreva características."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'face' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 303,
@@ -3071,7 +3071,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Her blue eyes sparkle in the sunlight.",
     frase_exemplo_portugues: "Seus olhos azuis brilham na luz do sol.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'eye': Fale sobre cores, visão, expressões. Use 'eyes' no plural. Expressões como 'eye to eye', 'keep an eye on'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'eye' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 304,
@@ -3081,7 +3081,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The delicious smell reaches my nose immediately.",
     frase_exemplo_portugues: "O cheiro delicioso chega ao meu nariz imediatamente.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'nose': Fale sobre olfato, respiração, formas. Use expressões como 'follow your nose', 'nose around'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'nose' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 305,
@@ -3091,7 +3091,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "He opens his mouth to speak clearly.",
     frase_exemplo_portugues: "Ele abre a boca para falar claramente.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'mouth': Fale sobre fala, alimentação, expressões. Use verbos como open, close, smile. Expressões idiomáticas."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'mouth' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 306,
@@ -3101,7 +3101,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Music sounds beautiful in my ears.",
     frase_exemplo_portugues: "Música soa linda nos meus ouvidos.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'ear': Fale sobre audição, equilíbrio. Use 'ears' no plural. Expressões como 'all ears', 'ear to ear'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'ear' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 307,
@@ -3111,7 +3111,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "She brushes her long hair every morning.",
     frase_exemplo_portugues: "Ela escova seu cabelo longo toda manhã.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'hair': Fale sobre cores, texturas, estilos. Use verbos como brush, cut, wash. Descreva diferentes penteados."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'hair' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 308,
@@ -3121,7 +3121,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The scarf keeps my neck warm in winter.",
     frase_exemplo_portugues: "O cachecol mantém meu pescoço aquecido no inverno.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'neck': Fale sobre movimento, proteção, acessórios. Use expressões como 'neck and neck', 'pain in the neck'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'neck' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 309,
@@ -3131,7 +3131,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "He carries the heavy bag on his shoulder.",
     frase_exemplo_portugues: "Ele carrega a bolsa pesada no ombro.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'shoulder': Fale sobre carregar peso, gestos. Use 'shoulders' no plural. Expressões como 'shoulder to shoulder'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'shoulder' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 310,
@@ -3141,7 +3141,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "She raises her arm to ask a question.",
     frase_exemplo_portugues: "Ela levanta o braço para fazer uma pergunta.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'arm': Fale sobre movimentos, força. Use 'arms' no plural. Expressões como 'arm in arm', 'twist someone's arm'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'arm' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 311,
