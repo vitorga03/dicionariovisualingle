@@ -3652,7 +3652,7 @@ export const wordsDatabase: Word[] = [
     categoria: "actions",
     frase_exemplo_ingles: "She reads at least one book every month.",
     frase_exemplo_portugues: "Ela lê pelo menos um livro todo mês.",
-    imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
+    imagem_url: "https://images.pexels.com/photos/5604947/pexels-photo-5604947.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'read' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3662,7 +3662,7 @@ export const wordsDatabase: Word[] = [
     categoria: "actions",
     frase_exemplo_ingles: "Students write essays to practice their English skills.",
     frase_exemplo_portugues: "Estudantes escrevem redações para praticar suas habilidades em inglês.",
-    imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
+    imagem_url: "https://images.pexels.com/photos/834897/pexels-photo-834897.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'write' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3672,7 +3672,7 @@ export const wordsDatabase: Word[] = [
     categoria: "actions",
     frase_exemplo_ingles: "He speaks three languages fluently.",
     frase_exemplo_portugues: "Ele fala três idiomas fluentemente.",
-    imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
+    imagem_url: "https://images.pexels.com/photos/716276/pexels-photo-716276.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'speak' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3682,7 +3682,7 @@ export const wordsDatabase: Word[] = [
     categoria: "actions",
     frase_exemplo_ingles: "Good students listen carefully to their teachers.",
     frase_exemplo_portugues: "Bons estudantes escutam atentamente seus professores.",
-    imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
+    imagem_url: "https://images.pexels.com/photos/3779448/pexels-photo-3779448.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'listen' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3692,7 +3692,7 @@ export const wordsDatabase: Word[] = [
     categoria: "actions",
     frase_exemplo_ingles: "We watch movies together on Friday nights.",
     frase_exemplo_portugues: "Assistimos filmes juntos nas noites de sexta-feira.",
-    imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
+    imagem_url: "https://images.pexels.com/photos/4545955/pexels-photo-4545955.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'watch' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3702,7 +3702,7 @@ export const wordsDatabase: Word[] = [
     categoria: "actions",
     frase_exemplo_ingles: "Look both ways before crossing the street.",
     frase_exemplo_portugues: "Olhe para os dois lados antes de atravessar a rua.",
-    imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
+    imagem_url: "https://images.pexels.com/photos/256380/pexels-photo-256380.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'look' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3712,7 +3712,7 @@ export const wordsDatabase: Word[] = [
     categoria: "actions",
     frase_exemplo_ingles: "I can see the mountains clearly from here.",
     frase_exemplo_portugues: "Posso ver as montanhas claramente daqui.",
-    imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
+    imagem_url: "https://images.pexels.com/photos/3342739/pexels-photo-3342739.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'see' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3722,7 +3722,7 @@ export const wordsDatabase: Word[] = [
     categoria: "actions",
     frase_exemplo_ingles: "Can you hear the birds singing outside?",
     frase_exemplo_portugues: "Você consegue ouvir os pássaros cantando lá fora?",
-    imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
+    imagem_url: "https://images.pexels.com/photos/7681302/pexels-photo-7681302.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'hear' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3732,7 +3732,7 @@ export const wordsDatabase: Word[] = [
     categoria: "actions",
     frase_exemplo_ingles: "Please don't touch the wet paint on the wall.",
     frase_exemplo_portugues: "Por favor, não toque na tinta molhada da parede.",
-    imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
+    imagem_url: "https://images.pexels.com/photos/804416/pexels-photo-804416.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'touch' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3742,7 +3742,7 @@ export const wordsDatabase: Word[] = [
     categoria: "actions",
     frase_exemplo_ingles: "The flowers smell wonderful in the garden.",
     frase_exemplo_portugues: "As flores cheiram maravilhosamente no jardim.",
-    imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1170654/pexels-photo-1170654.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'smell' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
