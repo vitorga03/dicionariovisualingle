@@ -4055,7 +4055,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "I read an interesting book about space exploration.",
     frase_exemplo_portugues: "Eu li um livro interessante sobre exploração espacial.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'book': Fale sobre diferentes tipos (novel, textbook, cookbook). Use como verbo (reservar). Expressões como 'by the book'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'book' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 402,
@@ -4065,7 +4065,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Please use a blue pen to sign the document.",
     frase_exemplo_portugues: "Por favor, use uma caneta azul para assinar o documento.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'pen': Compare com 'pencil'. Fale sobre escrita, diferentes tipos. Use expressões como 'pen pal'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'pen' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 403,
@@ -4075,7 +4075,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Students use pencils for math calculations and drawings.",
     frase_exemplo_portugues: "Estudantes usam lápis para cálculos matemáticos e desenhos.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'pencil': Fale sobre escola, desenho, apagar. Use 'pencil in' (agendar provisoriamente). Compare com 'pen'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'pencil' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 404,
@@ -4085,7 +4085,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Write your name clearly on the paper.",
     frase_exemplo_portugues: "Escreva seu nome claramente no papel.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'paper': Fale sobre diferentes tipos, usos. Use 'on paper' (teoricamente). Compare papel físico vs. digital."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'paper' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 405,
@@ -4095,7 +4095,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "My computer helps me work efficiently from home.",
     frase_exemplo_portugues: "Meu computador me ajuda a trabalhar eficientemente de casa.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'computer': Fale sobre tecnologia, trabalho, diferentes tipos (desktop, laptop). Use verbos relacionados."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'computer' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 406,
@@ -4105,7 +4105,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "My phone battery died during the important call.",
     frase_exemplo_portugues: "A bateria do meu telefone acabou durante a ligação importante.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'phone': Fale sobre comunicação, diferentes tipos. Use como verbo (telefonar). Expressões com 'phone'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'phone' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 407,
@@ -4115,7 +4115,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "She takes beautiful photos with her new camera.",
     frase_exemplo_portugues: "Ela tira fotos bonitas com sua câmera nova.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'camera': Fale sobre fotografia, diferentes tipos, tecnologia. Use verbos como 'take pictures', 'record'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'camera' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 408,
@@ -4125,7 +4125,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "His expensive watch shows the time in multiple zones.",
     frase_exemplo_portugues: "Seu relógio caro mostra a hora em múltiplos fusos horários.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'watch': Compare substantivo (relógio) e verbo (assistir). Fale sobre tempo, diferentes tipos de relógios."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'watch' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 409,
@@ -4135,7 +4135,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The old clock in the tower chimes every hour.",
     frase_exemplo_portugues: "O relógio antigo na torre bate a cada hora.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'clock': Compare com 'watch'. Fale sobre diferentes tipos (wall clock, alarm clock). Expressões com 'clock'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'clock' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 410,
@@ -4145,7 +4145,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "She carries her laptop in a leather bag.",
     frase_exemplo_portugues: "Ela carrega seu laptop numa bolsa de couro.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'bag': Fale sobre diferentes tipos (handbag, shopping bag, backpack). Use expressões como 'bag of tricks'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'bag' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 411,
