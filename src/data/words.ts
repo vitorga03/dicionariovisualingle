@@ -4155,7 +4155,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Keep your credit cards safe in your wallet.",
     frase_exemplo_portugues: "Mantenha seus cartões de crédito seguros na sua carteira.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'wallet': Fale sobre dinheiro, cartões, segurança. Compare com 'purse'. Descreva conteúdo típico."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'wallet' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 412,
@@ -4165,7 +4165,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "I lost my house key and can't get inside.",
     frase_exemplo_portugues: "Perdi a chave de casa e não consigo entrar.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'key': Fale sobre segurança, acesso. Use como adjetivo (principal). Expressões como 'key point'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'key' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 413,
@@ -4175,7 +4175,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Drink water from a reusable bottle to help environment.",
     frase_exemplo_portugues: "Beba água de uma garrafa reutilizável para ajudar o meio ambiente.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'bottle': Fale sobre diferentes tipos, materiais, conteúdos. Use como verbo (engarrafar). Sustentabilidade."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'bottle' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 414,
@@ -4185,7 +4185,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Would you like a cup of coffee or tea?",
     frase_exemplo_portugues: "Você gostaria de uma xícara de café ou chá?",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'cup': Fale sobre bebidas quentes, diferentes materiais. Compare com 'mug'. Use como medida."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'cup' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 415,
@@ -4195,7 +4195,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Fill the glass with cold water from the refrigerator.",
     frase_exemplo_portugues: "Encha o copo com água gelada da geladeira.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'glass': Compare substantivo (copo/vidro) e material. Fale sobre transparência, fragilidade, reciclagem."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'glass' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 416,
@@ -4205,7 +4205,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Serve the delicious meal on a clean white plate.",
     frase_exemplo_portugues: "Sirva a refeição deliciosa num prato branco limpo.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'plate': Fale sobre refeições, diferentes tamanhos, materiais. Use expressões como 'clean your plate'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'plate' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 417,
@@ -4215,7 +4215,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Mix the ingredients thoroughly in a large bowl.",
     frase_exemplo_portugues: "Misture os ingredientes completamente numa tigela grande.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'bowl': Fale sobre cozinha, diferentes usos, formatos. Compare com 'dish'. Use em receitas."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'bowl' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 418,
@@ -4225,7 +4225,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Use a spoon to stir the soup gently.",
     frase_exemplo_portugues: "Use uma colher para mexer a sopa suavemente.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'spoon': Fale sobre utensílios, diferentes tamanhos. Use como verbo (dar colheradas). Expressões idiomáticas."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'spoon' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 419,
@@ -4235,7 +4235,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Hold the fork in your left hand while cutting.",
     frase_exemplo_portugues: "Segure o garfo na mão esquerda enquanto corta.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'fork': Fale sobre etiqueta à mesa, diferentes tipos. Use como verbo (bifurcar). Expressões com 'fork'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'fork' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 420,
@@ -4245,7 +4245,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Be careful with the sharp knife when chopping vegetables.",
     frase_exemplo_portugues: "Tenha cuidado com a faca afiada ao cortar vegetais.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'knife': Fale sobre segurança, diferentes tipos, usos. Note plural 'knives'. Expressões idiomáticas."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'knife' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 421,
