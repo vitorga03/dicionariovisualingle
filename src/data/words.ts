@@ -2948,7 +2948,7 @@ export const wordsDatabase: Word[] = [
     categoria: "nature",
     frase_exemplo_ingles: "Waves gently wash against the rocky shore.",
     frase_exemplo_portugues: "Ondas lavam suavemente contra a margem rochosa.",
-    imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
+    imagem_url: "https://images.pexels.com/photos/19821448/pexels-photo-19821448.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'shore' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -2958,7 +2958,7 @@ export const wordsDatabase: Word[] = [
     categoria: "nature",
     frase_exemplo_ingles: "The rugged coast attracts many tourists annually.",
     frase_exemplo_portugues: "A costa acidentada atrai muitos turistas anualmente.",
-    imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
+    imagem_url: "https://images.pexels.com/photos/462162/pexels-photo-462162.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'coast' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -2968,7 +2968,7 @@ export const wordsDatabase: Word[] = [
     categoria: "nature",
     frase_exemplo_ingles: "Sailboats anchor safely in the protected bay.",
     frase_exemplo_portugues: "Veleiros ancoram com segurança na baía protegida.",
-    imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
+    imagem_url: "https://images.pexels.com/photos/27874557/pexels-photo-27874557.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'bay' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -2978,7 +2978,7 @@ export const wordsDatabase: Word[] = [
     categoria: "nature",
     frase_exemplo_ingles: "The lighthouse stands proudly on the rocky cape.",
     frase_exemplo_portugues: "O farol fica orgulhosamente no cabo rochoso.",
-    imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
+    imagem_url: "https://images.pexels.com/photos/33285931/pexels-photo-33285931.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'cape' (referente a geografia) em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -2988,7 +2988,7 @@ export const wordsDatabase: Word[] = [
     categoria: "nature",
     frase_exemplo_ingles: "The narrow peninsula extends far into the sea.",
     frase_exemplo_portugues: "A península estreita se estende mar adentro.",
-    imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1433052/pexels-photo-1433052.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'peninsula' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -2998,7 +2998,7 @@ export const wordsDatabase: Word[] = [
     categoria: "nature",
     frase_exemplo_ingles: "Ships navigate carefully through the narrow strait.",
     frase_exemplo_portugues: "Navios navegam cuidadosamente pelo estreito.",
-    imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
+    imagem_url: "https://images.pexels.com/photos/33225445/pexels-photo-33225445.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'strait' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3008,7 +3008,7 @@ export const wordsDatabase: Word[] = [
     categoria: "nature",
     frase_exemplo_ingles: "The natural channel connects two large bodies of water.",
     frase_exemplo_portugues: "O canal natural conecta duas grandes massas de água.",
-    imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
+    imagem_url: "https://images.pexels.com/photos/739411/pexels-photo-739411.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'channel' (referente a gografia) em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3018,7 +3018,7 @@ export const wordsDatabase: Word[] = [
     categoria: "nature",
     frase_exemplo_ingles: "The river delta creates fertile land for farming.",
     frase_exemplo_portugues: "O delta do rio cria terra fértil para agricultura.",
-    imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1087980/pexels-photo-1087980.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'delta' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3028,7 +3028,7 @@ export const wordsDatabase: Word[] = [
     categoria: "nature",
     frase_exemplo_ingles: "The estuary provides a nursery for young fish.",
     frase_exemplo_portugues: "O estuário fornece um berçário para peixes jovens.",
-    imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
+    imagem_url: "https://images.pexels.com/photos/17299048/pexels-photo-17299048.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'estuary' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3038,7 +3038,7 @@ export const wordsDatabase: Word[] = [
     categoria: "nature",
     frase_exemplo_ingles: "Colorful fish swim around the coral reef.",
     frase_exemplo_portugues: "Peixes coloridos nadam ao redor do recife de coral.",
-    imagem_url: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1125979/pexels-photo-1125979.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'reef' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
 
