@@ -3953,7 +3953,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Turn left at the next traffic light.",
     frase_exemplo_portugues: "Vire à esquerda no próximo semáforo.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'turn': Fale sobre direções, mudanças. Use 'turn on', 'turn off', 'turn around'. Muito versátil."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'turn' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 392,
@@ -3963,7 +3963,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Let's start the meeting with introductions.",
     frase_exemplo_portugues: "Vamos começar a reunião com apresentações.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'start': Compare com 'begin'. Use como verbo e substantivo. Fale sobre início, motores."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'start' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 393,
@@ -3973,7 +3973,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The bus stops at every corner in downtown.",
     frase_exemplo_portugues: "O ônibus para em toda esquina no centro da cidade.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'stop': Use como verbo e substantivo. Fale sobre movimento, atividades. Use 'stop by', 'stop over'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'stop' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 394,
@@ -3983,7 +3983,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "We need to move the furniture to clean underneath.",
     frase_exemplo_portugues: "Precisamos mover os móveis para limpar embaixo.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'move': Fale sobre mudança de posição, casa. Use 'move in', 'move out', 'move on'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'move' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 395,
@@ -3993,7 +3993,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "They dance beautifully together at the wedding.",
     frase_exemplo_portugues: "Eles dançam lindamente juntos no casamento.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'dance': Fale sobre diferentes estilos, música, celebrações. Use como verbo e substantivo."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'dance' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 396,
@@ -4003,7 +4003,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "She sings beautifully in the church choir.",
     frase_exemplo_portugues: "Ela canta lindamente no coral da igreja.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'sing': Fale sobre música, voz, emoções. Use 'sing along', 'sing out'. Descreva diferentes estilos."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'sing' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 397,
@@ -4013,7 +4013,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Everyone laughs at his funny jokes.",
     frase_exemplo_portugues: "Todos riem das piadas engraçadas dele.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'laugh': Fale sobre humor, alegria. Use 'laugh at', 'laugh about'. Compare com 'smile'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'laugh' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 398,
@@ -4023,7 +4023,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The baby cries when she is hungry or tired.",
     frase_exemplo_portugues: "O bebê chora quando está com fome ou cansado.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'cry': Fale sobre emoções, lágrimas. Use 'cry out', 'cry for'. Diferentes razões para chorar."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'cry' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 399,
@@ -4033,7 +4033,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "She smiles warmly when greeting new people.",
     frase_exemplo_portugues: "Ela sorri calorosamente ao cumprimentar pessoas novas.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'smile': Use como verbo e substantivo. Fale sobre felicidade, cortesia. Compare com 'laugh'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'smile' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 400,
@@ -4043,7 +4043,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Parents kiss their children goodnight before bed.",
     frase_exemplo_portugues: "Pais beijam seus filhos para dar boa noite antes de dormir.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'kiss': Use como verbo e substantivo. Fale sobre afeto, diferentes tipos de beijos, culturas."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'kiss' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
 
   // OBJECTS (50 words)
