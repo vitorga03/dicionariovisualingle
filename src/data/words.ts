@@ -3653,7 +3653,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "She reads at least one book every month.",
     frase_exemplo_portugues: "Ela lê pelo menos um livro todo mês.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'read': Fale sobre diferentes materiais (books, newspapers, signs). Use expressões como 'read between the lines'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'read' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 362,
@@ -3663,7 +3663,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Students write essays to practice their English skills.",
     frase_exemplo_portugues: "Estudantes escrevem redações para praticar suas habilidades em inglês.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'write': Fale sobre diferentes tipos (letters, stories, notes). Use 'write down', 'write up'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'write' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 363,
@@ -3673,7 +3673,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "He speaks three languages fluently.",
     frase_exemplo_portugues: "Ele fala três idiomas fluentemente.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'speak': Compare com 'talk', 'say', 'tell'. Fale sobre idiomas, comunicação. Use 'speak up', 'speak out'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'speak' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 364,
@@ -3683,7 +3683,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Good students listen carefully to their teachers.",
     frase_exemplo_portugues: "Bons estudantes escutam atentamente seus professores.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'listen': Compare com 'hear'. Use 'listen to'. Fale sobre atenção, música, conselhos."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'listen' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 365,
@@ -3693,7 +3693,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "We watch movies together on Friday nights.",
     frase_exemplo_portugues: "Assistimos filmes juntos nas noites de sexta-feira.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'watch': Compare com 'see', 'look'. Fale sobre TV, filmes, observação. Use 'watch out'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'watch' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 366,
@@ -3703,7 +3703,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Look both ways before crossing the street.",
     frase_exemplo_portugues: "Olhe para os dois lados antes de atravessar a rua.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'look': Use 'look at', 'look for', 'look after'. Compare com 'see', 'watch'. Muitas expressões."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'look' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 367,
@@ -3713,7 +3713,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "I can see the mountains clearly from here.",
     frase_exemplo_portugues: "Posso ver as montanhas claramente daqui.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'see': Compare com 'look', 'watch'. Fale sobre visão, compreensão. Use 'see you', 'I see'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'see' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 368,
@@ -3723,7 +3723,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Can you hear the birds singing outside?",
     frase_exemplo_portugues: "Você consegue ouvir os pássaros cantando lá fora?",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'hear': Compare com 'listen'. Fale sobre sons, notícias. Use 'hear from', 'hear about'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'hear' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 369,
@@ -3733,7 +3733,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Please don't touch the wet paint on the wall.",
     frase_exemplo_portugues: "Por favor, não toque na tinta molhada da parede.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'touch': Fale sobre sentidos, contato físico. Use expressões como 'in touch', 'touch base'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'touch' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 370,
@@ -3743,7 +3743,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The flowers smell wonderful in the garden.",
     frase_exemplo_portugues: "As flores cheiram maravilhosamente no jardim.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'smell': Use como verbo e substantivo. Fale sobre aromas, perfumes, comida. Descreva diferentes cheiros."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'smell' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 371,
