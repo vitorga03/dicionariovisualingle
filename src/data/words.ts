@@ -3753,7 +3753,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Would you like to taste this delicious soup?",
     frase_exemplo_portugues: "Você gostaria de provar esta sopa deliciosa?",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'taste': Use como verbo e substantivo. Fale sobre sabores, comida, preferências. Descreva gostos."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'taste' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 372,
@@ -3763,7 +3763,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "I think this is the best solution to our problem.",
     frase_exemplo_portugues: "Eu acho que esta é a melhor solução para nosso problema.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'think': Use 'think about', 'think of'. Fale sobre opiniões, reflexão. Compare com 'believe'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'think' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 373,
@@ -3773,7 +3773,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Do you know how to play the guitar?",
     frase_exemplo_portugues: "Você sabe tocar violão?",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'know': Compare com 'know about', 'know how to'. Fale sobre conhecimento, habilidades, pessoas."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'know' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 374,
@@ -3783,7 +3783,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Children learn new things every single day.",
     frase_exemplo_portugues: "Crianças aprendem coisas novas todos os dias.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'learn': Fale sobre educação, habilidades, experiência. Use 'learn about', 'learn how to'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'learn' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 375,
@@ -3793,7 +3793,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "My father teaches me how to drive safely.",
     frase_exemplo_portugues: "Meu pai me ensina como dirigir com segurança.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'teach': Use estrutura 'teach someone something'. Fale sobre educação, transmissão de conhecimento."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'teach' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 376,
@@ -3803,7 +3803,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "She works as a doctor at the local hospital.",
     frase_exemplo_portugues: "Ela trabalha como médica no hospital local.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'work': Use como verbo e substantivo. Fale sobre profissões, esforço. Use 'work out', 'work on'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'work' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 377,
@@ -3813,7 +3813,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Children play games in the playground happily.",
     frase_exemplo_portugues: "Crianças brincam no playground alegremente.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'play': Fale sobre jogos, instrumentos, esportes. Use 'play with', 'play against'. Múltiplos significados."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'play' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 378,
@@ -3823,7 +3823,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Students study hard for their final exams.",
     frase_exemplo_portugues: "Estudantes estudam muito para suas provas finais.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'study': Fale sobre educação, concentração, matérias. Use como verbo e substantivo."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'study' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 379,
@@ -3833,7 +3833,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Can you help me carry these heavy boxes?",
     frase_exemplo_portugues: "Você pode me ajudar a carregar essas caixas pesadas?",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'help': Use 'help someone do something'. Fale sobre assistência, cooperação. Use como substantivo também."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'help' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 380,
@@ -3843,7 +3843,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Please give me your phone number.",
     frase_exemplo_portugues: "Por favor, me dê seu número de telefone.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'give': Use 'give someone something'. Fale sobre presentes, informações. Muitas expressões com 'give'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'give' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 381,
