@@ -3390,7 +3390,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "Healthy kidneys filter waste from your blood.",
     frase_exemplo_portugues: "Rins saudáveis filtram resíduos do seu sangue.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/7269617/pexels-photo-7269617.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'kidney' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3400,7 +3400,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "Brush each tooth carefully to prevent cavities.",
     frase_exemplo_portugues: "Escove cada dente cuidadosamente para prevenir cáries.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/3762453/pexels-photo-3762453.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'tooth' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3410,7 +3410,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "Your tongue helps you taste different flavors.",
     frase_exemplo_portugues: "Sua língua ajuda você a sentir sabores diferentes.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/3785842/pexels-photo-3785842.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'tongue' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3420,7 +3420,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "She applies lipstick to her lips before going out.",
     frase_exemplo_portugues: "Ela aplica batom nos lábios antes de sair.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1161931/pexels-photo-1161931.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'lip' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3430,7 +3430,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "He strokes his chin while thinking deeply.",
     frase_exemplo_portugues: "Ele acaricia o queixo enquanto pensa profundamente.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/69833/smile-laugh-girl-teeth-69833.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'chin' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3440,7 +3440,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "The baby's cheeks turn red in the cold air.",
     frase_exemplo_portugues: "As bochechas do bebê ficam vermelhas no ar frio.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/33274287/pexels-photo-33274287.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'cheek' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3450,7 +3450,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "Sweat drips from his forehead after exercising.",
     frase_exemplo_portugues: "Suor escorre da testa dele depois de se exercitar.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/5712770/pexels-photo-5712770.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'forehead' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3460,7 +3460,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "She raises her eyebrow to show surprise.",
     frase_exemplo_portugues: "Ela levanta a sobrancelha para mostrar surpresa.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/3762668/pexels-photo-3762668.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'eyebrow' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3470,7 +3470,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "Long eyelashes frame her beautiful eyes perfectly.",
     frase_exemplo_portugues: "Cílios longos emolduram perfeitamente seus olhos bonitos.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/2078134/pexels-photo-2078134.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'eyelash' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3480,7 +3480,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "His thick beard makes him look distinguished.",
     frase_exemplo_portugues: "Sua barba espessa o faz parecer distinto.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1205405/pexels-photo-1205405.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'beard' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3490,7 +3490,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "The gentleman twirls his mustache thoughtfully.",
     frase_exemplo_portugues: "O cavalheiro torce o bigode pensativamente.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1058194/pexels-photo-1058194.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'mustache' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3500,7 +3500,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "Smile lines create gentle wrinkles around her eyes.",
     frase_exemplo_portugues: "Linhas de sorriso criam rugas suaves ao redor dos olhos dela.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/34540/old-lady-smile-beautiful-woman.jpg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'wrinkle' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3510,7 +3510,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "Cute freckles dot her nose and cheeks.",
     frase_exemplo_portugues: "Sardas fofas pontilham seu nariz e bochechas.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/573263/pexels-photo-573263.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'freckle' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3520,7 +3520,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "Her dimples appear when she smiles widely.",
     frase_exemplo_portugues: "Suas covinhas aparecem quando ela sorri amplamente.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/6760914/pexels-photo-6760914.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'dimple' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3530,7 +3530,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "The small scar tells a story of childhood adventure.",
     frase_exemplo_portugues: "A pequena cicatriz conta uma história de aventura da infância.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/2007568/pexels-photo-2007568.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'scar' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3540,7 +3540,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "The heart-shaped birthmark makes her unique.",
     frase_exemplo_portugues: "A marca de nascença em formato de coração a torna única.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/13773467/pexels-photo-13773467.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'birthmark' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
 
