@@ -3853,7 +3853,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Take an umbrella because it might rain today.",
     frase_exemplo_portugues: "Pegue um guarda-chuva porque pode chover hoje.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'take': Múltiplos significados. Use 'take off', 'take care', 'take time'. Muito versátil."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'take' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 382,
@@ -3863,7 +3863,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Don't forget to bring your passport to the airport.",
     frase_exemplo_portugues: "Não esqueça de trazer seu passaporte para o aeroporto.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'bring': Compare com 'take'. Fale sobre direção do movimento. Use 'bring back', 'bring up'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'bring' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 383,
@@ -3873,7 +3873,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Strong men carry heavy furniture up the stairs.",
     frase_exemplo_portugues: "Homens fortes carregam móveis pesados escada acima.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'carry': Fale sobre peso, transporte. Use 'carry on', 'carry out'. Descreva diferentes formas de carregar."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'carry' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 384,
@@ -3883,7 +3883,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Push the door gently to open it quietly.",
     frase_exemplo_portugues: "Empurre a porta suavemente para abri-la silenciosamente.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'push': Compare com 'pull'. Fale sobre força, direção. Use expressões como 'push yourself'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'push' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 385,
@@ -3893,7 +3893,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Pull the rope firmly to ring the bell.",
     frase_exemplo_portugues: "Puxe a corda firmemente para tocar o sino.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'pull': Compare com 'push'. Fale sobre força, direção. Use 'pull over', 'pull through'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'pull' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 386,
@@ -3903,7 +3903,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Throw the ball to your friend across the field.",
     frase_exemplo_portugues: "Jogue a bola para seu amigo do outro lado do campo.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'throw': Fale sobre esportes, força, direção. Use 'throw away', 'throw up'. Compare com 'toss'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'throw' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 387,
@@ -3913,7 +3913,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Try to catch the ball with both hands.",
     frase_exemplo_portugues: "Tente pegar a bola com as duas mãos.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'catch': Fale sobre esportes, reflexos. Use 'catch up', 'catch on'. Múltiplos significados."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'catch' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 388,
@@ -3923,7 +3923,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Hold my hand while we cross the busy street.",
     frase_exemplo_portugues: "Segure minha mão enquanto atravessamos a rua movimentada.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'hold': Fale sobre segurança, apoio. Use 'hold on', 'hold up'. Múltiplos significados e usos."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'hold' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 389,
@@ -3933,7 +3933,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Open the window to let fresh air inside.",
     frase_exemplo_portugues: "Abra a janela para deixar ar fresco entrar.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'open': Use como verbo e adjetivo. Fale sobre portas, janelas, lojas. Use 'open up'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'open' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 390,
@@ -3943,7 +3943,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Please close the door when you leave the room.",
     frase_exemplo_portugues: "Por favor, feche a porta quando sair do cômodo.",
     imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Pratique com 'close': Use como verbo e adjetivo. Compare 'close' (fechar) e 'close' (perto). Use 'close down'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'close' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 391,
