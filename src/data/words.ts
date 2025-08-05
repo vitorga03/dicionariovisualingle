@@ -4255,7 +4255,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Pack your belongings carefully in this sturdy box.",
     frase_exemplo_portugues: "Embale seus pertences cuidadosamente nesta caixa resistente.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'box': Fale sobre armazenamento, mudanças, diferentes materiais. Use como verbo (encaixotar). Múltiplos significados."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'box' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 422,
@@ -4265,7 +4265,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Children play with a colorful ball in the park.",
     frase_exemplo_portugues: "Crianças brincam com uma bola colorida no parque.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'ball': Fale sobre esportes, brincadeiras, diferentes tipos. Use expressões como 'ball game', 'on the ball'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'ball' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 423,
@@ -4275,7 +4275,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Every child has a favorite toy for comfort.",
     frase_exemplo_portugues: "Toda criança tem um brinquedo favorito para conforto.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'toy': Fale sobre infância, diferentes tipos, desenvolvimento. Use como verbo (brincar com). Segurança infantil."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'toy' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 424,
@@ -4285,7 +4285,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Board games bring families together on rainy days.",
     frase_exemplo_portugues: "Jogos de tabuleiro unem famílias em dias chuvosos.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'game': Fale sobre diferentes tipos (board, video, card games). Use expressões como 'game over', 'fair game'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'game' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 425,
@@ -4295,7 +4295,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Every craftsman needs the right tool for each job.",
     frase_exemplo_portugues: "Todo artesão precisa da ferramenta certa para cada trabalho.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'tool': Fale sobre trabalho, construção, diferentes tipos. Use como metáfora para recursos úteis."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'tool' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 426,
@@ -4305,7 +4305,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Use the hammer to drive nails into the wood.",
     frase_exemplo_portugues: "Use o martelo para cravar pregos na madeira.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'hammer': Fale sobre construção, força, precisão. Use como verbo (martelar). Expressões idiomáticas."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'hammer' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 427,
@@ -4315,7 +4315,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Drive the nail straight into the wooden board.",
     frase_exemplo_portugues: "Crave o prego direto na tábua de madeira.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'nail': Compare 'nail' (prego) e 'nail' (unha). Fale sobre construção, fixação. Expressões como 'hit the nail'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'nail' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 428,
@@ -4325,7 +4325,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Tighten the screw with a screwdriver carefully.",
     frase_exemplo_portugues: "Aperte o parafuso com uma chave de fenda cuidadosamente.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'screw': Use como substantivo e verbo. Fale sobre montagem, diferentes tipos. Expressões idiomáticas."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'screw' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 429,
@@ -4335,7 +4335,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Tie the boat securely with a strong rope.",
     frase_exemplo_portugues: "Amarre o barco com segurança com uma corda forte.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'rope': Fale sobre diferentes usos, materiais, resistência. Use expressões como 'know the ropes', 'rope in'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'rope' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 430,
@@ -4345,7 +4345,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The heavy chain secures the bicycle to the post.",
     frase_exemplo_portugues: "A corrente pesada prende a bicicleta ao poste.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'chain': Fale sobre segurança, conexão, diferentes tipos. Use como verbo (acorrentar). Metáforas com 'chain'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'chain' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 431,
@@ -4355,7 +4355,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Connect the electrical wire to the correct terminal.",
     frase_exemplo_portugues: "Conecte o fio elétrico ao terminal correto.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'wire': Fale sobre eletricidade, conexões, diferentes tipos. Use como verbo (conectar). Segurança elétrica."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'wire' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 432,
@@ -4365,7 +4365,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Replace the old battery with a new one.",
     frase_exemplo_portugues: "Substitua a bateria velha por uma nova.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'battery': Fale sobre energia, diferentes tipos, reciclagem. Use em dispositivos eletrônicos, carros."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'battery' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 433,
@@ -4375,7 +4375,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Press the red button to start the machine.",
     frase_exemplo_portugues: "Aperte o botão vermelho para ligar a máquina.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'button': Fale sobre roupas, controles, diferentes tipos. Use como verbo (abotoar). Expressões idiomáticas."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'button' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 434,
@@ -4385,7 +4385,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The jacket zipper is stuck and won't close.",
     frase_exemplo_portugues: "O zíper da jaqueta está travado e não fecha.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'zipper': Fale sobre roupas, bolsas, funcionamento. Use como verbo (fechar com zíper). Problemas comuns."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'zipper' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 435,
@@ -4395,7 +4395,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Use strong thread to sew the fabric pieces together.",
     frase_exemplo_portugues: "Use linha forte para costurar as peças de tecido juntas.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'thread': Fale sobre costura, diferentes materiais, cores. Use como verbo (enfiar). Expressões com 'thread'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'thread' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 436,
@@ -4405,7 +4405,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Thread the needle carefully to avoid pricking your finger.",
     frase_exemplo_portugues: "Enfie a linha na agulha cuidadosamente para evitar furar o dedo.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'needle': Fale sobre costura, medicina, diferentes tipos. Expressões como 'needle in a haystack'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'needle' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 437,
@@ -4415,7 +4415,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Cut the paper carefully with sharp scissors.",
     frase_exemplo_portugues: "Corte o papel cuidadosamente com uma tesoura afiada.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'scissors': Sempre plural. Fale sobre corte, diferentes tipos, segurança. Use 'a pair of scissors'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'scissors' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 438,
@@ -4425,7 +4425,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Use tape to attach the poster to the wall.",
     frase_exemplo_portugues: "Use fita adesiva para colar o pôster na parede.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'tape': Fale sobre diferentes tipos, usos, aderência. Use como verbo (colar com fita). Múltiplos significados."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'tape' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 439,
@@ -4435,7 +4435,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Apply glue evenly to both surfaces before joining.",
     frase_exemplo_portugues: "Aplique cola uniformemente nas duas superfícies antes de juntar.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'glue': Use como substantivo e verbo. Fale sobre aderência, diferentes tipos, projetos artesanais."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'glue' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 440,
@@ -4445,7 +4445,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Erase the mistake with a clean rubber eraser.",
     frase_exemplo_portugues: "Apague o erro com uma borracha limpa.",
     imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
-    prompt_pratica: "Pratique com 'rubber': Compare 'rubber' (material) e 'eraser' (borracha de apagar). Fale sobre elasticidade, usos."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'rubber' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 441,
