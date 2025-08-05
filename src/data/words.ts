@@ -3380,7 +3380,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "The liver filters toxins from your bloodstream.",
     frase_exemplo_portugues: "O fígado filtra toxinas da sua corrente sanguínea.",
-    imagem_url: 
+    imagem_url: ,
     prompt_pratica: "Me ajude a treinar o uso da palavra 'liver' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
