@@ -3050,7 +3050,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "She nods her head to show agreement.",
     frase_exemplo_portugues: "Ela balança a cabeça para mostrar concordância.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/897817/pexels-photo-897817.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'head' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3060,7 +3060,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "A smile brightens up her beautiful face.",
     frase_exemplo_portugues: "Um sorriso ilumina seu rosto bonito.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'face' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3070,7 +3070,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "Her blue eyes sparkle in the sunlight.",
     frase_exemplo_portugues: "Seus olhos azuis brilham na luz do sol.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/63320/eye-eyelashes-face-woman-63320.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'eye' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3080,7 +3080,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "The delicious smell reaches my nose immediately.",
     frase_exemplo_portugues: "O cheiro delicioso chega ao meu nariz imediatamente.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/160411/african-bush-squirrel-paraxerus-african-squirrel-child-s-face-160411.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'nose' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3090,7 +3090,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "He opens his mouth to speak clearly.",
     frase_exemplo_portugues: "Ele abre a boca para falar claramente.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/925802/pexels-photo-925802.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'mouth' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3100,7 +3100,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "Music sounds beautiful in my ears.",
     frase_exemplo_portugues: "Música soa linda nos meus ouvidos.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/8092973/pexels-photo-8092973.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'ear' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3110,7 +3110,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "She brushes her long hair every morning.",
     frase_exemplo_portugues: "Ela escova seu cabelo longo toda manhã.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/973401/pexels-photo-973401.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'hair' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3120,7 +3120,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "The scarf keeps my neck warm in winter.",
     frase_exemplo_portugues: "O cachecol mantém meu pescoço aquecido no inverno.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/531057/pexels-photo-531057.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'neck' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3130,7 +3130,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "He carries the heavy bag on his shoulder.",
     frase_exemplo_portugues: "Ele carrega a bolsa pesada no ombro.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/2077959/pexels-photo-2077959.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'shoulder' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3140,7 +3140,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "She raises her arm to ask a question.",
     frase_exemplo_portugues: "Ela levanta o braço para fazer uma pergunta.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/2080544/pexels-photo-2080544.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'arm' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3150,7 +3150,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "They shake hands when they meet.",
     frase_exemplo_portugues: "Eles apertam as mãos quando se encontram.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1257770/pexels-photo-1257770.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'hand' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3160,7 +3160,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "She points with her finger to show direction.",
     frase_exemplo_portugues: "Ela aponta com o dedo para mostrar a direção.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/977246/pexels-photo-977246.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'finger' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3170,7 +3170,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "He gives a thumbs up to show approval.",
     frase_exemplo_portugues: "Ele faz sinal de positivo com o polegar para mostrar aprovação.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/193821/pexels-photo-193821.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'thumb' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3180,7 +3180,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "He takes a deep breath, expanding his chest.",
     frase_exemplo_portugues: "Ele respira fundo, expandindo o peito.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/4325492/pexels-photo-4325492.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'chest' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3190,7 +3190,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "She feels pain in her back after lifting boxes.",
     frase_exemplo_portugues: "Ela sente dor nas costas depois de levantar caixas.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1084718/pexels-photo-1084718.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'back' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3200,7 +3200,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "My stomach growls when I'm hungry.",
     frase_exemplo_portugues: "Meu estômago ronca quando estou com fome.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/10894312/pexels-photo-10894312.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'stomach' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3210,7 +3210,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "The belt fits perfectly around her waist.",
     frase_exemplo_portugues: "O cinto fica perfeito na cintura dela.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/4620607/pexels-photo-4620607.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'waist' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3220,7 +3220,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "She places her hands on her hips confidently.",
     frase_exemplo_portugues: "Ela coloca as mãos no quadril com confiança.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/11990078/pexels-photo-11990078.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'hip' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3230,7 +3230,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "He stretches his legs after sitting for hours.",
     frase_exemplo_portugues: "Ele estica as pernas depois de ficar sentado por horas.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/421160/pexels-photo-421160.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'leg' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3240,7 +3240,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "She bends her knee to pick up the fallen book.",
     frase_exemplo_portugues: "Ela dobra o joelho para pegar o livro que caiu.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/4426461/pexels-photo-4426461.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'knee' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3250,7 +3250,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "My foot hurts after walking all day.",
     frase_exemplo_portugues: "Meu pé dói depois de caminhar o dia todo.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1204473/pexels-photo-1204473.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'foot' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3260,7 +3260,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "She paints her toes with bright red polish.",
     frase_exemplo_portugues: "Ela pinta os dedos dos pés com esmalte vermelho brilhante.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/326545/pexels-photo-326545.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'toe' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3270,7 +3270,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "The new shoes rub against my heel uncomfortably.",
     frase_exemplo_portugues: "Os sapatos novos esfregam no meu calcanhar desconfortavelmente.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/16999362/pexels-photo-16999362.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'heel' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3280,7 +3280,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "She twists her ankle while running in the park.",
     frase_exemplo_portugues: "Ela torce o tornozelo enquanto corre no parque.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/3913020/pexels-photo-3913020.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'ankle' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3290,7 +3290,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "He wears a watch on his left wrist.",
     frase_exemplo_portugues: "Ele usa um relógio no pulso esquerdo.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/8187500/pexels-photo-8187500.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'wrist' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
