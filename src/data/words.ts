@@ -3552,7 +3552,7 @@ export const wordsDatabase: Word[] = [
     categoria: "actions",
     frase_exemplo_ingles: "I walk to work every morning for exercise.",
     frase_exemplo_portugues: "Eu caminho para o trabalho toda manhã para me exercitar.",
-    imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
+    imagem_url: "https://images.pexels.com/photos/211047/pexels-photo-211047.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'walk' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3562,7 +3562,7 @@ export const wordsDatabase: Word[] = [
     categoria: "actions",
     frase_exemplo_ingles: "She runs five miles every morning before breakfast.",
     frase_exemplo_portugues: "Ela corre cinco milhas toda manhã antes do café da manhã.",
-    imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
+    imagem_url: "https://images.pexels.com/photos/5687543/pexels-photo-5687543.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'run' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3572,7 +3572,7 @@ export const wordsDatabase: Word[] = [
     categoria: "actions",
     frase_exemplo_ingles: "Children love to jump on the trampoline.",
     frase_exemplo_portugues: "Crianças adoram pular no trampolim.",
-    imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
+    imagem_url: "https://images.pexels.com/photos/40815/youth-active-jump-happy-40815.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'jump' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3582,7 +3582,7 @@ export const wordsDatabase: Word[] = [
     categoria: "actions",
     frase_exemplo_ingles: "Please sit down and make yourself comfortable.",
     frase_exemplo_portugues: "Por favor, sente-se e fique à vontade.",
-    imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
+    imagem_url: "https://images.pexels.com/photos/792068/pexels-photo-792068.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'sit' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3592,18 +3592,18 @@ export const wordsDatabase: Word[] = [
     categoria: "actions",
     frase_exemplo_ingles: "Everyone stands when the judge enters the courtroom.",
     frase_exemplo_portugues: "Todos ficam em pé quando o juiz entra no tribunal.",
-    imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
+    imagem_url: "https://images.pexels.com/photos/3364025/pexels-photo-3364025.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'stand' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 356,
-    palavra_ingles: "lie",
+    palavra_ingles: "lie (down)",
     traducao_portugues: "deitar",
     categoria: "actions",
     frase_exemplo_ingles: "I lie down on the soft bed to rest.",
     frase_exemplo_portugues: "Eu me deito na cama macia para descansar.",
-    imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
-    prompt_pratica: "Me ajude a treinar o uso da palavra 'lie' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
+    imagem_url: "https://images.pexels.com/photos/7156586/pexels-photo-7156586.jpeg",
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'lie'(de deitar) em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 357,
@@ -3612,7 +3612,7 @@ export const wordsDatabase: Word[] = [
     categoria: "actions",
     frase_exemplo_ingles: "Babies sleep up to 16 hours per day.",
     frase_exemplo_portugues: "Bebês dormem até 16 horas por dia.",
-    imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
+    imagem_url: "https://images.pexels.com/photos/5864643/pexels-photo-5864643.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'sleep' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3622,7 +3622,7 @@ export const wordsDatabase: Word[] = [
     categoria: "actions",
     frase_exemplo_ingles: "We eat dinner together as a family every night.",
     frase_exemplo_portugues: "Jantamos juntos em família toda noite.",
-    imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1456262/pexels-photo-1456262.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'eat' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3632,7 +3632,7 @@ export const wordsDatabase: Word[] = [
     categoria: "actions",
     frase_exemplo_ingles: "Remember to drink plenty of water throughout the day.",
     frase_exemplo_portugues: "Lembre-se de beber bastante água durante o dia.",
-    imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
+    imagem_url: "https://images.pexels.com/photos/907865/pexels-photo-907865.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'drink' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3642,7 +3642,7 @@ export const wordsDatabase: Word[] = [
     categoria: "actions",
     frase_exemplo_ingles: "My grandmother loves to cook traditional recipes.",
     frase_exemplo_portugues: "Minha avó adora cozinhar receitas tradicionais.",
-    imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
+    imagem_url: "https://images.pexels.com/photos/2696064/pexels-photo-2696064.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'cook' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
