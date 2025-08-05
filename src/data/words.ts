@@ -3300,7 +3300,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "She rests her elbow on the table while reading.",
     frase_exemplo_portugues: "Ela apoia o cotovelo na mesa enquanto lê.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1914877/pexels-photo-1914877.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'elbow' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3310,7 +3310,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "Sunscreen protects your skin from harmful rays.",
     frase_exemplo_portugues: "Protetor solar protege sua pele dos raios nocivos.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/286951/pexels-photo-286951.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'skin' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3320,7 +3320,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "Strong bones support your entire body structure.",
     frase_exemplo_portugues: "Ossos fortes sustentam toda a estrutura do seu corpo.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1528375/pexels-photo-1528375.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'bone' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3330,7 +3330,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "Exercise helps build strong muscles throughout the body.",
     frase_exemplo_portugues: "Exercício ajuda a construir músculos fortes por todo o corpo.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1547248/pexels-photo-1547248.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'muscle' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3340,7 +3340,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "Blood carries oxygen to all parts of the body.",
     frase_exemplo_portugues: "O sangue carrega oxigênio para todas as partes do corpo.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1164531/pexels-photo-1164531.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'blood' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3350,7 +3350,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "Your heart beats faster when you exercise.",
     frase_exemplo_portugues: "Seu coração bate mais rápido quando você se exercita.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1820509/pexels-photo-1820509.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'heart' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3360,7 +3360,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "Deep breathing exercises strengthen your lungs.",
     frase_exemplo_portugues: "Exercícios de respiração profunda fortalecem seus pulmões.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/4225880/pexels-photo-4225880.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'lung' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3370,7 +3370,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "The brain controls all body functions automatically.",
     frase_exemplo_portugues: "O cérebro controla todas as funções do corpo automaticamente.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/7089020/pexels-photo-7089020.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'brain' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3380,7 +3380,7 @@ export const wordsDatabase: Word[] = [
     categoria: "body",
     frase_exemplo_ingles: "The liver filters toxins from your bloodstream.",
     frase_exemplo_portugues: "O fígado filtra toxinas da sua corrente sanguínea.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: 
     prompt_pratica: "Me ajude a treinar o uso da palavra 'liver' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
