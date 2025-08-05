@@ -3852,7 +3852,7 @@ export const wordsDatabase: Word[] = [
     categoria: "actions",
     frase_exemplo_ingles: "Take an umbrella because it might rain today.",
     frase_exemplo_portugues: "Pegue um guarda-chuva porque pode chover hoje.",
-    imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
+    imagem_url: "https://images.pexels.com/photos/6612696/pexels-photo-6612696.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'take' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3862,7 +3862,7 @@ export const wordsDatabase: Word[] = [
     categoria: "actions",
     frase_exemplo_ingles: "Don't forget to bring your passport to the airport.",
     frase_exemplo_portugues: "Não esqueça de trazer seu passaporte para o aeroporto.",
-    imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
+    imagem_url: "https://images.pexels.com/photos/33086772/pexels-photo-33086772.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'bring' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3872,7 +3872,7 @@ export const wordsDatabase: Word[] = [
     categoria: "actions",
     frase_exemplo_ingles: "Strong men carry heavy furniture up the stairs.",
     frase_exemplo_portugues: "Homens fortes carregam móveis pesados escada acima.",
-    imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1157386/pexels-photo-1157386.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'carry' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3882,7 +3882,7 @@ export const wordsDatabase: Word[] = [
     categoria: "actions",
     frase_exemplo_ingles: "Push the door gently to open it quietly.",
     frase_exemplo_portugues: "Empurre a porta suavemente para abri-la silenciosamente.",
-    imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
+    imagem_url: "https://images.pexels.com/photos/2600312/pexels-photo-2600312.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'push' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3892,7 +3892,7 @@ export const wordsDatabase: Word[] = [
     categoria: "actions",
     frase_exemplo_ingles: "Pull the rope firmly to ring the bell.",
     frase_exemplo_portugues: "Puxe a corda firmemente para tocar o sino.",
-    imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1103180/pexels-photo-1103180.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'pull' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3902,7 +3902,7 @@ export const wordsDatabase: Word[] = [
     categoria: "actions",
     frase_exemplo_ingles: "Throw the ball to your friend across the field.",
     frase_exemplo_portugues: "Jogue a bola para seu amigo do outro lado do campo.",
-    imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
+    imagem_url: "https://images.pexels.com/photos/209975/pexels-photo-209975.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'throw' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3912,7 +3912,7 @@ export const wordsDatabase: Word[] = [
     categoria: "actions",
     frase_exemplo_ingles: "Try to catch the ball with both hands.",
     frase_exemplo_portugues: "Tente pegar a bola com as duas mãos.",
-    imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
+    imagem_url: "https://images.pexels.com/photos/718952/pexels-photo-718952.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'catch' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3922,7 +3922,7 @@ export const wordsDatabase: Word[] = [
     categoria: "actions",
     frase_exemplo_ingles: "Hold my hand while we cross the busy street.",
     frase_exemplo_portugues: "Segure minha mão enquanto atravessamos a rua movimentada.",
-    imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1004014/pexels-photo-1004014.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'hold' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3932,7 +3932,7 @@ export const wordsDatabase: Word[] = [
     categoria: "actions",
     frase_exemplo_ingles: "Open the window to let fresh air inside.",
     frase_exemplo_portugues: "Abra a janela para deixar ar fresco entrar.",
-    imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
+    imagem_url: "https://images.pexels.com/photos/2869565/pexels-photo-2869565.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'open' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -3942,7 +3942,7 @@ export const wordsDatabase: Word[] = [
     categoria: "actions",
     frase_exemplo_ingles: "Please close the door when you leave the room.",
     frase_exemplo_portugues: "Por favor, feche a porta quando sair do cômodo.",
-    imagem_url: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
+    imagem_url: "https://images.pexels.com/photos/942304/pexels-photo-942304.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'close' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
