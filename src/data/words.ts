@@ -4757,7 +4757,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Stay calm during emergency situations to think clearly.",
     frase_exemplo_portugues: "Mantenha-se calmo durante situações de emergência para pensar claramente.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'calm': Use como adjetivo e verbo. Fale sobre tranquilidade, controle emocional. 'Calm down'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'calm' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 472,
@@ -4767,7 +4767,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The quiet garden creates a peaceful atmosphere.",
     frase_exemplo_portugues: "O jardim silencioso cria uma atmosfera pacífica.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'peaceful': Fale sobre tranquilidade, harmonia. Compare com 'calm', 'serene'. Ambientes pacíficos."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'peaceful' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 473,
@@ -4777,7 +4777,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Despite challenges, she remains hopeful about the future.",
     frase_exemplo_portugues: "Apesar dos desafios, ela permanece esperançosa sobre o futuro.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'hopeful': Fale sobre otimismo, expectativas positivas. Use 'hopeful about/that'. Compare com 'optimistic'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'hopeful' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 474,
@@ -4787,7 +4787,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Never give up, even when situations seem hopeless.",
     frase_exemplo_portugues: "Nunca desista, mesmo quando situações parecem sem esperança.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'hopeless': Fale sobre desespero, situações difíceis. Compare com 'desperate'. Superação de adversidades."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'hopeless' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 475,
@@ -4797,7 +4797,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Practice makes you feel more confident in your abilities.",
     frase_exemplo_portugues: "Prática faz você se sentir mais confiante em suas habilidades.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'confident': Fale sobre autoestima, segurança. Use 'confident about/in'. Compare com 'self-assured'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'confident' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 476,
@@ -4807,7 +4807,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Teenagers often feel insecure about their appearance.",
     frase_exemplo_portugues: "Adolescentes frequentemente se sentem inseguros sobre sua aparência.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'insecure': Fale sobre falta de confiança. Use 'insecure about'. Compare com 'uncertain', 'doubtful'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'insecure' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 477,
@@ -4817,7 +4817,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Children are naturally curious about how things work.",
     frase_exemplo_portugues: "Crianças são naturalmente curiosas sobre como as coisas funcionam.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'curious': Fale sobre interesse, descoberta. Use 'curious about'. Compare com 'interested', 'inquisitive'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'curious' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 478,
@@ -4827,7 +4827,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Visitors are amazed by the beauty of the ancient temple.",
     frase_exemplo_portugues: "Visitantes ficam impressionados com a beleza do templo antigo.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'amazed': Fale sobre admiração, espanto. Use 'amazed by/at'. Compare com 'astonished', 'impressed'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'amazed' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 479,
@@ -4837,7 +4837,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Everyone was shocked by the sudden news announcement.",
     frase_exemplo_portugues: "Todos ficaram chocados com o anúncio repentino da notícia.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'shocked': Fale sobre surpresa extrema. Use 'shocked by/at'. Compare intensidade com 'surprised'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'shocked' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 480,
@@ -4847,7 +4847,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Grandparents are delighted when grandchildren visit them.",
     frase_exemplo_portugues: "Avós ficam encantados quando os netos os visitam.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'delighted': Fale sobre alegria intensa. Use 'delighted with/by/to'. Compare com 'pleased', 'thrilled'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'delighted' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 481,
