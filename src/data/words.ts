@@ -4756,7 +4756,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "Stay calm during emergency situations to think clearly.",
     frase_exemplo_portugues: "Mantenha-se calmo durante situações de emergência para pensar claramente.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/321576/pexels-photo-321576.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'calm' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4766,7 +4766,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "The quiet garden creates a peaceful atmosphere.",
     frase_exemplo_portugues: "O jardim silencioso cria uma atmosfera pacífica.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1659437/pexels-photo-1659437.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'peaceful' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4776,7 +4776,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "Despite challenges, she remains hopeful about the future.",
     frase_exemplo_portugues: "Apesar dos desafios, ela permanece esperançosa sobre o futuro.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/103127/pexels-photo-103127.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'hopeful' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4786,7 +4786,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "Never give up, even when situations seem hopeless.",
     frase_exemplo_portugues: "Nunca desista, mesmo quando situações parecem sem esperança.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/6382642/pexels-photo-6382642.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'hopeless' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4796,7 +4796,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "Practice makes you feel more confident in your abilities.",
     frase_exemplo_portugues: "Prática faz você se sentir mais confiante em suas habilidades.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1036622/pexels-photo-1036622.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'confident' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4806,7 +4806,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "Teenagers often feel insecure about their appearance.",
     frase_exemplo_portugues: "Adolescentes frequentemente se sentem inseguros sobre sua aparência.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/3851244/pexels-photo-3851244.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'insecure' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4816,7 +4816,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "Children are naturally curious about how things work.",
     frase_exemplo_portugues: "Crianças são naturalmente curiosas sobre como as coisas funcionam.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/225406/pexels-photo-225406.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'curious' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4826,7 +4826,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "Visitors are amazed by the beauty of the ancient temple.",
     frase_exemplo_portugues: "Visitantes ficam impressionados com a beleza do templo antigo.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/3784324/pexels-photo-3784324.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'amazed' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4836,7 +4836,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "Everyone was shocked by the sudden news announcement.",
     frase_exemplo_portugues: "Todos ficaram chocados com o anúncio repentino da notícia.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/3807535/pexels-photo-3807535.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'shocked' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4846,7 +4846,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "Grandparents are delighted when grandchildren visit them.",
     frase_exemplo_portugues: "Avós ficam encantados quando os netos os visitam.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/33309384/pexels-photo-33309384.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'delighted' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
