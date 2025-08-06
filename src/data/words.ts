@@ -4556,7 +4556,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "She feels happy when spending time with family.",
     frase_exemplo_portugues: "Ela se sente feliz quando passa tempo com a família.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/774866/pexels-photo-774866.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'happy' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4566,7 +4566,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "He looks sad after hearing the disappointing news.",
     frase_exemplo_portugues: "Ele parece triste depois de ouvir a notícia decepcionante.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/247314/pexels-photo-247314.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'sad' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4576,7 +4576,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "Don't make decisions when you're feeling angry.",
     frase_exemplo_portugues: "Não tome decisões quando estiver se sentindo bravo.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/3777568/pexels-photo-3777568.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'angry' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4586,7 +4586,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "Children get excited about their birthday parties.",
     frase_exemplo_portugues: "Crianças ficam animadas com suas festas de aniversário.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/3768724/pexels-photo-3768724.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'excited' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4596,7 +4596,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "Students feel nervous before important exams.",
     frase_exemplo_portugues: "Estudantes se sentem nervosos antes de provas importantes.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/6975383/pexels-photo-6975383.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'nervous' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4606,7 +4606,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "She's scared of spiders and loud noises.",
     frase_exemplo_portugues: "Ela tem medo de aranhas e barulhos altos.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/8638313/pexels-photo-8638313.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'scared' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4616,7 +4616,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "Everyone was surprised by the unexpected announcement.",
     frase_exemplo_portugues: "Todos ficaram surpresos com o anúncio inesperado.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/3768905/pexels-photo-3768905.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'surprised' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4626,7 +4626,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "The complex instructions left me feeling confused.",
     frase_exemplo_portugues: "As instruções complexas me deixaram confuso.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/3808008/pexels-photo-3808008.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'confused' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4636,7 +4636,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "After working all day, I feel extremely tired.",
     frase_exemplo_portugues: "Depois de trabalhar o dia todo, me sinto extremamente cansado.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/3791136/pexels-photo-3791136.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'tired' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4646,7 +4646,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "Students get bored during long, repetitive lectures.",
     frase_exemplo_portugues: "Estudantes ficam entediados durante aulas longas e repetitivas.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/2836477/pexels-photo-2836477.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'bored' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
