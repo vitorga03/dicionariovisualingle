@@ -4254,7 +4254,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "Pack your belongings carefully in this sturdy box.",
     frase_exemplo_portugues: "Embale seus pertences cuidadosamente nesta caixa resistente.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/221004/pexels-photo-221004.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'box' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4264,7 +4264,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "Children play with a colorful ball in the park.",
     frase_exemplo_portugues: "Crianças brincam com uma bola colorida no parque.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/47730/the-ball-stadion-football-the-pitch-47730.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'ball' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4274,7 +4274,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "Every child has a favorite toy for comfort.",
     frase_exemplo_portugues: "Toda criança tem um brinquedo favorito para conforto.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/207891/pexels-photo-207891.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'toy' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4284,7 +4284,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "Board games bring families together on rainy days.",
     frase_exemplo_portugues: "Jogos de tabuleiro unem famílias em dias chuvosos.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/776654/pexels-photo-776654.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'game' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4294,7 +4294,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "Every craftsman needs the right tool for each job.",
     frase_exemplo_portugues: "Todo artesão precisa da ferramenta certa para cada trabalho.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/162553/keys-workshop-mechanic-tools-162553.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'tool' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4304,7 +4304,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "Use the hammer to drive nails into the wood.",
     frase_exemplo_portugues: "Use o martelo para cravar pregos na madeira.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/209235/pexels-photo-209235.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'hammer' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4314,7 +4314,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "Drive the nail straight into the wooden board.",
     frase_exemplo_portugues: "Crave o prego direto na tábua de madeira.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/8447781/pexels-photo-8447781.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'nail' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4324,7 +4324,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "Tighten the screw with a screwdriver carefully.",
     frase_exemplo_portugues: "Aperte o parafuso com uma chave de fenda cuidadosamente.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/936594/pexels-photo-936594.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'screw' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4334,7 +4334,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "Tie the boat securely with a strong rope.",
     frase_exemplo_portugues: "Amarre o barco com segurança com uma corda forte.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/39279/ship-traffic-jams-rope-dew-cordage-39279.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'rope' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4344,7 +4344,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "The heavy chain secures the bicycle to the post.",
     frase_exemplo_portugues: "A corrente pesada prende a bicicleta ao poste.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/220237/pexels-photo-220237.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'chain' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
