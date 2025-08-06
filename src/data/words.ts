@@ -4856,7 +4856,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "She felt disgusted by the terrible smell.",
     frase_exemplo_portugues: "Ela se sentiu enojada pelo cheiro terrível.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/3214347/pexels-photo-3214347.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'disgusted' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4866,7 +4866,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "Loud music from neighbors makes me feel annoyed.",
     frase_exemplo_portugues: "Música alta dos vizinhos me deixa irritado.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/3799830/pexels-photo-3799830.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'annoyed' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4876,7 +4876,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "Teachers are pleased when students show improvement.",
     frase_exemplo_portugues: "Professores ficam satisfeitos quando estudantes mostram melhora.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/18450884/pexels-photo-18450884.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'pleased' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4886,7 +4886,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "After retirement, he feels content with his simple life.",
     frase_exemplo_portugues: "Depois da aposentadoria, ele se sente contente com sua vida simples.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/3769021/pexels-photo-3769021.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'content' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4896,7 +4896,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "Rainy weather makes some people feel miserable.",
     frase_exemplo_portugues: "Tempo chuvoso faz algumas pessoas se sentirem miseráveis.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/7278838/pexels-photo-7278838.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'miserable' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4906,7 +4906,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "Her cheerful personality brightens everyone's day.",
     frase_exemplo_portugues: "Sua personalidade alegre ilumina o dia de todos.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'cheerful' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4916,7 +4916,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "Dark winter days can make people feel gloomy.",
     frase_exemplo_portugues: "Dias escuros de inverno podem fazer pessoas se sentirem melancólicas.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/25763/pexels-photo.jpg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'gloomy' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4936,7 +4936,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "He seems indifferent to criticism and praise alike.",
     frase_exemplo_portugues: "Ele parece indiferente tanto a críticas quanto a elogios.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/6383270/pexels-photo-6383270.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'indifferent' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4946,7 +4946,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "New parents often feel overwhelmed by responsibilities.",
     frase_exemplo_portugues: "Pais novos frequentemente se sentem sobrecarregados pelas responsabilidades.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/3808819/pexels-photo-3808819.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'overwhelmed' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4956,7 +4956,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "Students feel relieved after finishing difficult exams.",
     frase_exemplo_portugues: "Estudantes se sentem aliviados depois de terminar provas difíceis.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/5723189/pexels-photo-5723189.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'relieved' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4966,7 +4966,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "She was terrified during the horror movie.",
     frase_exemplo_portugues: "Ela ficou aterrorizada durante o filme de terror.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/6003784/pexels-photo-6003784.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'terrified' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4976,7 +4976,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "Fans were thrilled to meet their favorite celebrity.",
     frase_exemplo_portugues: "Fãs ficaram emocionados ao conhecer sua celebridade favorita.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/26397146/pexels-photo-26397146.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'thrilled' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4986,7 +4986,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "The family was devastated by the sudden loss.",
     frase_exemplo_portugues: "A família ficou devastada pela perda repentina.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/6841205/pexels-photo-6841205.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'devastated' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4996,7 +4996,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "Winners were ecstatic about their lottery prize.",
     frase_exemplo_portugues: "Ganhadores ficaram extasiados com seu prêmio da loteria.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/6150589/pexels-photo-6150589.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'ecstatic' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -5006,7 +5006,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "Parents were furious about the school's poor decision.",
     frase_exemplo_portugues: "Pais ficaram furiosos com a decisão ruim da escola.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/9063608/pexels-photo-9063608.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'furious' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -5016,7 +5016,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "Autumn weather often brings a melancholy mood.",
     frase_exemplo_portugues: "O tempo de outono frequentemente traz um humor melancólico.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/33265481/pexels-photo-33265481.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'melancholy' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -5026,7 +5026,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "Athletes feel euphoric after winning championships.",
     frase_exemplo_portugues: "Atletas se sentem eufóricos depois de ganhar campeonatos.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/25712735/pexels-photo-25712735.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'euphoric' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -5036,7 +5036,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "Meditation helps people achieve a serene state of mind.",
     frase_exemplo_portugues: "Meditação ajuda pessoas a alcançar um estado de espírito sereno.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/2081884/pexels-photo-2081884.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'serene' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -5046,7 +5046,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "Old photographs make people feel nostalgic about childhood.",
     frase_exemplo_portugues: "Fotografias antigas fazem pessoas se sentirem nostálgicas sobre a infância.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/403448/pexels-photo-403448.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'nostalgic' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
