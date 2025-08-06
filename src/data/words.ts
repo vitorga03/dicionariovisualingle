@@ -4557,7 +4557,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "She feels happy when spending time with family.",
     frase_exemplo_portugues: "Ela se sente feliz quando passa tempo com a família.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'happy': Fale sobre diferentes graus de felicidade. Use 'happy about', 'happy with'. Compare com 'glad', 'joyful'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'happy' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 452,
@@ -4567,7 +4567,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "He looks sad after hearing the disappointing news.",
     frase_exemplo_portugues: "Ele parece triste depois de ouvir a notícia decepcionante.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'sad': Fale sobre diferentes causas de tristeza. Compare com 'unhappy', 'depressed'. Use 'sad about'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'sad' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 453,
@@ -4577,7 +4577,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Don't make decisions when you're feeling angry.",
     frase_exemplo_portugues: "Não tome decisões quando estiver se sentindo bravo.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'angry': Fale sobre controle emocional. Use 'angry at/with someone', 'angry about something'. Compare intensidades."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'angry' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 454,
@@ -4587,7 +4587,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Children get excited about their birthday parties.",
     frase_exemplo_portugues: "Crianças ficam animadas com suas festas de aniversário.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'excited': Fale sobre antecipação positiva. Use 'excited about', 'excited to do'. Compare com 'enthusiastic'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'excited' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 455,
@@ -4597,7 +4597,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Students feel nervous before important exams.",
     frase_exemplo_portugues: "Estudantes se sentem nervosos antes de provas importantes.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'nervous': Fale sobre ansiedade, situações estressantes. Use 'nervous about'. Compare com 'anxious', 'worried'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'nervous' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 456,
@@ -4607,7 +4607,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "She's scared of spiders and loud noises.",
     frase_exemplo_portugues: "Ela tem medo de aranhas e barulhos altos.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'scared': Fale sobre medos, fobias. Use 'scared of'. Compare com 'afraid', 'frightened', 'terrified'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'scared' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 457,
@@ -4617,7 +4617,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Everyone was surprised by the unexpected announcement.",
     frase_exemplo_portugues: "Todos ficaram surpresos com o anúncio inesperado.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'surprised': Fale sobre eventos inesperados. Use 'surprised by/at'. Compare com 'shocked', 'amazed'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'surprised' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 458,
@@ -4627,7 +4627,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The complex instructions left me feeling confused.",
     frase_exemplo_portugues: "As instruções complexas me deixaram confuso.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'confused': Fale sobre falta de clareza. Use 'confused about'. Compare com 'puzzled', 'bewildered'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'confused' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 459,
@@ -4637,7 +4637,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "After working all day, I feel extremely tired.",
     frase_exemplo_portugues: "Depois de trabalhar o dia todo, me sinto extremamente cansado.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'tired': Fale sobre fadiga física e mental. Use 'tired of' (farto de). Compare com 'exhausted', 'weary'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'tired' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 460,
@@ -4647,7 +4647,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Students get bored during long, repetitive lectures.",
     frase_exemplo_portugues: "Estudantes ficam entediados durante aulas longas e repetitivas.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'bored': Fale sobre falta de interesse. Use 'bored with/by'. Compare com 'boring' (que causa tédio)."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'bored' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 461,
