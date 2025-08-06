@@ -4857,7 +4857,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "She felt disgusted by the terrible smell.",
     frase_exemplo_portugues: "Ela se sentiu enojada pelo cheiro terrível.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'disgusted': Fale sobre repulsa, nojo. Use 'disgusted by/with'. Compare com 'revolted', 'sickened'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'disgusted' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 482,
@@ -4867,7 +4867,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Loud music from neighbors makes me feel annoyed.",
     frase_exemplo_portugues: "Música alta dos vizinhos me deixa irritado.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'annoyed': Fale sobre irritação leve. Use 'annoyed by/with/at'. Compare com 'angry', 'frustrated'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'annoyed' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 483,
@@ -4877,7 +4877,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Teachers are pleased when students show improvement.",
     frase_exemplo_portugues: "Professores ficam satisfeitos quando estudantes mostram melhora.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'pleased': Fale sobre satisfação moderada. Use 'pleased with/about'. Compare com 'happy', 'satisfied'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'pleased' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 484,
@@ -4887,7 +4887,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "After retirement, he feels content with his simple life.",
     frase_exemplo_portugues: "Depois da aposentadoria, ele se sente contente com sua vida simples.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'content': Fale sobre satisfação tranquila. Use 'content with'. Compare com 'satisfied', 'happy'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'content' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 485,
@@ -4897,7 +4897,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Rainy weather makes some people feel miserable.",
     frase_exemplo_portugues: "Tempo chuvoso faz algumas pessoas se sentirem miseráveis.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'miserable': Fale sobre tristeza profunda. Compare intensidade com 'sad', 'unhappy'. Causas de miséria."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'miserable' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 486,
@@ -4907,7 +4907,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Her cheerful personality brightens everyone's day.",
     frase_exemplo_portugues: "Sua personalidade alegre ilumina o dia de todos.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'cheerful': Fale sobre alegria contagiante. Compare com 'happy', 'joyful'. Personalidades positivas."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'cheerful' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 487,
@@ -4917,7 +4917,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Dark winter days can make people feel gloomy.",
     frase_exemplo_portugues: "Dias escuros de inverno podem fazer pessoas se sentirem melancólicas.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'gloomy': Fale sobre tristeza sombria. Use para descrever humor e ambiente. Compare com 'depressed'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'gloomy' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 488,
@@ -4927,7 +4927,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Students are enthusiastic about the upcoming field trip.",
     frase_exemplo_portugues: "Estudantes estão entusiasmados com a excursão que se aproxima.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'enthusiastic': Fale sobre paixão, energia positiva. Use 'enthusiastic about'. Compare com 'excited'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'enthusiastic' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela.re paixão, energia positiva. Use 'enthusiastic about'. Compare com 'excited'."
   },
   {
     id: 489,
@@ -4937,7 +4937,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "He seems indifferent to criticism and praise alike.",
     frase_exemplo_portugues: "Ele parece indiferente tanto a críticas quanto a elogios.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'indifferent': Fale sobre falta de interesse. Use 'indifferent to'. Compare com 'apathetic', 'unconcerned'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'indifferent' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 490,
@@ -4947,7 +4947,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "New parents often feel overwhelmed by responsibilities.",
     frase_exemplo_portugues: "Pais novos frequentemente se sentem sobrecarregados pelas responsabilidades.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'overwhelmed': Fale sobre excesso, incapacidade de lidar. Use 'overwhelmed by/with'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'overwhelmed' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 491,
@@ -4957,7 +4957,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Students feel relieved after finishing difficult exams.",
     frase_exemplo_portugues: "Estudantes se sentem aliviados depois de terminar provas difíceis.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'relieved': Fale sobre alívio após tensão. Use 'relieved that/to'. Compare com 'grateful'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'relieved' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 492,
@@ -4967,7 +4967,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "She was terrified during the horror movie.",
     frase_exemplo_portugues: "Ela ficou aterrorizada durante o filme de terror.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'terrified': Fale sobre medo extremo. Use 'terrified of/by'. Compare intensidade com 'scared', 'afraid'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'terrified' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 493,
@@ -4977,7 +4977,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Fans were thrilled to meet their favorite celebrity.",
     frase_exemplo_portugues: "Fãs ficaram emocionados ao conhecer sua celebridade favorita.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'thrilled': Fale sobre excitação intensa. Use 'thrilled about/with/to'. Compare com 'excited', 'delighted'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'thrilled' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 494,
@@ -4987,7 +4987,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "The family was devastated by the sudden loss.",
     frase_exemplo_portugues: "A família ficou devastada pela perda repentina.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'devastated': Fale sobre tristeza extrema. Use 'devastated by'. Compare intensidade com 'sad', 'heartbroken'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'devastated' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 495,
@@ -4997,7 +4997,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Winners were ecstatic about their lottery prize.",
     frase_exemplo_portugues: "Ganhadores ficaram extasiados com seu prêmio da loteria.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'ecstatic': Fale sobre alegria extrema. Use 'ecstatic about'. Compare intensidade com 'happy', 'thrilled'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'ecstatic' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 496,
@@ -5007,7 +5007,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Parents were furious about the school's poor decision.",
     frase_exemplo_portugues: "Pais ficaram furiosos com a decisão ruim da escola.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'furious': Fale sobre raiva intensa. Use 'furious about/with'. Compare intensidade com 'angry', 'mad'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'furious' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 497,
@@ -5017,7 +5017,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Autumn weather often brings a melancholy mood.",
     frase_exemplo_portugues: "O tempo de outono frequentemente traz um humor melancólico.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'melancholy': Use como substantivo e adjetivo. Fale sobre tristeza poética, nostalgia. Compare com 'sad'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'melancholy' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 498,
@@ -5027,7 +5027,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Athletes feel euphoric after winning championships.",
     frase_exemplo_portugues: "Atletas se sentem eufóricos depois de ganhar campeonatos.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'euphoric': Fale sobre alegria intensa e temporária. Compare com 'ecstatic', 'elated'. Contextos de vitória."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'euphoric' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 499,
@@ -5037,7 +5037,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Meditation helps people achieve a serene state of mind.",
     frase_exemplo_portugues: "Meditação ajuda pessoas a alcançar um estado de espírito sereno.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'serene': Fale sobre paz profunda, tranquilidade. Compare com 'calm', 'peaceful'. Práticas de mindfulness."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'serene' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 500,
@@ -5047,7 +5047,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Old photographs make people feel nostalgic about childhood.",
     frase_exemplo_portugues: "Fotografias antigas fazem pessoas se sentirem nostálgicas sobre a infância.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'nostalgic': Fale sobre saudade do passado. Use 'nostalgic about/for'. Compare com 'sentimental'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'nostalgic' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 501,
@@ -5057,7 +5057,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Despite setbacks, she remains optimistic about success.",
     frase_exemplo_portugues: "Apesar dos contratempos, ela permanece otimista sobre o sucesso.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'optimistic': Fale sobre esperança, atitude positiva. Use 'optimistic about'. Compare com 'hopeful', 'positive'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'optimistic' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 502,
@@ -5067,7 +5067,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Don't be pessimistic about your chances of success.",
     frase_exemplo_portugues: "Não seja pessimista sobre suas chances de sucesso.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'pessimistic': Fale sobre expectativas negativas. Use 'pessimistic about'. Compare com 'negative', 'cynical'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'pessimistic' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 503,
@@ -5077,7 +5077,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Good friends are sympathetic during difficult times.",
     frase_exemplo_portugues: "Bons amigos são compreensivos durante momentos difíceis.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'sympathetic': Fale sobre empatia, compreensão. Use 'sympathetic to/towards'. Compare com 'empathetic'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'sympathetic' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 504,
@@ -5087,7 +5087,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Students become apathetic when lessons are boring.",
     frase_exemplo_portugues: "Estudantes ficam apáticos quando as aulas são chatas.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'apathetic': Fale sobre falta de interesse/emoção. Use 'apathetic about/towards'. Compare com 'indifferent'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'apathetic' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 505,
@@ -5097,7 +5097,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Artists are passionate about their creative work.",
     frase_exemplo_portugues: "Artistas são apaixonados por seu trabalho criativo.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'passionate': Fale sobre intensidade emocional, dedicação. Use 'passionate about'. Compare com 'enthusiastic'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'passionate' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   }
 ];
 
