@@ -5056,7 +5056,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "Despite setbacks, she remains optimistic about success.",
     frase_exemplo_portugues: "Apesar dos contratempos, ela permanece otimista sobre o sucesso.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/3824771/pexels-photo-3824771.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'optimistic' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -5066,7 +5066,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "Don't be pessimistic about your chances of success.",
     frase_exemplo_portugues: "Não seja pessimista sobre suas chances de sucesso.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/9486688/pexels-photo-9486688.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'pessimistic' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -5076,7 +5076,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "Good friends are sympathetic during difficult times.",
     frase_exemplo_portugues: "Bons amigos são compreensivos durante momentos difíceis.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/6764089/pexels-photo-6764089.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'sympathetic' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -5086,7 +5086,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "Students become apathetic when lessons are boring.",
     frase_exemplo_portugues: "Estudantes ficam apáticos quando as aulas são chatas.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/11178570/pexels-photo-11178570.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'apathetic' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -5096,7 +5096,7 @@ export const wordsDatabase: Word[] = [
     categoria: "emotions",
     frase_exemplo_ingles: "Artists are passionate about their creative work.",
     frase_exemplo_portugues: "Artistas são apaixonados por seu trabalho criativo.",
-    imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1600128/pexels-photo-1600128.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'passionate' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   }
 ];
