@@ -4154,7 +4154,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "Keep your credit cards safe in your wallet.",
     frase_exemplo_portugues: "Mantenha seus cartões de crédito seguros na sua carteira.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/915915/pexels-photo-915915.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'wallet' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4164,7 +4164,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "I lost my house key and can't get inside.",
     frase_exemplo_portugues: "Perdi a chave de casa e não consigo entrar.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/217316/pexels-photo-217316.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'key' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4174,7 +4174,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "Drink water from a reusable bottle to help environment.",
     frase_exemplo_portugues: "Beba água de uma garrafa reutilizável para ajudar o meio ambiente.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1000084/pexels-photo-1000084.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'bottle' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4184,7 +4184,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "Would you like a cup of coffee or tea?",
     frase_exemplo_portugues: "Você gostaria de uma xícara de café ou chá?",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1566308/pexels-photo-1566308.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'cup' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4194,7 +4194,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "Fill the glass with cold water from the refrigerator.",
     frase_exemplo_portugues: "Encha o copo com água gelada da geladeira.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/928854/pexels-photo-928854.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'glass' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4204,7 +4204,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "Serve the delicious meal on a clean white plate.",
     frase_exemplo_portugues: "Sirva a refeição deliciosa num prato branco limpo.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/563067/pexels-photo-563067.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'plate' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4214,7 +4214,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "Mix the ingredients thoroughly in a large bowl.",
     frase_exemplo_portugues: "Misture os ingredientes completamente numa tigela grande.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/951334/pexels-photo-951334.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'bowl' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4224,7 +4224,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "Use a spoon to stir the soup gently.",
     frase_exemplo_portugues: "Use uma colher para mexer a sopa suavemente.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/350417/pexels-photo-350417.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'spoon' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4234,7 +4234,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "Hold the fork in your left hand while cutting.",
     frase_exemplo_portugues: "Segure o garfo na mão esquerda enquanto corta.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/106346/pexels-photo-106346.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'fork' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4244,7 +4244,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "Be careful with the sharp knife when chopping vegetables.",
     frase_exemplo_portugues: "Tenha cuidado com a faca afiada ao cortar vegetais.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/952483/pexels-photo-952483.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'knife' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
