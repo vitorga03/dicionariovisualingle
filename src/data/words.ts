@@ -4454,7 +4454,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "Reduce plastic waste by using reusable containers.",
     frase_exemplo_portugues: "Reduza o desperdício de plástico usando recipientes reutilizáveis.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/2547565/pexels-photo-2547565.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'plastic' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4464,7 +4464,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "The metal frame provides strong support for the structure.",
     frase_exemplo_portugues: "A estrutura de metal fornece suporte forte para a construção.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/159298/gears-cogs-machine-machinery-159298.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'metal' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4474,7 +4474,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "Furniture made from solid wood lasts for generations.",
     frase_exemplo_portugues: "Móveis feitos de madeira maciça duram por gerações.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/172289/pexels-photo-172289.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'wood' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4484,7 +4484,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "Choose soft fabric for comfortable clothing.",
     frase_exemplo_portugues: "Escolha tecido macio para roupas confortáveis.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/7205803/pexels-photo-7205803.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'fabric' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4494,7 +4494,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "Genuine leather shoes are durable and comfortable.",
     frase_exemplo_portugues: "Sapatos de couro genuíno são duráveis e confortáveis.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/207300/pexels-photo-207300.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'leather' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4504,7 +4504,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "Cotton shirts are breathable and perfect for summer.",
     frase_exemplo_portugues: "Camisas de algodão são respiráveis e perfeitas para o verão.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1496610/pexels-photo-1496610.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'cotton' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4514,7 +4514,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "The elegant silk dress feels smooth against the skin.",
     frase_exemplo_portugues: "O vestido elegante de seda é macio contra a pele.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1475032/pexels-photo-1475032.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'silk' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4524,7 +4524,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "Warm wool sweaters keep you cozy in winter.",
     frase_exemplo_portugues: "Suéteres quentes de lã mantêm você aconchegado no inverno.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/845263/pexels-photo-845263.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'wool' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4534,7 +4534,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "The sparkling diamond ring symbolizes eternal love.",
     frase_exemplo_portugues: "O anel de diamante cintilante simboliza amor eterno.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/691046/pexels-photo-691046.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'diamond' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4544,7 +4544,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "Pure gold jewelry never tarnishes or loses its shine.",
     frase_exemplo_portugues: "Joias de ouro puro nunca mancham ou perdem o brilho.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/751374/pexels-photo-751374.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'gold' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
 
