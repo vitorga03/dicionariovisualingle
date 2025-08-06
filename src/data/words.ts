@@ -4354,7 +4354,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "Connect the electrical wire to the correct terminal.",
     frase_exemplo_portugues: "Conecte o fio elétrico ao terminal correto.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/442150/pexels-photo-442150.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'wire' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4364,7 +4364,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "Replace the old battery with a new one.",
     frase_exemplo_portugues: "Substitua a bateria velha por uma nova.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/518530/pexels-photo-518530.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'battery' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4374,7 +4374,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "Press the red button to start the machine.",
     frase_exemplo_portugues: "Aperte o botão vermelho para ligar a máquina.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/2777776/pexels-photo-2777776.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'button' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4384,7 +4384,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "The jacket zipper is stuck and won't close.",
     frase_exemplo_portugues: "O zíper da jaqueta está travado e não fecha.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/449524/pexels-photo-449524.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'zipper' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4394,7 +4394,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "Use strong thread to sew the fabric pieces together.",
     frase_exemplo_portugues: "Use linha forte para costurar as peças de tecido juntas.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1996035/pexels-photo-1996035.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'thread' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4404,7 +4404,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "Thread the needle carefully to avoid pricking your finger.",
     frase_exemplo_portugues: "Enfie a linha na agulha cuidadosamente para evitar furar o dedo.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/2564554/pexels-photo-2564554.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'needle' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4414,7 +4414,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "Cut the paper carefully with sharp scissors.",
     frase_exemplo_portugues: "Corte o papel cuidadosamente com uma tesoura afiada.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1319460/pexels-photo-1319460.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'scissors' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4424,7 +4424,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "Use tape to attach the poster to the wall.",
     frase_exemplo_portugues: "Use fita adesiva para colar o pôster na parede.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/4498136/pexels-photo-4498136.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'tape' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4434,7 +4434,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "Apply glue evenly to both surfaces before joining.",
     frase_exemplo_portugues: "Aplique cola uniformemente nas duas superfícies antes de juntar.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1999263/pexels-photo-1999263.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'glue' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4444,7 +4444,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "Erase the mistake with a clean rubber eraser.",
     frase_exemplo_portugues: "Apague o erro com uma borracha limpa.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/35202/eraser-office-supplies-office-office-accessories.jpg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'rubber' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
