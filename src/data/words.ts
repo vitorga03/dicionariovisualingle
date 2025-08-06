@@ -4657,7 +4657,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Parents worry about their children's safety constantly.",
     frase_exemplo_portugues: "Pais se preocupam constantemente com a segurança dos filhos.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'worried': Fale sobre ansiedade, cuidado. Use 'worried about'. Compare com 'concerned', 'anxious'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'worried' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 462,
@@ -4667,7 +4667,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "She feels proud of her academic achievements.",
     frase_exemplo_portugues: "Ela se sente orgulhosa de suas conquistas acadêmicas.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'proud': Fale sobre conquistas, autoestima. Use 'proud of'. Compare orgulho positivo vs. arrogância."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'proud' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 463,
@@ -4677,7 +4677,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "He felt embarrassed after making a mistake publicly.",
     frase_exemplo_portugues: "Ele se sentiu envergonhado depois de cometer um erro publicamente.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'embarrassed': Fale sobre situações constrangedoras. Use 'embarrassed about/by'. Compare com 'ashamed'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'embarassed' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 464,
@@ -4687,7 +4687,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Don't be jealous of other people's success.",
     frase_exemplo_portugues: "Não seja ciumento do sucesso de outras pessoas.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'jealous': Fale sobre inveja, relacionamentos. Use 'jealous of'. Compare com 'envious'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'jealous' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 465,
@@ -4697,7 +4697,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Moving to a new city can make you feel lonely.",
     frase_exemplo_portugues: "Mudar para uma cidade nova pode fazer você se sentir solitário.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'lonely': Fale sobre isolamento social. Compare 'lonely' (sentimento) com 'alone' (estado físico)."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'lonely' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 466,
@@ -4707,7 +4707,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "I'm grateful for all the help you've given me.",
     frase_exemplo_portugues: "Sou grato por toda a ajuda que você me deu.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'grateful': Fale sobre reconhecimento, gratidão. Use 'grateful for/to'. Compare com 'thankful'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'grateful' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 467,
@@ -4717,7 +4717,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Fans were disappointed when the concert was cancelled.",
     frase_exemplo_portugues: "Fãs ficaram desapontados quando o show foi cancelado.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'disappointed': Fale sobre expectativas não atendidas. Use 'disappointed in/with/by'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'disappointed' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 468,
@@ -4727,7 +4727,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Students get frustrated when they can't understand concepts.",
     frase_exemplo_portugues: "Estudantes ficam frustrados quando não conseguem entender conceitos.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'frustrated': Fale sobre obstáculos, dificuldades. Use 'frustrated with/by'. Compare com 'annoyed'."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'frustrated' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 469,
@@ -4737,7 +4737,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Vacation makes everyone feel relaxed and refreshed.",
     frase_exemplo_portugues: "Férias fazem todos se sentirem relaxados e renovados.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'relaxed': Fale sobre calma, descanso. Compare com 'calm', 'peaceful'. Atividades relaxantes."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'relaxed' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 470,
@@ -4747,7 +4747,7 @@ export const wordsDatabase: Word[] = [
     frase_exemplo_ingles: "Work deadlines make employees feel stressed and overwhelmed.",
     frase_exemplo_portugues: "Prazos de trabalho fazem funcionários se sentirem estressados e sobrecarregados.",
     imagem_url: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    prompt_pratica: "Pratique com 'stressed': Fale sobre pressão, ansiedade. Use 'stressed about/by'. Técnicas de gerenciamento de estresse."
+    prompt_pratica: "Me ajude a treinar o uso da palavra 'stressed' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
     id: 471,
