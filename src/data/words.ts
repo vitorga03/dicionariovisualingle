@@ -4054,7 +4054,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "I read an interesting book about space exploration.",
     frase_exemplo_portugues: "Eu li um livro interessante sobre exploração espacial.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/762687/pexels-photo-762687.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'book' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4064,7 +4064,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "Please use a blue pen to sign the document.",
     frase_exemplo_portugues: "Por favor, use uma caneta azul para assinar o documento.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/6143818/pexels-photo-6143818.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'pen' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4074,7 +4074,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "Students use pencils for math calculations and drawings.",
     frase_exemplo_portugues: "Estudantes usam lápis para cálculos matemáticos e desenhos.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/159752/pencil-office-design-creative-159752.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'pencil' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4084,7 +4084,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "Write your name clearly on the paper.",
     frase_exemplo_portugues: "Escreva seu nome claramente no papel.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/531844/pexels-photo-531844.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'paper' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4094,7 +4094,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "My computer helps me work efficiently from home.",
     frase_exemplo_portugues: "Meu computador me ajuda a trabalhar eficientemente de casa.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/792199/pexels-photo-792199.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'computer' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4104,7 +4104,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "My phone battery died during the important call.",
     frase_exemplo_portugues: "A bateria do meu telefone acabou durante a ligação importante.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'phone' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4114,7 +4114,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "She takes beautiful photos with her new camera.",
     frase_exemplo_portugues: "Ela tira fotos bonitas com sua câmera nova.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/243757/pexels-photo-243757.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'camera' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4124,7 +4124,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "His expensive watch shows the time in multiple zones.",
     frase_exemplo_portugues: "Seu relógio caro mostra a hora em múltiplos fusos horários.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'watch' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4134,7 +4134,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "The old clock in the tower chimes every hour.",
     frase_exemplo_portugues: "O relógio antigo na torre bate a cada hora.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1537268/pexels-photo-1537268.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'clock' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
@@ -4144,7 +4144,7 @@ export const wordsDatabase: Word[] = [
     categoria: "objects",
     frase_exemplo_ingles: "She carries her laptop in a leather bag.",
     frase_exemplo_portugues: "Ela carrega seu laptop numa bolsa de couro.",
-    imagem_url: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    imagem_url: "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg",
     prompt_pratica: "Me ajude a treinar o uso da palavra 'bag' em diferentes contextos. Crie frases, perguntas e respostas para eu praticar vocabulário e gramática com ela."
   },
   {
